@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f34cdffacf8fcd7",
+            "id": "bf36be2109043699",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Sunday, Aug 06, 2023 - Daily Note.md",
+                "file": "Daily/Monday, Aug 07, 2023 - Daily Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Sunday, Aug 06, 2023 - Daily Note.md",
+                "file": "Daily/Monday, Aug 07, 2023 - Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/Sunday, Aug 06, 2023 - Daily Note.md",
+                "file": "Daily/Monday, Aug 07, 2023 - Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/Sunday, Aug 06, 2023 - Daily Note.md"
+                "file": "Daily/Monday, Aug 07, 2023 - Daily Note.md"
               }
             }
           },
@@ -174,15 +174,15 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "1f34cdffacf8fcd7",
+  "active": "bf36be2109043699",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Daily/Sunday, Aug 06, 2023 - Daily Note.md",
     "PDF Exports/Sunday, Aug 06, 2023 - Daily Note.pdf",
     "PDF Exports",
     "New folder",
     "Daily/Monday, Aug 07, 2023 - Daily Note.md",
-    "Daily/Sunday, Aug 06, 2023 - Daily Note.md",
     "First note in Development.md",
-    "Untitled.md",
     "Projects/Lab Inventory App",
     "Projects/Tobias",
     "Untitled 1",
