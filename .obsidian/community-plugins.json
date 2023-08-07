@@ -12,5 +12,9 @@
   "tag-wrangler",
   "obsidian-icon-folder",
   "obsidian-annotator",
-  "obsidian-linter"
+  "obsidian-linter",
+  "no-tabs",
+  "obsidian-minimal-settings",
+  "obsidian-hider",
+  "obsidian-better-command-palette"
 ]

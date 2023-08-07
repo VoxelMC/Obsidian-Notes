@@ -1,4 +1,5 @@
 {
-  "accentColor": "",
-  "cssTheme": "Firefly"
+  "accentColor": "#fc62fe",
+  "cssTheme": "Minimal",
+  "theme": "obsidian"
 }
