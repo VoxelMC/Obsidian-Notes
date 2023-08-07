@@ -3,5 +3,14 @@
   "dataview",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-git",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "auto-note-mover",
+  "obsidian-new-bullet-with-time",
+  "obsidian-html-tags-autocomplete",
+  "various-complements",
+  "calendar",
+  "tag-wrangler",
+  "obsidian-icon-folder",
+  "obsidian-annotator",
+  "obsidian-linter"
 ]
