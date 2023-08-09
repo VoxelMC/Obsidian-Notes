@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7712b694eaddbf68",
+            "id": "07e31c99252b6737",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Tuesday, Aug 08, 2023 - Daily Note.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Tuesday, Aug 08, 2023 - Daily Note.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/Tuesday, Aug 08, 2023 - Daily Note.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/Tuesday, Aug 08, 2023 - Daily Note.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -175,10 +175,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "7712b694eaddbf68",
+  "active": "07e31c99252b6737",
   "lastOpenFiles": [
-    "Projects/Lab Inventory App/Untitled 1.md",
     "Daily/Tuesday, Aug 08, 2023 - Daily Note.md",
+    "conflict-files-obsidian-git.md",
+    "PDF Exports/Sunday, Aug 06, 2023 - Daily Note.pdf",
+    "PDF Exports",
+    "Daily/Monday, Aug 07, 2023 - Daily Note.md",
+    "Projects/Lab Inventory App/Untitled 1.md",
     "Daily/Sunday, Aug 06, 2023 - Daily Note.md",
     "First note in Development.md",
     "Untitled.md",

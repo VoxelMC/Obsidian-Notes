@@ -1,7 +1,13 @@
 {
-  "readableLineLength": false,
+  "readableLineLength": true,
   "showLineNumber": true,
   "showFrontmatter": false,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
