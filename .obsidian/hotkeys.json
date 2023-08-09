@@ -77,5 +77,14 @@
       ],
       "key": "ArrowRight"
     }
-  ]
+  ],
+  "file-explorer:new-file-in-current-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file": []
 }
