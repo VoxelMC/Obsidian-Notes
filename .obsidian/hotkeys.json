@@ -1,13 +1,5 @@
 {
-  "command-palette:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
-    }
-  ],
+  "command-palette:open": [],
   "daily-notes:goto-next": [
     {
       "modifiers": [
