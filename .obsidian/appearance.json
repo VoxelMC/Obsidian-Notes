@@ -1,5 +1,7 @@
 {
   "accentColor": "#fc62fe",
-  "cssTheme": "Minimal",
-  "theme": "obsidian"
+  "cssTheme": "Things",
+  "theme": "obsidian",
+  "baseFontSize": 21.5,
+  "monospaceFontFamily": "JetBrains Mono"
 }
