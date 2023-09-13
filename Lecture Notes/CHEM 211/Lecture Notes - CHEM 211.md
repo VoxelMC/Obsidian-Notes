@@ -1,7 +1,10 @@
-Class: #CHEM211
+Class Code: #CHEM211 
+***
+# Tuesday, Sep 12, 2023
+Topic: **General Statistics**
 ## Todo/Assignments
 
-- [ ] Bonus Marks for Excel Funny Time 🔼 ➕ 2023-09-12 
+- [ ] Bonus Marks for Excel Funny Time 🔼 ➕ 2023-09-12
 
 ## Notes
 
@@ -37,3 +40,4 @@ $s_{\bar{x}} = \frac{s}{\sqrt{n}}$
 #### % Relative Standard Deviation
 $\text{\% RSD} = \frac{s}{mean}\cdot 100$ 
 - Smartie factory doesn't try to put the same number of colours or smarties in the box.
+

@@ -1,5 +1,5 @@
-{{date}} - Lecture Notes
-Class: #
+# {{date}}
+
 ## Todo/Assignments
 
 - [ ] 

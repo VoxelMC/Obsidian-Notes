@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/BIOL 366/Tuesday, Sep 12, 2023 - Lecture Notes.md",
+                "file": "Daily/Tuesday, Sep 12, 2023 - Daily Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "a9b046cb4566026f",
@@ -86,7 +87,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lecture Notes/BIOL 366/Tuesday, Sep 12, 2023 - Lecture Notes.md",
+            "file": "Daily/Tuesday, Sep 12, 2023 - Daily Note.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lecture Notes/BIOL 366/Tuesday, Sep 12, 2023 - Lecture Notes.md",
+            "file": "Daily/Tuesday, Sep 12, 2023 - Daily Note.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +116,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lecture Notes/BIOL 366/Tuesday, Sep 12, 2023 - Lecture Notes.md"
+            "file": "Daily/Tuesday, Sep 12, 2023 - Daily Note.md"
           }
         }
       },
@@ -144,7 +145,13 @@
   },
   "active": "6de2760432e7ebb3",
   "lastOpenFiles": [
-    "Lecture Notes/BIOL 366/Tuesday, Sep 12, 2023 - Lecture Notes.md",
+    "Templates/Daily Note Template.md",
+    "Templates/Lecture Notes Template.md",
+    "Projects/Lab Inventory App/Locations.md",
+    "Projects/Lab Inventory App/Labcatr Project Information.md",
+    "PDF Exports/Sunday, Aug 06, 2023 - Daily Note.pdf",
+    "Lecture Notes/CHEM 211/Lecture Notes - CHEM 211.md",
+    "Lecture Notes/BIOL 366/Lecture Notes - BIOL 366.md",
     "Daily/Tuesday, Sep 12, 2023 - Daily Note.md",
     "Lecture Notes/BIOL 366"
   ]

@@ -1,4 +1,6 @@
-Class: #BIOL366
+Class Code: #BIOL366 
+*** 
+# Tuesday, Sep 12, 2023
 ## Todo/Assignments
 
 - [ ] 
