@@ -5,9 +5,7 @@ Topic: **General Statistics**
 ## Todo/Assignments
 
 - [ ] Bonus Marks for Excel Funny Time 🔼 ➕ 2023-09-12
-- [ ] Sample Task 📅 2023-09-18 ⏫ ➕ 2023-09-13
-
-
+- [ ] Tutorial Pre-...lab? 📅 2023-09-18 
 ## Notes
 
 #### Smarties

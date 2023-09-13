@@ -1,5 +1,4 @@
 [
-  "table-editor-obsidian",
   "dataview",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-git",
@@ -18,8 +17,9 @@
   "obsidian-hider",
   "obsidian-better-command-palette",
   "obsidian-file-cleaner",
-  "obsidian-graphviz",
   "quick-latex",
   "obsidian-style-settings",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-footnotes",
+  "hard-breaks"
 ]

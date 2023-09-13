@@ -1,0 +1,12 @@
+{
+  "shiba-theme-settings@@shiba-colors-theme-dark": "default-dark-theme",
+  "shiba-theme-settings@@shiba-colors-theme-light": "default-light-theme",
+  "shiba-theme-settings@@shiba-accent-style": true,
+  "shiba-theme-settings@@shib-transparent-setting-panel": false,
+  "shiba-theme-settings@@buttons-workspace-style": false,
+  "shiba-theme-settings@@image-zoom": true,
+  "shiba-theme-settings@@folder-style-change-options-colorful": "shiba-color-folder-title",
+  "shiba-theme-settings@@folder-style-change-options-colors-palette": "folder-colorful-three",
+  "shiba-theme-settings@@shib-colorful-folders-radius": 4,
+  "shiba-theme-settings@@shib-colorful-folders-opacity": 0.9
+}

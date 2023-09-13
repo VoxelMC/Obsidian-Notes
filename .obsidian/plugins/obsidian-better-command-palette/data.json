@@ -20,7 +20,7 @@
       "delay": 800
     }
   ],
-  "hotkeyStyle": "auto",
+  "hotkeyStyle": "windows",
   "createNewFileMod": "Mod",
   "createNewPaneMod": "Shift",
   "hiddenCommands": [],

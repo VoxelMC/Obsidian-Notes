@@ -2,6 +2,8 @@
   "accentColor": "#fc62fe",
   "cssTheme": "Shiba Inu",
   "theme": "obsidian",
-  "baseFontSize": 19.5,
-  "monospaceFontFamily": "JetBrains Mono"
+  "baseFontSize": 14,
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "Inter,Franklin Gothic,JetBrains Mono",
+  "interfaceFontFamily": "Inter"
 }
