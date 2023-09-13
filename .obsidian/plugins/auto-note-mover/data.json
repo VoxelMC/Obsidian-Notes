@@ -12,12 +12,13 @@
       "folder": "Lecture Notes/BIOC 412",
       "tag": "BIOC412",
       "pattern": ""
+    },
+    {
+      "folder": "Lecture Notes/BIOL 366",
+      "tag": "#BIOL366",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
-  "excluded_folder": [
-    {
-      "folder": ""
-    }
-  ]
+  "excluded_folder": []
 }
