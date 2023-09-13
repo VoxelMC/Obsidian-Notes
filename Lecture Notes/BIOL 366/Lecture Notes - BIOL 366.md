@@ -3,7 +3,7 @@ Class Code: #BIOL366
 # Tuesday, Sep 12, 2023
 ## Todo/Assignments
 
-- [ ] 
+N/A
 
 ## Notes
 
@@ -14,7 +14,7 @@ Addition on methyl groups.
 - Important in Growth and Development
 - Abnormal DNA Methylation $\rightarrow$ Diseases such as cancer 
 Animals: Mostly at $C5$ of C in CpG dinucleotides 
-Plants: Methylated at CpG CpHpG and CpHpH
+Plants: Methylated at CpG, CpHpG, and CpHpH
 - CG 24%
 - CHG 6.7%
 - CHH 1.7%
@@ -78,3 +78,4 @@ $\text{[DNA/RNA]}=\text{Extinction Coefficient} * OD_{260} * \text{Dilution}$
 
 $\text{[DNA]} = 50 * 0.010 * 100 = 0.05 \frac{mg}{mL}$ 
 so $0.005 \frac{mg}{mL}$
+

@@ -1,24 +1,33 @@
 {
-  "trigger_auto_manual": "Automatic",
+  "trigger_auto_manual": "Manual",
   "use_regex_to_check_for_tags": false,
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
       "folder": "Lecture Notes/CHEM 211",
-      "tag": "CHEM211",
+      "tag": "#CHEM211",
       "pattern": ""
     },
     {
       "folder": "Lecture Notes/BIOC 412",
-      "tag": "BIOC412",
+      "tag": "#BIOC412",
       "pattern": ""
     },
     {
       "folder": "Lecture Notes/BIOL 366",
       "tag": "#BIOL366",
       "pattern": ""
+    },
+    {
+      "folder": "Lecture Notes/ENGL 395B",
+      "tag": "#ENGL395B",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
-  "excluded_folder": []
+  "excluded_folder": [
+    {
+      "folder": ""
+    }
+  ]
 }
