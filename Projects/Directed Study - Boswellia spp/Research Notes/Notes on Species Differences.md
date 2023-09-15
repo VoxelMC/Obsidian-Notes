@@ -36,4 +36,4 @@ Native to Northern Somalia
 Much is sold to Saudi Arabia
 Paper: [^11]
 
-[^11]: [[Arabian and African Frankincense Trees F. Hepper]]
+[^11]: [[Arabian and African Frankincense Trees - F. Hepper]]

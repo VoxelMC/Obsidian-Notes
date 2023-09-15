@@ -1,9 +1,9 @@
 # {{date}}
-Topic: **...**
+###### Topic: **...**
 
 ## Todo/Assignments
 
-- [ ] 
+- [ ]
 
 ## Notes
 

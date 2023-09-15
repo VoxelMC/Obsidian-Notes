@@ -1,7 +1,7 @@
 # Tasks
 All available tasks from lecture notes are listed below.
 
-## CHEM211 
+## CHEM211
 ```dataviewjs
 const Tasks = dv.pages("#CHEM211").file.tasks;
 
@@ -47,6 +47,22 @@ dv.span("![progress](https://progress-bar.dev/" + percentage + "/?title=BIOC412&
 ```
 ```dataview
 task from #BIOC412
+```
+
+## BIOC425
+```dataviewjs
+const Tasks = dv.pages("#BIOC425").file.tasks;
+
+let CompletedTasks = Tasks.where(t => t.completed) || 0;
+let tryPercentage = (CompletedTasks.length / Tasks.length) * 100;
+let percentage = !Number.isNaN(tryPercentage) ? tryPercentage : 0; 
+
+dv.span("![progress](https://progress-bar.dev/" + percentage + "/?title=BIOC425&width=80" + ")" 
+);
+
+```
+```dataview
+task from #BIOC425
 ```
 
 ## ENGL395B
