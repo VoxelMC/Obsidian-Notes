@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Tuesday, Sep 12, 2023 - Daily Note.md",
+                "file": "Lecture Notes/ENGL 395B/Lecture Notes - ENGL 395B.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/Tuesday, Sep 12, 2023 - Daily Note.md",
+            "file": "Lecture Notes/ENGL 395B/Lecture Notes - ENGL 395B.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/Tuesday, Sep 12, 2023 - Daily Note.md",
+            "file": "Lecture Notes/ENGL 395B/Lecture Notes - ENGL 395B.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +116,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/Tuesday, Sep 12, 2023 - Daily Note.md"
+            "file": "Lecture Notes/ENGL 395B/Lecture Notes - ENGL 395B.md"
           }
         }
       },
@@ -133,9 +133,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
@@ -145,6 +145,8 @@
   },
   "active": "6de2760432e7ebb3",
   "lastOpenFiles": [
+    "Daily/Friday, Sep 15, 2023 - Daily Note.md",
+    "Daily/Tuesday, Sep 12, 2023 - Daily Note.md",
     "Templates/Daily Note Template.md",
     "Templates/Lecture Notes Template.md",
     "Projects/Lab Inventory App/Locations.md",
@@ -152,7 +154,6 @@
     "PDF Exports/Sunday, Aug 06, 2023 - Daily Note.pdf",
     "Lecture Notes/CHEM 211/Lecture Notes - CHEM 211.md",
     "Lecture Notes/BIOL 366/Lecture Notes - BIOL 366.md",
-    "Daily/Tuesday, Sep 12, 2023 - Daily Note.md",
     "Lecture Notes/BIOL 366"
   ]
 }

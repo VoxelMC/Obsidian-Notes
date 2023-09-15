@@ -40,21 +40,41 @@ On a movie by movie basis, it differs
 
 As a whole in the universe, as the Force is a fundamental natural axiom, you cannot separate the belief systems into an explicitly binary opposition. Every movie is **framed** in a dualistic system, but then does some active defiance of that - maintaining that the dualism is still a greater reason for the conflict.
 
+| The Rebellion                         | The Empire                           |
+| ------------------------------------- | ------------------------------------ |
+| Ship imagery rounder and softer       | Angular and sharp imagery            |
+| Sounds are softer                     | Sounds are sharp and screamy         |
+| Soldiers have a face                  | Faceless                             |
+| Colours are coded as white and bright | Colours are coded as dark            |
+| Emotion/care/life preservation        | Deadly and cold                      |
+| Humanized                             | Still, faceless and en masse         |
+| Organic and natural symbols           | Mechanical and technological symbols |
 
-| The Rebellion                         | The Empire                   |
-| ------------------------------------- | ---------------------------- |
-| Ship imagery rounder and softer       | Angular and sharp imagery    |
-| Sounds are softer                     | Sounds are sharp and screamy |
-| Soldiers have a face                  | Faceless                     |
-| Colours are coded as white and bright | Colours are coded as dark    |
+Jedi and Sith are one and the same, and can be bridged
+
+Rebellion and Empire are binary opposites, and will always be at odds as per their fundamental nature.
+
+#### *In media res* - Establishing Shot
+
+Star destroyer looms over the viewer;
+Starting in the middle of conflict;
+Big battle shop $\rightarrow$ Arms race allegory
 
 
 
 ### Hero and Myth in American Film
 
+`What vision does A New Hope offer?`
 
+Luke has been on the ranch forEVER. His whole life he has been doing one thing.
+Exemplified actively by Yoda in The Empire Strikes Back, Luke longs for adventure, and he gets it. Luke longs for a greater purpose.
 
+#### What is the Hero’s Journey and its Relation to Myth and Literature?
+
+Archetype - Reoccurring framework
+- Denotes narrative designs, patterns of action, character types, themes, and images which recur in a wide variety of works of literature, as well as in myths, dreams, and even social rituals[^1]
+[^1]: Abrams and Harpham 16
+
+- [ ] Write about archetypes and patterns i noticed in A New Hope, and TESB?
 ### What are *A New Hope* and *The Empire Strikes Back* Trying to Say?
-
-
 
