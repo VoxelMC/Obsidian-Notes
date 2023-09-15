@@ -45,7 +45,8 @@ $\text{\% RSD} = \frac{s}{mean}\cdot 100$
 Topic: **Statistical Significance**
 
 ## Todo/Assignments
-N/A
+
+- [ ] CheatGPT 📅 2023-09-15
 
 ## Notes
 
@@ -106,7 +107,7 @@ $P(T\le t)$ two-tailed
 Two-tailed $\rightarrow$ Normal Data for both datasets
 One-tailed $\rightarrow$ Experiment imposed a condition that forced the data in a direction.[^1]
 
-[^1]: Miller, Miller, & Miller p. 45
+[^1]: Miller, Miller & Miller p. 45
 
 Group of Results
 CI = $\bar{x}\pm t \cdot s$

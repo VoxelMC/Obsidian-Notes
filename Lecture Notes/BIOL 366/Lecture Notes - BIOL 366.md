@@ -85,11 +85,11 @@ so $0.005 \frac{mg}{mL}$
 
 ## Todo/Assignments
 
-- [ ] Hand In Remdesivir Assignment 
+- [x] Hand In Remdesivir Assignment
 
 ## Notes
 
-### Melting Temperature 
+### Melting Temperature
 $T_{m}$
 
 #### Factors Affecting $T_{m}$

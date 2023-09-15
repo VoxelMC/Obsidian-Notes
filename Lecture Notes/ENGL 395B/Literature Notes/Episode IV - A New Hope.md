@@ -9,6 +9,8 @@
 
 ## Binary Opposition
 
+Binary suns $\rightarrow$ poetic device for duality within himself
+
 ### Explicit
 #### Luke
 - Humble farm boy

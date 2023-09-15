@@ -1,4 +1,10 @@
-# Tasks
+# Tomorrow
+
+- [ ] Read 3 Biocatalysis Papers
+	- [x] Functional metagenomics FIRST ✅ 2023-09-15
+
+
+# Class Tasks
 All available tasks from lecture notes are listed below.
 
 ## CHEM211

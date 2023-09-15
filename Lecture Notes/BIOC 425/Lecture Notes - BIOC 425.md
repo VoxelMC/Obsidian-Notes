@@ -64,12 +64,18 @@ $\rightarrow$ resolve and purify a single enantiomer using enzyme.
 #### Chymotrypsin
 (I am not drawing this; in lecture slides)
 
-- [ ] Finish This Table
+- [x] Finish This Table ✅ 2023-09-14
 
-| Enantiomer | $K_M$ | ${k_cat}$ | CE   |  $E_{eq}$   |
-| ---------- | --- | ----- | ---- | --- |
-| S          | 50  | 0.46  | 9.2  |     |
-| R          | 150 | 0.08  | 0.5  |     |
-| S Amine    | 4   | 0.8   | 200  |     |
-| R Amine    | 7   | 0.005 | 0.71 |     |
+| Enantiomer | $K_M$ (mM) | ${k_{cat}}$ ($s^{-1}$) | CE ($M^{-1}s^{-1}$) | $E_{eq}$ |
+| ---------- | ---------- | ---------------------- | ------------------- | -------- |
+| S          | 50         | 0.46                   | 9.2                 | 18.4     |
+| R          | 150        | 0.08                   | 0.5                 | ^        |
+| S Amine    | 4          | 0.8                    | 200                 | 281.7    |
+| R Amine    | 7          | 0.005                  | 0.71                | ^        |
 
+```
+Questions for Next Lecture
+1. Why would reactive oxygen species affect the KrmI gene negatively?
+2. Why might KrmI not be able to add iodine to the 5-HT?
+3. The paper doesn't mention how Flavin is used in this reaction. What does it do? I know that flavin is usually involved in redox reactions.
+```

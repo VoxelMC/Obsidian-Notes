@@ -123,7 +123,7 @@ Pick treatments and use ML to predict the space between treatments.
 DesignExpert
 jmp Statistical Discovery
 R...?
-- [ ] DO R IN CHATGPT. JUST TRY IT.
+- [!] DO R IN CHATGPT. JUST TRY IT.
 
 Ellistat is FRUSTRATING AND HARD TO USE
 
