@@ -1,7 +1,7 @@
 I have registered a domain for my Lab Inventory App, the details of which can be found here: [[]]
 It is now named: **Labcatr**.
 
-I am hosting the project on Vercel, with [Labcatr.com](https://labcatr.com) 
+I am hosting the project on Vercel, with [Labcatr.com](https://labcatr.com)
 
 ---
 **Ideas from Discussion With Satanshu**
