@@ -3,6 +3,22 @@
 - [ ] Read 3 Biocatalysis Papers
 	- [x] Functional metagenomics FIRST ✅ 2023-09-15
 
+# Daily Notes
+```dataviewjs
+const Tasks = dv.pages("#Daily").file.tasks;
+
+let CompletedTasks = Tasks.where(t => t.completed) || 0;
+let tryPercentage = (CompletedTasks.length / Tasks.length) * 100;
+let percentage = !Number.isNaN(tryPercentage) ? tryPercentage : 0; 
+
+dv.span("![progress](https://progress-bar.dev/" + percentage + "/?title=Daily&width=80" + ")" 
+);
+
+```
+
+```dataview
+task from #Daily 
+```
 
 # Class Tasks
 All available tasks from lecture notes are listed below.
