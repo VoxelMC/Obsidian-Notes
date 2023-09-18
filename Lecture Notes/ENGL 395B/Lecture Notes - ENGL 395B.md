@@ -29,7 +29,7 @@ Our reading of binary oppositions using structuralism and deconstruction to high
 
 Possibly:
 - **Represented by The Force**
-	- 
+	-
 - **Represented by The Ideology**
 	- Two different Religions based on the single commonality of The Force
 

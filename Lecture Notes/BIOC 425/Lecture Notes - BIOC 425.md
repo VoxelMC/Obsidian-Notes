@@ -79,3 +79,49 @@ Questions for Next Lecture
 2. Why might KrmI not be able to add iodine to the 5-HT?
 3. The paper doesn't mention how Flavin is used in this reaction. What does it do? I know that flavin is usually involved in redox reactions.
 ```
+
+# Friday, Sep 15, 2023
+###### Topic: **Enzyme Discovery**
+Lecture Link: [Enzyme Discovery](https://canvas.ubc.ca/courses/126518/files/28538712?module_item_id=6151064)
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Where Do We Get Enzymes?
+
+Chemical Vendors!
+
+Gene Synthesis!
+- Recombinant Expression
+- Cell Free Protein Synthesis
+
+"I used all the malic enzyme"
+"what."
+
+Affinity to enzyme substrate can be used to make a specific chromatography matrix that selects by that affinity (ADP) 
+
+### Expression Vectors
+
+- Plasmid $\rightarrow$ 1-10kb insert
+- Cosmid $\rightarrow$ 25-35kb inserts
+	- Contains $\lambda$ cos DNA sequence 
+	- $\lambda$ virus packages any DNA with the cos sequence
+	- [ ] How are cosmids assembled?🔼 
+- Fosmid $\rightarrow$ 25-45kb inserts
+	- Uses F-factor and F-pilus
+	- Better than cosmid.
+- Bacterial Artificial Chromosome (100-200kb)
+
+### Metagenomics
+
+#### Sequence-Based Approach
+
+BLAST and Align into a Web Logo, find consensus sequences. (40% homology is a good number)
+Design primers based on the consensus sequences. :: Degenerate oligonucleotides
+
+#### Function-Based Approach
+
+Next lecture... [[#Wednesday, Sep 13, 2023]] (change)
