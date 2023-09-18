@@ -1,7 +1,7 @@
 ---
 annotation-target: file:///C:/Users/Trevor/Documents/Directed%20Study/Boswellia%20Papers/Hepper-ArabianAfricanFrankincense-1969.pdf
 ---
-#Boswellia #Paper/Boswellia
+#Boswellia #Boswellia/Papers
 
 >%%
 >```annotation-json

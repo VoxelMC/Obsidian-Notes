@@ -9,7 +9,7 @@
 		- In fact, one of the enzymes had quite unique requirements which will be a topic of future research in Dr. Dang's lab.
 	- By the end, I was able to find two enzymes which produced a total of 7 previously uncharacterized products
 		- Compounds did not match any standards.
-		- Why is this important? 
+		- Why is this important?
 			- Likely to be bioactive
 			- Similar to those already used in pharmaceutics
 
