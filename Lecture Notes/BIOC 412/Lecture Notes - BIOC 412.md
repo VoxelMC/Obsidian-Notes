@@ -198,3 +198,98 @@ Checking Isotopes
 			1. Fragment EVERYTHING
 			2. MSDIAL puts everything back together from fragments.
 
+# Monday, Sep 18, 2023
+###### Topic: **Metabolomics Workflow: Data Acquisition** Guest Lecture
+Lecture Link: N/A
+
+## Todo/Assignments
+
+- [ ] Assignment 2
+
+## Notes
+
+### TMIC - The Metabolomics Innovation Center
+
+- [ ] Check out TMIC web page
+hmdb
+Many services for doing stuff below.
+
+### NMR Metabolomics
+
+- Non-destructive
+- Robust instruments
+- Minimal instrument downtime
+- Simple sample prep
+- No chromatography 
+- No chemical derivatization
+- Spectra are predictable
+- Allows for precise structure determination
+- Inherently quantitative
+- Easily automated
+But...
+- Poorly sensitive
+- Modest metabolite coverage
+- Expensive instruments
+- Large instrument footprint
+- Needs cryogens (He (l))
+- Need to maintain
+- Small spectral databases
+- Few software resources
+
+- [ ] Read: NMR Metabolomics: A look ahead in Perspectives in Magnetic Resonance. David S. Wishart.
+
+### GCxGC-MS and GC-MS Metabolomics
+
+GCxGC-MS
+- Excellent sensitivity
+- Excellent separation
+- High peak capacity
+- 2D separation plane
+- More information per unit time
+But..
+- Limited availability of fast detectors
+- Maximum allowable operating temp
+- vast amount of data
+
+GC-MS
+- Sensitive
+- Excellent separation
+- Comprehensive DBs for identification
+But...
+- Requires derivatization to make things volatile
+	- E.g. Sugars $\rightarrow$ acetylation
+- Fit for non-targeted screening of volatile compounds
+
+### LC-MS Metabolomics
+
+Non-volatiles
+- Most popular
+- Lots of options for detectors, chromatography, derivatization, etc.
+- Targeted or untargeted
+- Less clear of pros and cons.
+	- Can get expensive
+
+### Metabolomics Toolbox
+
+#### Experimental Design
+Cassette model with complete randomized standards
+Sample replicates with automated data collection and integration
+
+#### Validated Metabolomics Methods
+- Validation Standards
+- Alignment Standards
+- Targeted Standards
+
+#### Statistical Models and Scripts
+- Eliminate false discoveries
+- Discover new metabolites
+
+#### Logical Algorithms and Biotransformations
+- Discover new pathways
+- Discover metabolomic responses
+- Discover metabolite families
+Murch is interested in this.
+
+[pnnl-comp-mass-spec.github.io](pnnl-comp-mass-spec.github.io) 
+
+

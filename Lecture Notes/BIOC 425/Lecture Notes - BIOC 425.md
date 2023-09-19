@@ -101,15 +101,15 @@ Gene Synthesis!
 "I used all the malic enzyme"
 "what."
 
-Affinity to enzyme substrate can be used to make a specific chromatography matrix that selects by that affinity (ADP) 
+Affinity to enzyme substrate can be used to make a specific chromatography matrix that selects by that affinity (ADP)
 
 ### Expression Vectors
 
 - Plasmid $\rightarrow$ 1-10kb insert
 - Cosmid $\rightarrow$ 25-35kb inserts
-	- Contains $\lambda$ cos DNA sequence 
+	- Contains $\lambda$ cos DNA sequence
 	- $\lambda$ virus packages any DNA with the cos sequence
-	- [ ] How are cosmids assembled?🔼 
+	- [ ] How are cosmids assembled?🔼
 - Fosmid $\rightarrow$ 25-45kb inserts
 	- Uses F-factor and F-pilus
 	- Better than cosmid.
@@ -124,4 +124,31 @@ Design primers based on the consensus sequences. :: Degenerate oligonucleotides
 
 #### Function-Based Approach
 
-Next lecture... [[#Wednesday, Sep 13, 2023]] (change)
+Next lecture... [[#Monday, Sep 18, 2023]] (change)
+
+# Monday, Sep 18, 2023
+###### Topic: **Continuing Enzyme Discovery**
+Lecture Link:
+
+## Todo/Assignments
+N/A
+
+## Notes
+
+#### Function-Based Approach cont.
+
+**Why is hit rate so low?**
+Start of translation is AUG in E. coli, but some bacteria can have different translation starts like GUG or something.
+
+There may also be secondary structures in mRNA at start site that the E. coli might not recognize, or otherwise.
+
+Diversity of library can skew or miss results. Typically a very low number of putative enzymes can actually be used as biocatalysts.
+
+*More:*
+- Gene orientation might be wrong!
+- Assay may have low throughput/signal noise ratio
+- Gene expression efficiency
+- Gene cluster may remain absent in absence of stimulus
+- Post-translational needs
+
+

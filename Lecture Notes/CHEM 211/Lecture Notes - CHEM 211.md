@@ -188,4 +188,5 @@ Data is likely the true value, and you hit it every single time.
 
 - [ ] Watch Video on Accuracy and Precision
 
-
+T-test
+If table value is less than calculated, there is bias
