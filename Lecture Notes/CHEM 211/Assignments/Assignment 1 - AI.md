@@ -1,9 +1,8 @@
-CHEM 211 - Wednesday, Sep 13, 2023
-Trevor Fox
+CHEM 211 - Wednesday, Sep 13, 2023 - Trevor Fox
 
 ### 1. What is the most surprising thing that you learned from the 2 readings?
 
-I was quite surprised by the stop-and-frisk policy adapted by some schools in response to GAI. I think that it is an appalling policy, and I couldn't imagine being subjected to it. Especially if someone is "caught" under false pretenses. I believe there are far better ways to handle the situation - if you MUST completely ban it.
+I was quite surprised by the stop-and-frisk policy adapted by some schools in response to GAI. I think that it is an appalling policy, and I couldn't imagine being subjected to it. Especially if someone is "caught" under false pretences. I believe there are far better ways to handle the situation - if you MUST completely ban it.
 
 ### 2. What do you think are the “Pros” of Artificial Intelligence for Chemists?
 

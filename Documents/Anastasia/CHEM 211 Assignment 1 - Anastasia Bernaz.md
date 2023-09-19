@@ -39,4 +39,4 @@ The field will likely change and adapt, it will be provided at a level playing-f
 
 AI can be used not just for scientific or educational purposes, but for fun and for art
 
--- picture of plant lab -- 
+-- picture of plant lab --
