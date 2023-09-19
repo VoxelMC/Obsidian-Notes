@@ -220,7 +220,7 @@ Many services for doing stuff below.
 - Robust instruments
 - Minimal instrument downtime
 - Simple sample prep
-- No chromatography 
+- No chromatography
 - No chemical derivatization
 - Spectra are predictable
 - Allows for precise structure determination
@@ -290,6 +290,6 @@ Sample replicates with automated data collection and integration
 - Discover metabolite families
 Murch is interested in this.
 
-[pnnl-comp-mass-spec.github.io](pnnl-comp-mass-spec.github.io) 
+[pnnl-comp-mass-spec.github.io](pnnl-comp-mass-spec.github.io)
 
 
