@@ -1,19 +1,14 @@
 {
   "dayCounts": {
-    "2023/8/18": 0
+    "2023/8/18": 0,
+    "2023/8/19": 339,
+    "2023/8/20": 1238,
+    "2023/8/21": 276
   },
   "todaysWordCount": {
-    "Documents/Anastasia/IURA Writeup.md": {
-      "initial": 585,
-      "current": 502
-    },
-    "Lecture Notes/CHEM 211/Assignments/Assignment 1 - AI.md": {
-      "initial": 698,
-      "current": 698
-    },
-    "Documents/Anastasia/CHEM 211 Assignment 1 - Anastasia Bernaz.md": {
-      "initial": 286,
-      "current": 286
+    "Lecture Notes/CHEM 211/Lecture Notes - CHEM 211.md": {
+      "initial": 1065,
+      "current": 1341
     }
   }
 }

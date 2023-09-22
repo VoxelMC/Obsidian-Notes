@@ -5,7 +5,7 @@ Topic: **General Statistics**
 ## Todo/Assignments
 
 - [ ] Bonus Marks for Excel Funny Time 🔼 ➕ 2023-09-12
-- [ ] Tutorial Pre-...lab? 📅 2023-09-18
+- [x] Tutorial Pre-...lab? 📅 2023-09-18 [completion:: Sep 19, 2023 @ 03:11 PM]
 ## Notes
 
 #### Smarties
@@ -46,7 +46,7 @@ Topic: **Statistical Significance**
 
 ## Todo/Assignments
 
-- [ ] CheatGPT 📅 2023-09-15
+- [x] CheatGPT 📅 2023-09-15 [completion:: Sep 19, 2023 @ 03:11 PM]
 
 ## Notes
 
@@ -190,3 +190,176 @@ Data is likely the true value, and you hit it every single time.
 
 T-test
 If table value is less than calculated, there is bias
+
+# Tuesday, Sep 19, 2023
+###### Topic: **...**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+Elizabeth Holmes
+
+908 Devices Mass Spec
+- Tiny paper mass spec
+
+To determine whether or not something falls into a category, you have to capture your error first. 
+
+### Types of Error [^4] [^5]  
+
+#### Gross Error
+
+So serious you abandon all hope and start again
+- Instrumental failure,
+- Lost sample,
+- Solvent contamination.
+
+#### Random Error
+
+Causes replicate results to differ - *Precision*.
+- Poor technique,
+- Human factors.
+
+### Systematic Error
+
+Causes all results to be incorrect in the same way - *Accuracy*.
+- Bias caused by human or instrument malfunction.
+
+[^4]: Miller, Miller & Miller pp. 3-11
+[^5]: Harris & Lucy, ch. 3, pp. 51-64
+
+### Experiments - Human Error
+
+All experiments have errors!
+
+Humans are not robots
+Robots are not perfect
+Instruments fail
+People make mistakes
+Stuff happens
+
+- [ ] Check overly honest methods on twitter.
+
+You have to try to control error
+- Spike some samples
+- Double up on samples
+- Send them blindly numbered
+So that you can check the quality and compare the data you get out for error.
+
+### Uncertainty
+
+Sum of each possible errors
+
+$$
+\sqrt{ \sum (error_{1})^{2} (error_{2})^{2} + \dots + (error_{n})^2}
+$$
+
+### Error Types 1 and 2
+
+#### Type 1
+
+False Negative Data
+Fail to detect something that is really there.
+
+#### Type 2
+
+False Positive Data
+Detect something that is really NOT there.
+
+### Can We Trust Scientists?
+
+**What does it mean to publish data?**
+Reviewer's word is law. Disagree? Retract and submit to another journal...
+
+- [ ] Check out Retraction Watch Database`
+
+**When is data bad?**
+The biggest error is people.
+
+Bad research is the *exception*. The vast majority of science is thorough and real. 
+Incentives are a point of contention.
+
+- [ ] In Defense of Plants Podcast by Melanie Jones on Mycorrhizal Fungi
+
+# Thursday, Sep 21, 2023
+###### Topic: **Chemometrics**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### How Do You Know if >2 Things are the Same or Different?
+
+#### 1 Group
+
+One way t-test to known value
+
+#### 2 Groups
+
+Two way paired t-test to compare to each other
+
+#### >2 Groups
+
+ANOVA
+
+### What is Variance?
+
+Square of the Standard Deviation.
+
+An **ANOVA** analyses the variances of many groups of data.
+
+#### Example:
+
+**Water, OJ, and Coffee**
+- Measure the minutes it takes someone to complete a task. (5 measurements).
+
+Theoretically, the data looks like 3 bell curves with different means with different SD/Variances
+
+Calculate the difference between the means, and calculate the area under the curve where the curves overlap with each other.
+
+There is variance within the groups, and variance between the groups.
+
+- [ ] Check lecture slides for ANOVA video.
+
+F = variance between groups/variance within groups.
+
+Which is F = difference between means / variance of the group.
+
+***Complete Randomized Block***
+
+|        | Men | Women |
+| ------ | --- | ----- |
+| Water  | 5   | 5     |
+| Juice  | 5   | 5     |
+| Coffee | 5   | 5     |
+
+Ideal Minimum of Replicates for ANOVA is 5
+
+One factor: Water, Juice, Coffee (One Variable)
+Two factor: Water, Juice, Coffee and Men, Women (Two Variables)
+
+- [ ] Miller, Miller & Miller Sec 3.8 to 3.10 and Ch 4.
+
+### Chemometrics
+
+**How to apply statistics in chemistry.**
+
+To begin, you need a hypothesis: Testable by Statistics, Based on Previous Knowledge
+
+Then, find a method, determine its limits, 
+
+#### Replicate Types
+Analytical - Different smarties all of the same colour
+Biological - DIfferent smarties all of different colour
+Pseudo - Analysis of several where each is different colour but colour doesnt matter
+Bulk - A bunch of smarties mushed into one big sample
+Sub - 
+
+- [ ] HPLC Schematic will be on midterm
+

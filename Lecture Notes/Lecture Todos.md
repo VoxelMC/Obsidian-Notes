@@ -2,6 +2,8 @@
 
 - [ ] Read 3 Biocatalysis Papers
 	- [x] Functional metagenomics FIRST ✅ 2023-09-15
+	- [ ] Enzyme Evolution
+	- [x] Metagenomics Halogenase ✅ 2023-09-19
 
 # Daily Notes
 ```dataviewjs

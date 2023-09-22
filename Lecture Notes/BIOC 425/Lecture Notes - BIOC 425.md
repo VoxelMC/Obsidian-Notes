@@ -5,7 +5,7 @@ Topic: **Finishing Stereoselectivity**
 
 ## Todo/Assignments
 
-- [ ] Remember My Blood Group
+- [x] Remember My Blood Group [completion:: Sep 19, 2023 @ 03:12 PM]
 
 ## Notes
 ### Definition
@@ -151,4 +151,51 @@ Diversity of library can skew or miss results. Typically a very low number of pu
 - Gene cluster may remain absent in absence of stimulus
 - Post-translational needs
 
+# Wednesday, Sep 20, 2023
+###### Topic: **More On Metagenomics + Enzyme Engineering**
+Lecture Link:
+
+## Todo/Assignments
+N/A
+
+## Notes
+
+### Sequence-Based Approach
+
+#### Halogenation
+
+Important for improving bioavailability and bioactivity of molecules.
+
+In chemistry, inserting a halogen at a specific, regioselective site is difficult and often uses noxious reagents, etc.
+
+Marine organisms like to halogenate things, I guess.
+
+*Keramamides*
+- Halohydroxytryptophan motifs
+
+- NRPS make cyclic polypeptides, and they are typically similar
+	- Should be in gene clusters, so new halogenases should be in gene clusters too.
+	- Amplify based off of NRPS degenerate primers, and look in the middle.
+
+### When To Use Either Approach
+
+**Function-Based**
+- Needs a high throughput way to screen the enzymatic functions.
+
+**Sequence-Based**
+- Need to be able to create the degenerate primers based off of known data.
+
+### Protein Engineering!
+
+**Why do it?**
+- Stabilize
+	- Temp, pH, solvents
+- Improved substrate reactivity
+- Expand substrate scope, impart catalytic promiscuity
+- Improve or invert stereoselectivity 
+- More...
+
+**How do it?**
+- Rational Design
+- Directed Evolution
 

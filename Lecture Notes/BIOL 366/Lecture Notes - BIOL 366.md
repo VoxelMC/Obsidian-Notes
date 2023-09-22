@@ -4,7 +4,7 @@ Class Code: #BIOL366
 ###### Topic: **DNA Modification and Synthesis**
 ## Todo/Assignments
 
-- [ ] Download Respondus on Both Laptops
+- [x] Download Respondus on Both Laptops [completion:: Sep 21, 2023 @ 01:16 AM]
 
 ## Notes
 

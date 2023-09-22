@@ -76,5 +76,92 @@ Archetype - Reoccurring framework
 [^1]: Abrams and Harpham 16
 
 - [ ] Write about archetypes and patterns i noticed in A New Hope, and TESB?
+
+
+# Wednesday, Sep 20, 2023
+###### Topic: **Continuation of The Hero's Journey + Identity Politics**
+Lecture Link:
+
+## Todo/Assignments
+
+
+## Notes
+
+### Jungian 
+
+- [ ] Read!!!
+
+**Depth psychology**: Patterns of experience since our very ancient ancestors which survive in the collective unconsciousness of the human
+
+### Archetypes
+
+[[#What is the Hero’s Journey and its Relation to Myth and Literature?]]
+
+**What did you notice in A New Hope and The Empire Strikes Back**?
+*Princess - Leia*
+- Damsel in distress?
+- Not really, she knows what she is doing and exactly how to do it.
+- Stands up to Vader right away. Definitely not afraid
+
+*Cowboy - Solo*
+
+
+#### First Introduction of the Jedi - Ben Kenobi
+
+Arthurian Merlin! 
+Don't really know or understand what he represents.
+
+### Why does Myth and Archetypal Criticism Matter?
+
+Helps us identify some key differences, meaning behind things.
+
+### Myth
+
+Creation/Re-creation Myths
+Coming of Age Myths
+Sacred Marriage Quest
+Father Quest
+The Grail Quest
+
+Star Wars features an interplay of several myths.
+
 ### What are *A New Hope* and *The Empire Strikes Back* Trying to Say?
 
+**Leia**
+Stereotypically feminine, but the story challenges this. 
+Costuming does this a lot!
+Actions too.
+
+**Solo**
+Does he know what he is doing?
+- Scene Analysis - Han is leaving and Luke is upset.
+	- Han can sometimes be an Anti-hero. Helpful but has his own agenda.
+	- However, Luke is the Arthurian hero.
+	- They are on different Hero paths, and they eventually cross over.
+
+### Quizzes
+
+- [ ] Complete Quiz 📅 2023-09-27
+
+There will be 15 to 20 questions from the texts and films.
+- Multiple Choice
+
+### More On Archetypes
+
+#### Where Do We See This in the Films?
+
+**Arthurian Myth** - Luke
+- Prominent part of medieval literature.
+- Mixture of fact and fiction within this legend.
+- Cyclical in nature
+	- Appears in Poetry and historical text.
+- Sir Thomas Mallory unified the cycles in a big old English text.
+	- Overlaps, contradictions, repetitions
+- Anachronized
+	- Blending of weapons, garb, armour, that stretch from ancient to contemporary times.
+- 
+
+**The Lone Ranger** - Han
+- 
+
+#### 

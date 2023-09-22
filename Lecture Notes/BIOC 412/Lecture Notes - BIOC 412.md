@@ -5,7 +5,7 @@ Topic: **Data Sets**
 
 ## Todo/Assignments
 
-- [ ] Look at Assignment Part 2
+- [x] Look at Assignment Part 2 ✅ 2023-09-19
 - [ ] Ask Dr. Murch about her Turkish Coffee
 
 ## Notes
@@ -123,7 +123,7 @@ Pick treatments and use ML to predict the space between treatments.
 DesignExpert
 jmp Statistical Discovery
 R...?
-- [!] DO R IN CHATGPT. JUST TRY IT.
+- [ ] DO R IN CHATGPT. JUST TRY IT.
 
 Ellistat is FRUSTRATING AND HARD TO USE
 
@@ -204,13 +204,14 @@ Lecture Link: N/A
 
 ## Todo/Assignments
 
-- [ ] Assignment 2
+- [ ] Assignment 2 📅 2023-09-27
 
 ## Notes
 
 ### TMIC - The Metabolomics Innovation Center
 
 - [ ] Check out TMIC web page
+
 hmdb
 Many services for doing stuff below.
 
@@ -290,6 +291,159 @@ Sample replicates with automated data collection and integration
 - Discover metabolite families
 Murch is interested in this.
 
-[pnnl-comp-mass-spec.github.io](pnnl-comp-mass-spec.github.io)
+[pnnl-comp-mass-spec.github.io](pnnl-comp-mass-spec.github.io) 
+
+# Wednesday, Sep 20, 2023
+###### Topic: **dd**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+Guest Lecture from Concordia on Friday. Metabolomics in the medical system. 1pm!!! Be there!!!
+
+### Case Study: Thidiazuron (TDZ)
+
+TDZ is a Herbicide
+- Sprayed on cotton fields
+- Chemically synthesized
+	- Diurea derivative (thiadiazole and phenyl)
+- All the leaves fall off the plants
+- Plant growth regulator
+- Mediator of endogenous plant growth regulators
+- Sold as DROPP
+	- Made cotton cheap!
+	- Sprayed 5 days before harvest
+	- Leaves drop in 3 days
+		- Unique to Malvaceae
+	- Leaves are green and turgid
+
+Many papers published
+- *In vivo* propagation
+	- Cotton defoliations
+	- Bud breaking of apple trees
+	- Greenhouse regeneration
+- *In vitro* propagation
+	- Organogenesis
+	- Somatic embryogenesis
+		- Basically budding, African violet.
+			- Murch part of breeding program.
+			- Horsters greenhouse in Ontario.
+			- Undifferentiation from somatic cell, rearranges its identity, and redifferentiates into an embryo.
+
+FT-MS: Fourier Transform MS
+- Quadropole
+- Detector collects all signals off of very long poles
+- Math uses FFT to transform signal to *m/z*s
+- Developed by Comisarow M. was from UBC Vancouver - Fourier transform ion cyclotron resonance spectroscopy. He invented it..
+- UVIC has a 14T
+- Custom built instruments
+
+#### Hypotheses: 
+
+##### Thidiazuron forms oligomers in solutions and plant tissues.
+
+Obtained m/z to 6 decimal places, highest you can get!
+- Vast majority of the time you don't have a separation system before collection.
+- You can predict a formula from deconvolution. How?
+	- 19774 lines of data
+		- 3 modes and 3 extractions
+			- +, -, neutral modes
+			- EtOH, Water, Hexanes
+			- 9 Treatments
+		- 2 Replicates
+			- 3 treatments
+			- 6 samples
+			- $15,000
+	- **Deconvoluting m/z Signals**
+		- Prediction algorithms
+		- You really need at least 4 decimals to tell things apart.
+
+TDZ Oligomers in stock solutions
+- Old solution worked better than a brand new solution.
+- Murch Review 1997
+	- 220, 440, 660, 880, 1100, 1320 peaks
+- Diels-Alder!!!
+	- Diene and Dienophile
+- Tetramer is very structural, maybe it is docking specifically somewhere and doing something.
+	- Monomer is really not that active.
+
+##### Thidiazuron is metabolized by plant cells to release bioavailable sulfur and nitrogen.
+
+Looking at breakdown products, there are compounds that could give N or S.
+Glutathione is higher in lower [TMZ] treatment.
+
+##### TDZ increases uptake and catabolism of 5C and 6C sugars from the culture medium.
+
+Holds the glucose transporter open sterically.
+(Slide | Gray dots decreased, pink dots increased).
+- Investigate pathway increases
+- TMD changes how plants move sugars.
+- Shut down chlorophyll metabolism; porphyrin.
+
+Mummichog vs. GSEA
+
+##### TDZ forms conjugates with molecules in plant cells.
+
+Look at slides.
+
+##### TDZ inhibits biosynthesis of diterpene-derived metabolites and enhances synthesis of sesquiterpenes and triterpenes.
+
+Growth regulators
+- Absiscic acid decreased completely!
+	- Is responsible for leaves staying on
+
+##### TDZ Affects the Shikimate Pathway
+
+Kynurenine stuff
+- Oxidation product of tryptophan
 
 
+#### On TDZ
+
+~4.5 million kg of TDZ used per year IN THE US
+- We barely know anything about it
+- It does a lot in plants
+- What does it do in us?
+- We spray on:
+	- Apples (Bloop),
+	- Canola, 
+	- Cotton,
+	- Pears (Bloom).
+
+#### Purpose
+
+We will be making something just like this. 
+- [ ] Double check the case study slides
+
+### Assignment 1, Part B
+
+How to count features:
+- Count signals in each column (treatment across replicates).
+
+Add and subtract things that enzymes can do.
+Pick a molecule, and check out how it is affected.
+- Look for its modification
+
+- [ ] Make a script to add and subtract masses to stuff
+
+Enzymes are super simple. They do serial things - add or take *something*.
+- Predictable by change in mass: ($\pm$)
+	- NH2
+	- Carboxy
+	- Acetyl
+	- Proton
+	- Hydroxy
+	- Glucose
+	- 
+- Isomerization can be looked at using same mass at different retention times.
+
+- [ ] Look at Wikipathways or Kegg for pathways
+- [ ] Actually look at the data!!!
+
+### NMR Based
+
+Shipley sometime soon.
