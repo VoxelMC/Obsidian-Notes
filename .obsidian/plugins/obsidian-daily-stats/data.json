@@ -3,12 +3,17 @@
     "2023/8/18": 0,
     "2023/8/19": 339,
     "2023/8/20": 1238,
-    "2023/8/21": 276
+    "2023/8/21": 282,
+    "2023/8/22": 344
   },
   "todaysWordCount": {
-    "Lecture Notes/CHEM 211/Lecture Notes - CHEM 211.md": {
-      "initial": 1065,
-      "current": 1341
+    "Lecture Notes/ENGL 395B/Lecture Notes - ENGL 395B.md": {
+      "initial": 788,
+      "current": 891
+    },
+    "Lecture Notes/BIOC 425/Lecture Notes - BIOC 425.md": {
+      "initial": 835,
+      "current": 1076
     }
   }
 }

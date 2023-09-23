@@ -161,7 +161,38 @@ There will be 15 to 20 questions from the texts and films.
 	- Blending of weapons, garb, armour, that stretch from ancient to contemporary times.
 - 
 
-**The Lone Ranger** - Han
-- 
+# Friday, Sep 22, 2023
+###### Topic: **Western Mythology**
+Lecture Link:
 
-#### 
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Even More On Archetypes
+
+**The Lone Ranger** - Han
+- Indigenous partner
+	- Power dynamic
+
+### The Shadow
+
+Vader is a warrior of the light fallen to evil, like the archangel.
+
+### Politics
+
+Star Wars presents "otherness" all the time. 
+
+**Phenomenology**
+The practice of awareness without prior assumptions.
+We know the world through our bodies.
+
+**Mind-Body Dualism**
+Traced back to Plato
+Also Rene Descartes
+Non human animals are no more than machines that are made of flesh.
+Jean-Paul Sartre $\rightarrow$ We are simultaneously being for self and of self.
+*Yoda says we are more than our crude matter.*
+

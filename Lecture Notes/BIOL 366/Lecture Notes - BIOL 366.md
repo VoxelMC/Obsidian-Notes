@@ -102,3 +102,13 @@ $T_{m}$
 	- More BPs
 - Modifications
 
+# Thursday, Sep 21, 2023
+###### Topic: **Sequencing Methods - 2nd and 3rd Generation**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+

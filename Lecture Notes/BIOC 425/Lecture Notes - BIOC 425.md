@@ -199,3 +199,65 @@ Marine organisms like to halogenate things, I guess.
 - Rational Design
 - Directed Evolution
 
+# Friday, Sep 22, 2023
+###### Topic: **Error Prone PCR**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ] Problem Set 📅 2023-09-26 
+
+## Notes
+
+### Producing Errors in PCR
+- Create sequence diversity by random point mutagenesis
+- Mutation rate adjusted to one to two amino acid substitutions per gene
+	- Skew concentration of dNTPs
+	- Introduce $\text{Mn}^{2+}$ instead of $\text{Mg}^{2+}$
+
+| Substitutions | Number of Variants |
+| ------------- | ------------------ |
+| 1             | 3800               |
+| 2             | 7 million          |
+| 3             | 9 billion          |
+| 4             | 8 trillion    ff   |
+| 5             | 6 quadrillion      |
+
+Spontaneous mutations occur with frequency of 10^-10 to 10^-9 of wrongly incorporated nt/bp per cell division.
+
+Goal: 1-10 nt mutations per 1000 bp.
+
+Minimize bias by making multiple libraries using different polymerases.
+
+Incremental changes in protein activity.
+
+#### Example: Single Point Mutations
+Changing one base, what could these amino acids become?
+
+##### Serine (UCN)
+|         | **1st Base**  | **2nd Base**                  | **3rd Base** |
+| ------- | ------------- | ----------------------------- | ------------ |
+| *Codon* | ACN, GCN, CCN | UGN, UUN, UAN                 | UCN          |
+| *AAs*   | Thr, Ala, Pro | Cys, Trp, Phe, Leu, Tyr, Stop | Ser          |
+| *#*     | 3             | 5 + Stop                      | 1            |
+Leaves out the charged amino acids. Doesn't dramatically change the functionality.
+
+##### Valine (GUN)
+|       | **1st Base**           | **2nd Base**           | **3rd Base** |
+| ----- | ------------------ | ------------------ | -------- |
+| *Codon* | CUN, AUN, UUN      | GAN, GCN, GGN      | GUN      |
+| *AAs*   | Leu, Ile, Met, Phe | Asp, Glu, Ala, Gly | Val      |
+| *#*     | 4                  | 4                  | 1        |
+
+Degeneracy means that 6 of possible 19 amino acid substitutions are possible (one nucleotide change).
+
+To access codons for other amino acids either two or three point mutations are required.
+
+- [ ] Life or death: could you destroy function on purpose, then work from there?
+
+### Frances Arnold
+
+***Engineer***
+**Nobel Prize for Chemistry in 2018**
+
+

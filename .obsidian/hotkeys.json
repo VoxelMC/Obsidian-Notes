@@ -106,5 +106,26 @@
       ],
       "key": "E"
     }
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "table-editor-obsidian:format-table": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
   ]
 }
