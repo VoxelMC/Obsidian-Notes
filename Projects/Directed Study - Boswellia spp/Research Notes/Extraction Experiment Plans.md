@@ -112,3 +112,4 @@ In theory, the system should take into account different starting masses of comp
 - Extraction will be completed using normal solvent, and dried down to be resuspended in deuterated solvent.
 	- This may introduce some error due to oxidation of the dissolved products.
 	- Basically, do we extract in normal or deuterated solvent?
+
