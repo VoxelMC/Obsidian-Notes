@@ -4,16 +4,13 @@
     "2023/8/19": 339,
     "2023/8/20": 1238,
     "2023/8/21": 282,
-    "2023/8/22": 344
+    "2023/8/22": 344,
+    "2023/8/23": 546
   },
   "todaysWordCount": {
-    "Lecture Notes/ENGL 395B/Lecture Notes - ENGL 395B.md": {
-      "initial": 788,
-      "current": 891
-    },
-    "Lecture Notes/BIOC 425/Lecture Notes - BIOC 425.md": {
-      "initial": 835,
-      "current": 1076
+    "Projects/Directed Study - Boswellia spp/Research Notes/Extraction Experiment Plans.md": {
+      "initial": 296,
+      "current": 842
     }
   }
 }
