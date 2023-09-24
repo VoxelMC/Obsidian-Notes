@@ -1,3 +1,7 @@
+```
+Let’s spend this week doing some planning.  I’ve attached a couple of documents that Tom put together on his initial work on Boswellia samples.  I would like to see the solvent testing have a bit more repeats so that we can make real calls that are not based on sample to sample variance.  Take a good read through the attached, then pitch me an experimental design that will help us design an efficient and effective extraction.  When you have something put together we can sit down and do a solid go-through.
+```
+
 ## Previous Extraction
 
 ### Notes
@@ -7,7 +11,12 @@
 - 3 mL of solvent used. 
 - Sonication and vortexing treatments.
 - Obtained samples of similar mass.
-- 
+
+#### Block Design
+
+|     | MeOH | MeOH | CHCl3 | CHCl3 |
+| --- | ---- | ----- |
+|     |      |       |
 
 ### Pros and Cons
 

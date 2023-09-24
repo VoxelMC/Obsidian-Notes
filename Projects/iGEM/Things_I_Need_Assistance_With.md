@@ -1,0 +1,25 @@
+- Navigation Bar
+	- Need to finalize the icon vectors and colours for each dropdown option.
+	- Also need someone to go through and finalize the descriptions of each option. Here are the parameters:
+		- The maximum length of the description **CANNOT** exceed 30 characters. I have designed the navigation bar to automatically take only the first 25 characters and add a `'...'` at the end should the description text exceed that length. Here is an example:
+			- Example A: `Hello World`: This text 11 characters long and will be fully displayed.
+			- Example B: `This is a wonderful day to go for a walk`: This text is 40 characters long and therefore will be cut to the following: `This is a wonderful day t...`.
+	- Resources to help do this:
+		- [Coolors](https://coolors.co/afd2e9-9d96b8-9a7197-886176-7c5869) : A colour palette generator.
+		- [SVGRepo](https://www.svgrepo.com/): Open-licensed SVG Vector and Icons library.
+		- [Figma](https://www.figma.com/file/zq9njaYyyakBQYFSpAgaBc/iGEM-Wiki?type=design&node-id=0%3A1&mode=design&t=PXFodfickse4BvYo-1): Prototyping tool. I designed the current navigation bar in its entirety here. Feel free to use this to test out your designs.
+- Hero Header Backgrounds
+	- Need someone to find good quality background images for most (if not all) hero header on different pages.
+	- Currently only one image is being used repeatedly.
+	- Resources to help:
+		- [Pexels](https://www.pexels.com/search/bee/): A open-license website for photos. (98% sure 👀)
+		- [Unsplash](https://unsplash.com): Same thing as above.
+	- Important Notes:
+		- Please make sure to get images with a **high resolution**. Remember these images will be stretched to cover the entire header. If they have a poor resolution, at the table or desktop screen sizes (if not earlier), they will look pixelated. 
+- Content.
+- iGEMer's Ideas
+	- Diego
+		- Assets for the honey
+- Styling for the Bibliography
+- Return to Top Button
+- Blog 
