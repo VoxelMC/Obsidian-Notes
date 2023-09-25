@@ -5,12 +5,21 @@
     "2023/8/20": 1238,
     "2023/8/21": 282,
     "2023/8/22": 344,
-    "2023/8/23": 546
+    "2023/8/23": 546,
+    "2023/8/24": 756
   },
   "todaysWordCount": {
-    "Projects/Directed Study - Boswellia spp/Research Notes/Extraction Experiment Plans.md": {
-      "initial": 296,
-      "current": 842
+    "Lecture Notes/BIOL 366/Tests/Midterm 1 Notes.md": {
+      "initial": 0,
+      "current": 724
+    },
+    "Lecture Notes/BIOL 366/Lecture Notes - BIOL 366.md": {
+      "initial": 362,
+      "current": 394
+    },
+    "Lecture Notes/BIOC 425/Lecture Notes - BIOC 425.md": {
+      "initial": 1077,
+      "current": 1076
     }
   }
 }

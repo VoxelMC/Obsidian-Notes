@@ -10,7 +10,7 @@ Class Code: #BIOL366
 
 ### Gene Expression Control
 #### Methylation
-Addition on methyl groups.
+**Addition of methyl groups.**
 - Important in chromosome stability and gene expression.
 - Important in Growth and Development
 - Abnormal DNA Methylation $\rightarrow$ Diseases such as cancer
@@ -19,6 +19,12 @@ Plants: Methylated at CpG, CpHpG, and CpHpH
 - CG 24%
 - CHG 6.7%
 - CHH 1.7%
+
+**Methylation can also occur on RNA**
+- O-methylation of the 2' OH of uridine.
+	- Idk what this does.
+- N-methylation of the C6 amino group of adenine.
+	- Affects mRNA production, stability, and translation.
 
 ### DNA Polymerases
 Elongate in the 5’ $\rightarrow$ 3’ direction
