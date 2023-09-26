@@ -447,3 +447,156 @@ Enzymes are super simple. They do serial things - add or take *something*.
 ### NMR Based
 
 Shipley sometime soon.
+
+# Monday, Sep 25, 2023
+###### Topic: **SOmething**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ] FINISH THE ASSIGNMENT
+
+## Notes
+
+### For Assignment 1 Part B
+
+Grubbs or CI
+Really go over data quality 
+Allocation of features by treatment Fig 2 or 1 (1 would be experimental design).
+Venn diagram
+- Intersection of features per treatment
+
+What does the data really mean?
+- an individual molecule present at some point.
+	- m/z
+		- molecular identity
+	- retention time
+		- how long it took to get through the column and the ToF to the detector.
+
+Reverse phase on ToF.
+
+### What is m/z?
+
++ve Mode makes +ve things go through the MS.
+real mass is -1 proton.
+
++ve mode add a proton
+-ve mode remove a proton
+
+### Exporting Data from Mass Spectrometers
+
+Centroid Data vs. Continuous Data.
+
+Centroid for Isotope comparison
+Continuous for Peak comparison.
+
+### Cannabis
+
+White Widow is the worlds most generic cannabis.
+
+Big Bud 1 through 5.
+
+Individual seeds grew at different heights.
+
+White widow is the control.
+
+Plant 4 is weird.
+- Eliminate it if you want.
+
+BEH C18 column -> reverse phase (hydrophobic stays, philic goes)
+- Eluting with Acetonitrile and acetic acid.
+
+Data Independent Acquisition 
+- EVERY FEATURE.
+
+CSV is constant.
+
+Pathway mapping tools.
+- -> Feature to Feature
+
+### MZmine3
+
+Pick different confidence levels
+Think about ion mode
+
+mzmine.github.io
+
+Can handle proprietary software.
+
+Not very good stats, do it in other stuff.
+
+Export to CSV. :)
+
+Import Raw Data.
+**mzML in centroid**
+**raw files in thermo**
+
+extract to csv
+
+Mass Detection
+Merge raw data from all files into one
+- Suggest merging
+
+Feature Detection
+- **look at all the stuff.**.
+
+End all is excel
+
+Play with settings for a while
+
+Make it into a job.
+
+Visualization -> Histogram
+- Feature intensity plot
+- Spectra tree
+- Isotope pattern preview
+
+***There's a wizard***
+
+Sample metadata
+-> Information about how the experiment is run.
+
+*I want to see the differences between all the plants and plant 4*
+
+- [ ] Add metadata to mzmine stuff.
+
+Zoom in on baseline
+How do i want it to look like
+Pick a number for where to set the baseline
+Everything below it no longer exists.
+
+Check in more than one sample $\uparrow$
+
+Create a mass list (highlight all, go to mass detection)
+Polarity +ve mode
+Set filters and scan types, exact mass.
+- DIA data -> pick all scan types.
+- Orbi -> Exact Mass
+- Centroid -> Centroid
+Look through scans to see if noise is reasonable.
+Wait
+
+LC-MS -> ADAP chromatogram builder
+- Min # of consecutive scans that must have an m/z present
+- Dependent on scan speed and chromatography settings
+- Min 4-5
+- Examine raw chromatograms to see min number of data points in smallest width peak
+- Look at replicates that are comparable.
+- Scan to scan
+	- Orbi -> 0.002-0.005 m/z
+		- 5-10ppm
+	- TOF -> 0.005 m/z
+		- d
+- Suffix => date_ID
+- Artificial groups happen if m/z and time are too close.
+	- Tends to lose isomers, other things that are too close together.
+	- Uses S/N
+		- S/N does not matter that much, but important to discuss it in a paper.
+
+Alignments
+Baseline Corrections
+
+Play around!!!
+
+**We will also do MSDial, and maybe MSFinder**.
+

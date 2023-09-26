@@ -255,9 +255,42 @@ To access codons for other amino acids either two or three point mutations are r
 
 - [ ] Life or death: could you destroy function on purpose, then work from there?
 
-### Frances Arnold
+
+# Monday, Sep 25, 2023
+###### Topic: **DNA Shuffling Mutagenesis**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Frances Arnold - DNA Shuffling
 
 ***Engineer***
 **Nobel Prize for Chemistry in 2018**
 
+Randomization by recombinance.
+Put homologous genes together, recombine, screen, recombine, screen...
+Larger access to sequence space than epPCR.
 
+### How to Shuffle Genes
+
+Low concentration of gene (1-0.1ng per 50$\mu$L)
+Primers are more (100ng per $\mu$L)
+**This is just PCR**.
+
+You use DNAse 1 to fragment the DNA.
+Then, PCR without oligos to do some PCR recombination.
+Average of 1-4 crossovers.
+THEN you add fwd and rev primers so you only get full length transcripts.
+
+Requires high level of sequence identity!
+
+Its like PCR it has to anneal enough to be extended.
+
+### StEP
+
+Crazy, wacky, hate it.
+PCR with super short annealing and extension.
