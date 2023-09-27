@@ -7,7 +7,7 @@ Topic: **The Hero, Myth, and the 20th Century**
 
 - [x] Read prescribed reading #1 ✅ 2023-09-15
 - [x] Read prescribed reading #2.1 ✅ 2023-09-15
-- [ ] Read prescribed reading #2.2
+- [x] Read prescribed reading #2.2 ✅ 2023-09-27
 
 ## Notes
 
@@ -75,7 +75,7 @@ Archetype - Reoccurring framework
 - Denotes narrative designs, patterns of action, character types, themes, and images which recur in a wide variety of works of literature, as well as in myths, dreams, and even social rituals[^1]
 [^1]: Abrams and Harpham 16
 
-- [ ] Write about archetypes and patterns i noticed in A New Hope, and TESB?
+- [x] Write about archetypes and patterns i noticed in A New Hope, and TESB? ✅ 2023-09-27
 
 
 # Wednesday, Sep 20, 2023
@@ -195,4 +195,52 @@ Also Rene Descartes
 Non human animals are no more than machines that are made of flesh.
 Jean-Paul Sartre $\rightarrow$ We are simultaneously being for self and of self.
 *Yoda says we are more than our crude matter.*
+
+# Wednesday, Sep 27, 2023
+###### Topic: **Bodies**
+Lecture Link:
+
+## Todo/Assignments
+
+## Notes
+
+### Identity
+
+#### Who gets to be the hero?
+
+Often straight white males were portrayed as the American Hero.
+Cultural shortcuts lead to otherness. 
+Star Wars represents a lot about identity politics. 
+
+### Mind-Body Dichotomy
+
+Sartre - Understanding of our world is through our body. 
+
+**McGann** critiques Yoda's assertion that "we are more than crude matter". 
+- Yoda wanted Luke to think beyond his body, and that with and though his body, he can feel the luminous light throughout.
+- Phenomenology - Yoda is actually saying that he doesn't want Luke to think of himself as a strong body, but rather one that is connected to the world.
+
+The body is what the force connects to, it *is* the world. 
+Does this challenge Mind-Body Dualism?
+
+Morality is represented in film in visual form. 
+- We learn about characters and learn about assumptions about those with certain bodies.
+
+### Mise-en-Scene
+
+The Empire is cold, sharp, mechanical, sterile, metallic.
+The Rebels are round, warm, lighter, brighter, natural, diverse.
+
+Discuss the Mise-en-Scene of Jabba's Palace
+
+| Jabba       | Bodies      |
+| ----------- | ----------- |
+| Mobstery    | Many Shapes |
+| Mucky       | Brute Power |
+| Lawless     |             |
+| No Humanity |             |
+| Exotic      |             |
+| Lavishing   |             |
+| Owned       |             |
+
 

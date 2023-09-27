@@ -6,20 +6,17 @@
     "2023/8/21": 282,
     "2023/8/22": 344,
     "2023/8/25": 629,
-    "2023/8/26": 344
+    "2023/8/26": 344,
+    "2023/8/27": 195
   },
   "todaysWordCount": {
-    "Lecture Notes/CHEM 211/Lecture Notes - CHEM 211.md": {
-      "initial": 1345,
-      "current": 1650
+    "Lecture Notes/ENGL 395B/Lecture Notes - ENGL 395B.md": {
+      "initial": 901,
+      "current": 1096
     },
-    "Daily/Tuesday, Sep 26, 2023 - Daily Note.md": {
-      "initial": 5,
-      "current": 44
-    },
-    "Templates/Daily Note Template.md": {
-      "initial": 5,
-      "current": 5
+    "Daily/Wednesday, Sep 27, 2023 - Daily Note.md": {
+      "initial": 28,
+      "current": 25
     }
   }
 }
