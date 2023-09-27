@@ -4,7 +4,7 @@ Class Code: #CHEM211
 Topic: **General Statistics**
 ## Todo/Assignments
 
-- [ ] Bonus Marks for Excel Funny Time 🔼 ➕ 2023-09-12
+- [x] Bonus Marks for Excel Funny Time 🔼 ➕ 2023-09-12 ✅ 2023-09-26
 - [x] Tutorial Pre-...lab? 📅 2023-09-18 [completion:: Sep 19, 2023 @ 03:11 PM]
 ## Notes
 
@@ -363,3 +363,87 @@ Sub -
 
 - [ ] HPLC Schematic will be on midterm
 
+# Tuesday, Sep 26, 2023
+###### Topic: **AI Tools and Chromatography**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Chromatography Columns
+**Input $\rightarrow$ Frit $\rightarrow$ Stationary Phase $\rightarrow$ Frit $\rightarrow$ Output**
+
+Stationary Phase is really really packed. Can handle really high pressure.
+
+Small particles comprising the column packing increase speed of elution. Too small is bad though, leads to making concrete :)
+$\rightarrow$ Literally bricked.
+
+HPLC vs UPLC are different trade names. Different parameters.[^6]
+
+[^6]: Table 25-2 in textbook.
+
+- [ ] Watch old style HPLC video on Canvas.
+
+### HPLC Pump
+
+Sapphire tipped piston, ruby ball for one way valve.
+### Normal Phase Chromatography
+
+Silica Matrix
+Elutes based on particle size.
+*Larger first $\rightarrow$ Smaller last.*
+-ve is repelled from beads, so elute first. +ve adsorbs, need acid or salt to release them.
+
+Incredibly high surface area in a column.
+Cannot be used above 8 pH
+
+Somewhat less polar mobile phase
+More polar $\rightarrow$ better eluent strength
+Pentane = 0
+
+Not that good
+
+10% of the time
+### Reverse Phase Chromatography
+
+Non-polar stationary phase.
+C18 column has SDS on beads of silica.
+
+Used 80% of the time.
+
+Detergent column. So, it holds onto stuff.
+
+Many other matrix types:
+Refer to [^7]
+
+[^7]: Table 25-3
+
+Establish an eluent gradient
+A $\rightarrow$ Formic acid
+B $\rightarrow$ Non-polar solvent
+Go from A $\rightarrow$ B 
+Over time, mix them together at different ratios, and all the molecules will come off of the column!
+
+- [ ] HPLC Solvent Gradient Curve Programs??
+
+Also, may eluents[^8]
+
+[^8]: Table 25-4 in textbook
+
+#### Isocratic -> Only One Solvent 
+
+### Hydrophilic Interaction Chromatography (HILIC)
+
+Stationary is strongly polar
+Mobile phase is 60-97% acetonitrile mixed with aqueous buffer (mostly organic).
+
+Put a coating around the beads of acetonitrile.
+Layer of aq around that
+Phase partitioning and diffusion
+
+Low aq $\rightarrow$ High aq
+
+Solves problems for sugars, because they are really polar and closely related. 

@@ -5,16 +5,21 @@
     "2023/8/20": 1238,
     "2023/8/21": 282,
     "2023/8/22": 344,
-    "2023/8/25": 629
+    "2023/8/25": 629,
+    "2023/8/26": 344
   },
   "todaysWordCount": {
-    "Lecture Notes/BIOC 425/Lecture Notes - BIOC 425.md": {
-      "initial": 1076,
-      "current": 1200
+    "Lecture Notes/CHEM 211/Lecture Notes - CHEM 211.md": {
+      "initial": 1345,
+      "current": 1650
     },
-    "Lecture Notes/BIOC 412/Lecture Notes - BIOC 412.md": {
-      "initial": 1640,
-      "current": 2145
+    "Daily/Tuesday, Sep 26, 2023 - Daily Note.md": {
+      "initial": 5,
+      "current": 44
+    },
+    "Templates/Daily Note Template.md": {
+      "initial": 5,
+      "current": 5
     }
   }
 }

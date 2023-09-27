@@ -5,5 +5,7 @@
   "baseFontSize": 16,
   "monospaceFontFamily": "JetBrains Mono",
   "textFontFamily": "Inter,Franklin Gothic,JetBrains Mono",
-  "interfaceFontFamily": "Inter"
+  "interfaceFontFamily": "Inter",
+  "baseFontSizeAction": false,
+  "translucency": false
 }

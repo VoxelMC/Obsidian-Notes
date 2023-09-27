@@ -1,0 +1,7 @@
+{
+  "quoteFormat": "> {content}\n> - {author}",
+  "quoteTagFormat": "> ---\n> {tags}",
+  "quoteTemplatePlaceholder": "{{qotd}}",
+  "showTags": false,
+  "placeholderInterval": 13
+}

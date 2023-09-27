@@ -1,9 +1,7 @@
 #Daily
 ## Quotes
 
-```
-
-```
+{{qotd}}
 
 ## Todos
 
