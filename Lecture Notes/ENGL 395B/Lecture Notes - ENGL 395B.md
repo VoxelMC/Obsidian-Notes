@@ -201,6 +201,7 @@ Jean-Paul Sartre $\rightarrow$ We are simultaneously being for self and of self.
 Lecture Link:
 
 ## Todo/Assignments
+N/A
 
 ## Notes
 
@@ -226,12 +227,12 @@ Does this challenge Mind-Body Dualism?
 Morality is represented in film in visual form. 
 - We learn about characters and learn about assumptions about those with certain bodies.
 
-### Mise-en-Scene
+### Mise-en-Scene - Jabba
 
 The Empire is cold, sharp, mechanical, sterile, metallic.
 The Rebels are round, warm, lighter, brighter, natural, diverse.
 
-Discuss the Mise-en-Scene of Jabba's Palace
+**Discuss the Mise-en-Scene of Jabba's Palace**
 
 | Jabba       | Bodies      |
 | ----------- | ----------- |
@@ -243,4 +244,14 @@ Discuss the Mise-en-Scene of Jabba's Palace
 | Lavishing   |             |
 | Owned       |             |
 
+Some power structures can only exists if there *is* corruption.
+
+### Episode I - The Phantom Menace
+
+Presents a dystopic representation of the SW Universe. 
+Planets are countries, another layer of galactic abstraction.
+
+#### Lens Flare
+
+- [ ] Read about lens flares in film and what they mean.
 
