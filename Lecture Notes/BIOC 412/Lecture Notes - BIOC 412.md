@@ -600,3 +600,109 @@ Play around!!!
 
 **We will also do MSDial, and maybe MSFinder**.
 
+# Wednesday, Sep 27, 2023
+###### Topic: **NMR Metabolomics**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### NMR Based Metabolomics - The Data
+
+Phenolics $\rightarrow$ Sugars $\rightarrow$ Organic Acids $\rightarrow$ 0 ppm
+
+Fingerprint with Cool Advantages
+
+Chemical Shift vs Intensity is a 2D Dataset
+Shift is the header
+
+|        | ppm 1 | ppm 2 | ... |
+| ------ | ----- | ----- | --- |
+| Sample |       |       |     |
+
+What makes them different?
+How important is each ppm?
+
+Concentrations of 1 environment should be the same for another
+
+Multi variant analysis
+What compounds drive that variance
+What is their presence?
+
+#### qNMR vs Validated HPLC
+
+Concentration can be Quantified by NMR
+
+Consistent across both methods
+
+#### Databases - NMR Gets Better
+
+How is it done? By molecule ID.
+
+#### TMIC
+
+Inifnite rat in a cage that you nver need to feed.
+
+### Questions to Shipley
+
+**Why is NMR so much less sensitive?**
+Tiny magnetic moment, 300000:300001 spin up:down.
+
+**Typical NMR Experiment for Metabolomics**
+How many samples?
+The more samples, the more statistical power.
+
+KAVA
+
+**NMR Database**
+HMDB has a lot of stuff.
+
+**Combine Quantification Methods in a Single Model**
+Not a good idea, statistically, to combine them.
+
+NMR $\rightarrow$ 64000 Data Points w/ low variance
+HPLC $\rightarrow$ 70000 Features w/ High variability
+
+Orthogonally?
+Can use them to confirm each other.
+
+**Flavonoids make Complexes with a Metal Ion**
+NMR $\rightarrow$ If there is a paramagnetic metal in there, signals are squished and theres no spectrum
+
+**Where Should I Start?**
+What is the question?
+What am I asking of my data?
+
+NMR Technician???
+
+**Solid State NMR**
+Low resolution
+
+You would hate to be spun at tens of thousands of hertz
+
+**Derivatization**
+Enantiomers??
+Give identical spectra in NMR. Add Enantiomers 
+
+- [ ] NMR almost died so new interview Shipley, check it out!!!
+
+**Binning Data**
+Do we bin data, or do we not bin data?
+1 singlet $\rightarrow$ 6 points. Do we consider them the same via running average? 
+
+Pick things that are close together, or pick things that vary together?
+Pick by slope?
+
+**When to Choose NMR or MS?**
+NMR $\rightarrow$ 
+
+MS $\rightarrow$ better at quantification (easier)
+
+Has anyone combined NMR with chromatography? Not FT-MS
+
+- [ ] NMR Paper
+
+

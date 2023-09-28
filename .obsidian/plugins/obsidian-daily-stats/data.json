@@ -7,7 +7,7 @@
     "2023/8/22": 344,
     "2023/8/25": 629,
     "2023/8/26": 344,
-    "2023/8/27": 241
+    "2023/8/27": 602
   },
   "todaysWordCount": {
     "Lecture Notes/ENGL 395B/Lecture Notes - ENGL 395B.md": {
@@ -17,6 +17,18 @@
     "Daily/Wednesday, Sep 27, 2023 - Daily Note.md": {
       "initial": 28,
       "current": 25
+    },
+    "Lecture Notes/BIOC 425/Assignments/BIOC 425 Assignment 1.md": {
+      "initial": 2,
+      "current": 9
+    },
+    "Lecture Notes/BIOC 425/Lecture Notes - BIOC 425.md": {
+      "initial": 1200,
+      "current": 1226
+    },
+    "Lecture Notes/BIOC 412/Lecture Notes - BIOC 412.md": {
+      "initial": 2155,
+      "current": 2483
     }
   }
 }

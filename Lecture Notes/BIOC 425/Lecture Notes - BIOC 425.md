@@ -294,3 +294,16 @@ Its like PCR it has to anneal enough to be extended.
 
 Crazy, wacky, hate it.
 PCR with super short annealing and extension.
+
+# Wednesday, Sep 27, 2023
+###### Topic: **Case Study: p-nitrobenzyl Esterase**
+Lecture Link: [[Moore_Arnold_1996.pdf]]
+
+## Todo/Assignments
+
+## Notes
+
+cbauy gruling jeponese cv resume ✅
+
+epPCR $\rightarrow$ Shuffling Approach
+
