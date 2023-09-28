@@ -5,11 +5,15 @@
 	- Illumina 
 - **Chemical Synthesis of DNA**
 	- Steps
+- extraction of dna
 - **Microarrays**
 	- Steps
 - **Hybridization**
 	- **Melting point calculation**
 - **Photolithography**
+- Blotting Methods
+	- Southern -> DNA
+	- Northern -> RNA
 
 ## Sample Questions (Set 1)
 
