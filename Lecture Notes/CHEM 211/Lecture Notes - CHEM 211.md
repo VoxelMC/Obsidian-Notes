@@ -447,3 +447,51 @@ Phase partitioning and diffusion
 Low aq $\rightarrow$ High aq
 
 Solves problems for sugars, because they are really polar and closely related. 
+
+# Thursday, Sep 28, 2023
+###### Topic: **Chromatography 2**
+Lecture Link: 
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Ion Exchange
+
+All about charge!!
+They tend to fall apart... e.g. stuff falls off of the beads.
+
+#### Anion Exchange 
+
+(+)ve Stationary Phase
+So it exchanges anions.
+Positive stuff goes right through.
+- Organic Acids
+
+#### Cation Exchange 
+
+(-)ve Stationary Phase
+So it exchanges cations.
+Negative stuff goes right through.
+
+### Molecular Exclusion
+
+Big molecules first, smaller after. More ways for the smaller ones, less ways for the bigger ones.
+Completely inert glass beads.
+
+No chemistry! Just a big filter. 
+
+### Affinity
+
+Antibodies!!! Did or didn't. 
+
+### Capillary Electrophoresis
+
+### Gel Electrophoresis
+
+### 
+
+Remember what comes out first or last
+What is the stationary phase do and how does it transfer stuff to the mobile phase.

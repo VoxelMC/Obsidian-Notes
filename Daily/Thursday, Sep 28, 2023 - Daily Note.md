@@ -1,13 +1,14 @@
 #Daily
 ## Quotes
 
-> The only person who never makes mistakes is the person who never does anything.
-> - Denis Waitley
+> The journey of a thousand miles begins with one step.
+> - Laozi
 
 ## Todos
 
-- [ ] 
+- [ ]
 
 ## Ideas
 
+[AI Playground (vercel.ai)](https://sdk.vercel.ai/)
 
