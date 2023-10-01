@@ -8,3 +8,4 @@ Research on solvents.
 
 ### DSS MeOD
 
+DSS is an internal standard with a TMS peak, and some other residuals.

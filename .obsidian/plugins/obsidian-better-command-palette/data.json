@@ -7,7 +7,7 @@
   "fileSearchHotkey": "o",
   "tagSearchHotkey": "t",
   "suggestionLimit": 50,
-  "recentAbovePinned": true,
+  "recentAbovePinned": false,
   "hyperKeyOverride": false,
   "macros": [
     {
@@ -23,7 +23,15 @@
   "hotkeyStyle": "windows",
   "createNewFileMod": "Mod",
   "createNewPaneMod": "Shift",
-  "hiddenCommands": [],
+  "hiddenCommands": [
+    "obsidian-excalidraw-plugin:excalidraw-disable-autosave",
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab",
+    "obsidian-excalidraw-plugin:excalidraw-open",
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current",
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed",
+    "obsidian-excalidraw-plugin:excalidraw-autocreate"
+  ],
   "hiddenFiles": [],
   "hiddenTags": [],
   "fileTypeExclusion": []
