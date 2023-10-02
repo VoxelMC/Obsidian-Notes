@@ -4,7 +4,7 @@
 
 #### Part A
 
-![[BIOC 425 Assignment 1 2023-09-27 21.05.32.excalidraw]]
+![[BIOC 425 Assignment 1 2023-09-27 21.05.32.excalidraw|center|1000]]
 
 #### Part B
 
@@ -15,8 +15,8 @@ I believe that the family of lyases that are able to add water over a double bon
 
 Transglutamination occurs by crosslinking of a glutamine side chain to a lysine side chain at the terminal amide and amino groups - respectively. This occurs by the acyl transfer of glutamine to a cysteine residue in the transglutaminase, and then the subsequent removal of the amide NH2 & protonation by histamine to NH3. Then, the resultant thioester provides an ample leaving group for attack of the lysine to the ipso carbon. This produces a peptide bond, thereby fusing two proteins together.
 
-![[BIOC 425 Assignment 1 Sa 30-Sep 2023 22.37.excalidraw|General Reaction Mechanism of Transglutaminases]]
-
+![[BIOC 425 Assignment 1 Sa 30-Sep 2023 22.37.excalidraw|center|1000]]
+<center><i>General Reaction Mechanisms of Transglutaminases</i></center>
 
 #### b) Industrial Processes
 **What industrial processes utilize transglutaminase?**
