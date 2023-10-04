@@ -255,3 +255,76 @@ Planets are countries, another layer of galactic abstraction.
 
 - [ ] Read about lens flares in film and what they mean.
 
+# Friday, Sep 29, 2023
+###### Topic: **Continuing Identity**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ] Check scene analysis outline Sep 29th or 30th.
+
+## Notes
+
+**Reflections handed back next week.**
+
+A New Hope was conceptualized during a dark moment in American history. Vietnam war, early 70s. The emperor is Nixon.
+- Rise in Family Separation
+	- More of a family oriented time, for sure.
+
+Hard to consider SW as separate from Vietnam and WW2.
+
+### Technology
+
+The Technology of the Gungans is portrayed in a completely different way than the Separatists.
+- Broader moral implications $\rightarrow$ Moral Imbalance
+	- Separatists $\rightarrow$ Sheer numbers and more mechanical technology.
+	- Gungans $\rightarrow$ Horseback, Catapults, Shields, Spears
+	- German Invasion of Poland
+		- Tanks vs. Horseback 
+
+SW Written during a Sci-Fi Boom!
+- Hollywood experienced a difficult decline, but Sci-Fi was booming.
+- CGI was brand new, took over the scene.
+- Green Screen for most every screen
+- Used to depict the Jedi, Republic, as a prosperous moment in history.
+	- Complex and Fast fight scenes.
+
+1993 Bin Laden + WWW
+1994 Rwandan Genocide
+
+### Kurosawa
+
+Bridge on the River Kwai comes first.
+
+7 Samurai
+Jimbo
+Ikiru
+Hidden Fortress
+
+The visual goes a long way to telling the story and setting the mood.
+Long Lenses - Isolate characters from background
+
+#### **Hidden Fortress**
+
+Story was told from the two lowest characters. Strongest Influence.
+
+John Ford influenced Kurosawa. Western Japanese storytelling.
+
+Why can't people be happier? Why can't people be happier together?
+
+### Wetmore - The Tao of Star Wars
+[[Tao in Star Wars]]
+
+Wetmore, p. 96.
+
+Taoism $\rightarrow$ Light and Dark must be balanced.
+Western Religion $\rightarrow$ Darkness must be purged, the Light must prevail.
+
+**The Dark Side is the Result of Taoism's being subjected to the Western concept of evil.**
+- I severely agree with the concept behind the claim, but I don't know about the representation of the Dark Side *resulting* from this.
+	- Being nitpicky of the words.
+- The light and dark side could be western interpretations of the yin and yang. Cast shadow through a western filter
+	- Eternal conflict, balance must be found so chaos will not prevail.
+
+What is "balance" to the force?? Did they even think about it?
+

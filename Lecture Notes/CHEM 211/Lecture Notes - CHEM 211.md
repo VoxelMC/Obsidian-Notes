@@ -495,3 +495,38 @@ Antibodies!!! Did or didn't.
 
 Remember what comes out first or last
 What is the stationary phase do and how does it transfer stuff to the mobile phase.
+
+# Tuesday, Oct 03, 2023
+###### Topic: **...**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Baby Foot Blood
+
+Half a microlitre $\times$ 3 replicates. You have to get the right answer.
+
+#### Workflow
+
+Card $\rightarrow$ Punch a piece $\rightarrow$ Extract (Dissolve paper, solubilize amino acids, precipitate proteins) $\rightarrow$ Grind $\rightarrow$ Filter solids $\rightarrow$ Derivatization
+
+#### Derivatization 
+
+A kit you can buy!
+7 Calibrants
+Internal Standard
+QC Standards
+Reagents
+Diluent
+Buffer
+Plates!
+Formic acid
+**Little bits and bobs!**
+
+Highly optimized organic synthesis
+- Rigorously reproduced.
+

@@ -307,3 +307,38 @@ cbauy gruling jeponese cv resume ✅
 
 epPCR $\rightarrow$ Shuffling Approach
 
+# Friday, Sep 29, 2023
+###### Topic: **Saturation Mutagenesis**
+Lecture Link: [[Iterative Saturation]]
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Saturation Mutagenesis
+
+![[Codon Wheel.png]]
+
+DpnI Digests of the plasmid with the gene, after methylation of gene then cloning, will destroy the plasmid entirely.
+
+Make a primer with some Ns in it. 
+Targets residues near the active site, or residues in flexible loop regions
+Screen 3x n of possibilities colonies
+
+#### Typically Used Codons
+
+**NNK codon**
+$\rightarrow$ 32 $\rightarrow$ 1024 $\rightarrow$ 32768 possible codons.
+
+**NDT codon**
+$\rightarrow$ 12 $\rightarrow$ 144 $\rightarrow$ 1728 possible codons.
+
+### Warren L. DeLano
+
+Created PyMOL
+- [ ] Try to use PyMOL.
+- [ ] PDB
+
+
