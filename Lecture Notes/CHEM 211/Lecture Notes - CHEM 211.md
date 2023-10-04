@@ -514,7 +514,7 @@ Half a microlitre $\times$ 3 replicates. You have to get the right answer.
 
 Card $\rightarrow$ Punch a piece $\rightarrow$ Extract (Dissolve paper, solubilize amino acids, precipitate proteins) $\rightarrow$ Grind $\rightarrow$ Filter solids $\rightarrow$ Derivatization
 
-#### Derivatization 
+### Derivatization 
 
 A kit you can buy!
 7 Calibrants
@@ -529,4 +529,116 @@ Formic acid
 
 Highly optimized organic synthesis
 - Rigorously reproduced.
+- Adds a "tag."
+
+**Protects the amine from an amino acid.**
+Now everything is negative, because they all have an available carboxylic acid group.
+
+**Makes them heavier.**
+Much easier to detect from little 80-ish amu molecules.
+
+They have chromophores now. Absorbs UV and fluoresces.
+
+Enables separation by reverse phase chromatography
+
+UV 280 
+Fluo 395 
+Blow off tag 171 amu peak
+
+Derivatization is what Analytical Chemists call Synthesis reactions.
+
+**Must be HIGHLY REPRODUCIBLE and HIGHLY REPEATABLE**
+- Validation
+- Standardized
+- Optimized
+- Controlled
+- Robust Statistics
+
+Everyone must have the same answer.
+
+#### Validation
+
+Set up your instrument to a prescribed way. Every doctor's office, every hospital. 
+**Only one company has the approved license for this test.**
+
+### Amino Acid Separation
+
+BEH C18 Column
+
+Reverse Phase
+Polar to Non-polar
+
+Asparagine
+Glutamine
+Serine
+$\beta$-Alanine
+Sacrosine
+Alanine
+Proline
+Lysine
+Tyrosine
+Valine
+Isoleucine
+Leucine
+Phenylalanine
+Tryptophan
+
+Solvent A - Water with 0.1% formate
+Solvent B - AcCN with 0.1% Formate
+
+Needle Wash - B
+Purge - A
+Column Temp 55$\degree$
+
+Curve 6
+
+**Babies need proline!!!**
+
+208 Peak is a side product - Piece of the tag that falls off.
+
+### Method Validation
+
+**Validation:** A Set of Experiments that you MUST do to ensure that any analytical procedure is BOTH ACCURATE and PRECISE.
+Controls for all of the things that **Humans** do.
+
+Robots make mistakes, too.
+
+**QC Sample** - Something you can use to calculate variation over time.
+*How much do certain factors change how things happen?*
+Test the top and bottom ranges of the method. 
+
+You cannot show that something is "0".
+
+Standard is 2.5 $\mu$mol/mL, 1 mL
+Limit of Detection: 3 pg/10$\mu$L = 300 pg/mL
+Average AA: 121 g/mol = 121 $\mu$g/$\mu$mol
+
+#### Dilution
+
+Bottle 1 -> 300 $\mu$g/mL 
+Bottle 2 -> 30 $\mu$g/mL 
+Bottle 3 -> 3 $\mu$g/mL
+Bottle 4 -> 300 ng/mL
+Bottle 5 -> 30 ng/mL
+Bottle 6 -> 3 ng/mL
+Bottle 7 -> 300pg/mL
+
+Calibration curve of peak AUC.
+Should be straight line w negative curve! (bottles on x axis)
+
+What is a calibration curve, really? *NOT A STRAIGHT LINE.*
+
+Somewhere between not having enough to detect and having so much that the detector is saturated.
+**Lower Limit and Upper Limit of Quantification**
+*LLOQ and ULOQ*
+
+Limit of Detection (LOD) is past the LLOQ.
+
+Between LLOQ and ULOQ is the linear range.
+
+Cannot include **plateaued** points in the curve!
+						 ^ Strange Word
+
+You are more likely to underestimate a concentration than overestimate.
+
 

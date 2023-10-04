@@ -1,25 +1,19 @@
 {
   "dayCounts": {
-    "2023/8/18": 0,
-    "2023/8/19": 339,
-    "2023/8/20": 1238,
-    "2023/8/21": 282,
-    "2023/8/22": 344,
-    "2023/8/25": 629,
-    "2023/8/26": 344,
-    "2023/8/27": 602,
-    "2023/8/28": 122,
-    "2023/8/29": 1142,
-    "2023/8/30": 323
+    "2023/9/3": 553
   },
   "todaysWordCount": {
-    "Projects/Directed Study - Boswellia spp/Research Notes/Solvents.md": {
-      "initial": 26,
-      "current": 38
+    "Daily/Tuesday, Oct 03, 2023 - Daily Note.md": {
+      "initial": 17,
+      "current": 17
     },
-    "Lecture Notes/BIOC 425/Assignments/BIOC 425 Assignment 1.md": {
-      "initial": 77,
-      "current": 388
+    "Lecture Notes/CHEM 211/Lecture Notes - CHEM 211.md": {
+      "initial": 1849,
+      "current": 2254
+    },
+    "Lecture Notes/BIOL 366/Lecture Notes - BIOL 366.md": {
+      "initial": 378,
+      "current": 526
     }
   }
 }

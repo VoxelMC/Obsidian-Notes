@@ -108,8 +108,8 @@ $T_{m}$
 	- More BPs
 - Modifications
 
-# Thursday, Sep 21, 2023
-###### Topic: **Sequencing Methods - 2nd and 3rd Generation**
+# Tuesday, Oct 03, 2023
+###### Topic: **Cloning**
 Lecture Link:
 
 ## Todo/Assignments
@@ -118,3 +118,24 @@ Lecture Link:
 
 ## Notes
 
+Two types of cloning:
+**Housekeeping**
+- PCR
+- Amplified $\rightarrow$ Cloned into vector.
+	- High copy number plasmids.
+
+### Restriction Endonucleases
+
+Type I - Cuts at a random site that is different and away (100s of bp) away from recognition site. Asymmetrical Recognition Site.
+Type II - Recognition sites are palindromic. 4-8 nt long. Cleave DNA within the recognition site, are commonly used in DNA work.
+Type III - Recognizes two inversely oriented non palindromic sequences. Cuts about 20-30 base pairs after the recognition site.
+
+5' has a phosphate group after a cut with an RE.
+
+#### Exam Questions
+
+Find if restriction site is visible. Then, check if directionality matters.
+Engineer sites on if there is none, using PCR or something. Show the primers you design!
+Use two sites if direction matters. One if it doesn't.
+
+Identify possible weaknesses!!! He likes details.
