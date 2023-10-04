@@ -1,12 +1,16 @@
 {
   "dayCounts": {
     "2023/9/3": 553,
-    "2023/9/4": 0
+    "2023/9/4": 5
   },
   "todaysWordCount": {
     "Daily/Wednesday, Oct 04, 2023 - Daily Note.md": {
       "initial": 17,
       "current": 17
+    },
+    "Lecture Notes/BIOC 425/Assignments/BIOC 425 Assignment 1.md": {
+      "initial": 388,
+      "current": 393
     }
   }
 }

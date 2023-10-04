@@ -27,7 +27,7 @@ It is frequently used in "molecular gastronomy" to transform some food into anot
 
 #### c) Is the enzyme used in a kinetically or equilibrium controlled process?
 
-The enzyme is used in a kinetically controlled process because it forms an acyl-enzyme intermediate, as shown in 
+The enzyme is used in a kinetically controlled process because it forms an acyl-enzyme intermediate, as shown in the reaction mechanism in **a)**.
 
 #### d) EC Numbers
 Transglutaminase (EC 2.3.2.13)
@@ -35,6 +35,7 @@ Transglutaminase (EC 2.3.2.13)
 - **Subclass** $\rightarrow$ Transferred Group: Acyl group;
 - **Subsubclass** $\rightarrow$ More information: Aminoacyl group;
 - **Serial Number** $\rightarrow$ protein-glutamine gamma-glutamyltransferase
+
 [Source](https://www.brenda-enzymes.org/enzyme.php?ecno=2.3.2.13)
 
 ## Question 3
