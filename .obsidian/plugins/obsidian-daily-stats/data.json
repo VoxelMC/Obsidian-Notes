@@ -1,19 +1,12 @@
 {
   "dayCounts": {
-    "2023/9/3": 553
+    "2023/9/3": 553,
+    "2023/9/4": 0
   },
   "todaysWordCount": {
-    "Daily/Tuesday, Oct 03, 2023 - Daily Note.md": {
+    "Daily/Wednesday, Oct 04, 2023 - Daily Note.md": {
       "initial": 17,
       "current": 17
-    },
-    "Lecture Notes/CHEM 211/Lecture Notes - CHEM 211.md": {
-      "initial": 1849,
-      "current": 2254
-    },
-    "Lecture Notes/BIOL 366/Lecture Notes - BIOL 366.md": {
-      "initial": 378,
-      "current": 526
     }
   }
 }
