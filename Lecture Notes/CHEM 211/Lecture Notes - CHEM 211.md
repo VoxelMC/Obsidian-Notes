@@ -641,4 +641,77 @@ Cannot include **plateaued** points in the curve!
 
 You are more likely to underestimate a concentration than overestimate.
 
+# Thursday, Oct 05, 2023
+###### Topic: **Statistical Validation**
+Lecture Link:
+
+## Todo/Assignments
+N/A
+
+## Notes
+### Fit for Purpose
+
+`We call this fit-for-purpose; because you can't call it the rat in the potato chips method.`
+
+We achieve Fit for Purpose by rigorous validation. This is a law thing.
+
+### Validation Terms
+
+- [ ] Check AOAC Documents (two) on Canvas
+
+Does the method work?
+Is the method Fit for Purpose?
+How confident are you in the results?
+How accurate and precise is your data?
+
+#### Selectivity
+
+How far away is stuff from your stuff.
+
+#### Performance Characteristics
+
+Functional qualities.
+Statistical measures.
+
+What must a sample/product achieve? How far is the defined value from the true value?
+
+#### SLV - Single Lab Method Validation
+
+1. Identity - What are you measuring? Isomers, adducts, misidentification
+2. Method/Optimization
+3. Reference Standard/Material
+4. Ruggedness Trial
+	- The idea of: If I make a change, how big is the impact? How important is the impact?
+5. Specific Variables
+	- Analyte Addition
+	- Re-extraction
+	- Solvent comparisons
+	- Orthogonal methods
+6. Selectivity
+7. Repeatability
+8. Reproducibility
+9. Stability
+
+#### Standard Curve
+
+Minimum of 5 measurements. More is better.
+
+#### Linearity
+
+R$^2$ of the Linear Region of the Standard Curve should be 0.99XX
+Take regression over 3 days, if %RSD <20%, its okay.
+
+Use the highly sophisticated method of **EYEBALLOMICS**.
+
+#### LOQ 
+
+Amount of substance that can reliably be assigned a quantitative value.
+US Pharmacopeia - 10% RSD
+IUPAC 10x Noise
+
+#### LOD
+
+Least amount of substance that can reliably be assigned a quantitative value.
+IUPAC: 3x Noise
+
 

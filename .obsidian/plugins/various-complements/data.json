@@ -22,7 +22,7 @@
   ],
   "noAutoFocusUntilCycle": false,
   "showMatchStrategy": false,
-  "showComplementAutomatically": false,
+  "showComplementAutomatically": true,
   "showIndexingStatus": false,
   "descriptionOnSuggestion": "Short",
   "selectSuggestionKeys": "Tab",

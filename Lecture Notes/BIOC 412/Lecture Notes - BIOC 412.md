@@ -705,4 +705,61 @@ Has anyone combined NMR with chromatography? Not FT-MS
 
 - [ ] NMR Paper
 
+# Wednesday, Oct 04, 2023
+###### Topic: **D**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+What is a signal vs noise
+What is limit of detection without standard
+What is real vs what is garbage
+How precise do you want to be with each individual peak?
+
+What is a PEAK?
+- Checks gradient between points (derivative, basically) and starts when it goes up and stops when it goes down.
+	- 3 Points
+- It will ask you what you want to define as a peak.
+	- The more points you use, the less sharp peaks you get.
+- Does it have to go back to the baseline to be a peak?
+
+### MZmine Continued
+
+- [ ] Make sure to use her slide deck to walk yourself through MZmine.
+
+MS level 1 in +ve mode.
+
+DIA or DDA mode:
+- **DIA**: Data Independent Acquisition
+	- Captures everything
+- **DDA**: Data Dependent Acquisition
+	- Captures the big signals and their fragments.
+
+Always choose exact mass.
+
+$3\times10^5$ Noise Level (30k)
+Show Preview
+
+Murch maybe would choose 55k.
+
+Don't have more than 70000 lines.
+
+Use Lauren's ADAP parameters.
+
+Try Savitzky Golay resolver. And other resolvers.
+`Resolving == Smoothing`
+
+Gustavo is the Plight of the Modern Age
+
+What does EIC mean?
+
+Plant 4 vs 2 other plants.
+
+Definitely try out annotations.
+- Database Match to HormonomicsDB
+
 

@@ -328,3 +328,73 @@ Western Religion $\rightarrow$ Darkness must be purged, the Light must prevail.
 
 What is "balance" to the force?? Did they even think about it?
 
+# Wednesday, Oct 04, 2023
+###### Topic: **Orientalism**
+Lecture Link:
+
+## Todo/Assignments
+N/A
+
+## Notes
+
+### Orientalism
+
+Arab Indian Islamic and East Asian
+Lest Developed? Feminized. Mischievous, exoticized.
+
+### The Phantom Menace
+
+Anglo protagonists, and...
+Viceroy $\rightarrow$ Eastern Asian Accent and Clothing
+
+Thus, Lucas' films appropriated Orientalism to show who is good and bad.
+
+**Non Human Characters $\rightarrow$ Comic Relief or Evil Beings**
+- Jar Jar
+- Chewbacca
+- Nute Gunray
+- Darth Maul
+
+### Space Western
+
+#### Han Solo - Space Cowboy!
+
+- Independent
+- Costuming
+- Scoundrel
+- Travelled Far in the "New Frontier"
+- Bounty on his head
+- Idealized white man paired with non-human other (SF version of the noble Indian)
+
+#### **Is this present in the Prequels?**
+
+Boba Fett
+
+Qui-Gon Jar-Jar ???????
+
+# Friday, Oct 06, 2023
+###### Topic: **Film Analysis**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Mise-en-Scene
+
+The sets, setting, costume, lighting, the acting, props, characters, and other people/objects in the scene.
+
+#### Lighting
+
+The lighting is integral to the the MeS. It directs the viewers' attention, contributes to the mood, and creates atmosphere. COmment on the lighting frame-by-frame, and shot-by-shot.
+
+#### The Shot
+
+The single image produced between one **cut** to another **cut**. 
+
+Why is it this? Why is it that?
+Is it moving-frame, is it panning up or down? Where is the camera in relation to the subject?
+
+

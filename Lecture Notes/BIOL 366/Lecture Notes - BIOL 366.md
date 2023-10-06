@@ -139,3 +139,14 @@ Engineer sites on if there is none, using PCR or something. Show the primers you
 Use two sites if direction matters. One if it doesn't.
 
 Identify possible weaknesses!!! He likes details.
+
+# Thursday, Oct 05, 2023
+###### Topic: **Proteins**
+Lecture Link:
+
+## Todo/Assignments
+N/A
+
+## Notes
+
+

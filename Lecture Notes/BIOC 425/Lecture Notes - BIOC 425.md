@@ -341,4 +341,40 @@ Created PyMOL
 - [ ] Try to use PyMOL.
 - [ ] PDB
 
+# Wednesday, Oct 04, 2023
+###### Topic: **3D Structures**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### B-Factor
+
+### Iterative Saturation Mutagenesis
+
+Design Oligonucleotides to completely change a specific amino acid. Specifically at parts of the active site.
+**NNK**.
+
+#### 22c Trick
+
+If you change 3, you go from ~100000 to ~32000 colonies to screen, then with 22c-Tang it goes to ~22000.
+12:9:1 of NDT:VHG:TGG
+12:6:1:1 of NDT:VMA:ATG:TGG
+
+### Computational Protein Engineering
+
+$\beta$-Amino Acid Synthesis are of interest in the pharmaceutical world.
+
+#### Rosetta Commons
+
+**David Baker**
+- [ ] David Baker, Rosetta - Summer Internships - Worth a look :)
+
+- [ ] Read Roethlisberger Paper - Nature 2008
+
+[Biocatalysis | Max-Planck-Institut für Kohlenforschung (mpg.de)](https://www.kofo.mpg.de/en/research/biocatalysis)
+
 
