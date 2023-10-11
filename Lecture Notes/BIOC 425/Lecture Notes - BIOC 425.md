@@ -377,4 +377,13 @@ $\beta$-Amino Acid Synthesis are of interest in the pharmaceutical world.
 
 [Biocatalysis | Max-Planck-Institut für Kohlenforschung (mpg.de)](https://www.kofo.mpg.de/en/research/biocatalysis)
 
+# Friday, Oct 06, 2023
+###### Topic: **Computational Design**
+Lecture Link:
+
+## Todo/Assignments
+N/A
+
+## Notes
+
 

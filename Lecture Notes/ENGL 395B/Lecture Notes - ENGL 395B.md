@@ -397,4 +397,46 @@ The single image produced between one **cut** to another **cut**.
 Why is it this? Why is it that?
 Is it moving-frame, is it panning up or down? Where is the camera in relation to the subject?
 
+#### Tone
+
+Pay attention to the colours. Are they realistic, unrealistic? Black and white? Specific colour palette? Is there a lot of contrast? OR a lack of it?
+
+#### Perspective
+
+Is there an arch? (Internal framing)
+Considers the space and its relationship to the people and the objects 
+
+#### The Frame
+
+The border of the image.
+What is the angle? Is it high or low? 
+Eye level? What does that imply?
+
+##### Framing
+
+**Distances**
+- Close up?
+	- **Revenge of the Sith: Case Study**
+		- Empathy? Emotion? Visions? Death? Birth?
+		- Younglings Scene
+			- Anakin's face is partially covered in the close-up 
+			- His face is protected from the light - cloudy day?
+			- Looking down - resolve to commit to the path he has chosen by saving the Emperor.
+- Medium Shot
+	- Most of the characters body
+- Long Shot
+	- Full bodies from a distance
+- Off screen space
+	- occurs outside the frame
+
+**Moving Frame**
+- Frame shifts in its relative position to the primary in the shot
+- Reframing
+	- moving from close to long.
+- Crane Shot
+	- From an overhead crane.
+- Tilting
+	- Frame moves up and down.
+- Pan
+	- Frame moves side to side.
 
