@@ -20,22 +20,24 @@
 	- [ ] Hexagons do NOT OBEY grids. /shrug
 - [ ] Gustavo Works on the Updated Description
 	- [ ] Implement Later!
-- [ ] Finish SDGs
+- [ ] **Finish SDGs**
 	- [x]  #2 ✅ 2023-10-10
 	- [ ] #15
-- [ ] Establish and Finish Education and Collaborations
+- [ ] **Establish and Finish Education and Collaborations**
 	- [x] Content Ready ✅ 2023-10-10
-- [ ] Protocols and Notebook
-	- [ ] Protocols are Written as PDFs
-	- [ ] Ask Mary about Notebook
+- [ ] **Protocols** and Notebook
+	- [x] Protocols are Written as PDFs ✅ 2023-10-10
+	- [ ] *Ask Mary about Notebook* - Satanshu
 	- [ ] Notebook content done
 - [ ] Biosafety Blurb
+	- [ ] **Check with Wet Lab on this**
 - [ ] Check with Wet Lab about this
-- [ ] Go Up Button
+- [ ] *Go Up Button* - Satanshu
 - [ ] Review
 	- [ ] Parts
-	- [ ] Footer - Underlines on Hyperlinks???
-- [ ] Remove Tomato from Introduction Paragraph of Sponsors
+	- [ ] Dry Lab
+	- [x] Footer - Underlines on Hyperlinks??? ✅ 2023-10-10
+- [ ] *Remove Tomato from Introduction Paragraph of Sponsors* - Satanshu
 - [ ] Add some IntersectionObservers!
 
 ## Ideas
