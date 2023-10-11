@@ -714,4 +714,86 @@ IUPAC 10x Noise
 Least amount of substance that can reliably be assigned a quantitative value.
 IUPAC: 3x Noise
 
+# Tuesday, Oct 10, 2023
+###### Topic: **Standards**
+Lecture Link:
 
+## Todo/Assignments
+- [ ]
+
+## Notes
+
+### What is a Standard?
+
+A material that is sufficiently homogenous and stable with respect to one or more specified properties.
+
+#### Peanut Butter?? How Do We Know It's Peanut Butter?
+
+Well, probably a standard.
+
+#### NIST - National Institute for Standards and Technologies
+
+#### NRC - Canadian Certified Reference Materials Project
+
+Holds the world's standard for Nicotine in Tobacco.
+- Also THC
+	- 20k kg of cannabis to get this.
+National mandate to provide measurement science, advice, and technical services to government and industrial clients
+- Ensures basis of fair trade and commerce
+- Enhances societal well-being
+- Enables innovation through evolving and emerging technologies that rely on *precision measurement*.
+
+
+### Anecdotes
+
+#### pH - Only Ever 2 Decimals
+#### Biotoxins
+
+Rare and difficult to get and weigh. Very expensive if available!!! 40,000mg.
+Careful matters. Tidy matters.
+
+#### In-House RM
+
+Don't bet it's there but consider that it should be.
+Not true enough to call Justin Trudeau
+
+### Uses of RMs and CRMs
+
+**How Do You Measure Accuracy???**: YOU USE A CERTIFIED REFERENCE MATERIAL.
+- Calibration of instrumentation and assays
+- Evaluation of trueness
+- Estimation of uncertainty
+- Method development
+- Method validation
+- Quality assurance and quality control
+
+```
+I am a matrix effect
+```
+
+### Stuff You Should Know for the Midterm
+
+Chromatography
+Qualitative and Quantitative data
+- Can meausre it
+Fit for Purpose
+- Instrument that just works for what you need it for, so its the same for everyone and you get the same answer.
+- If you have a nail use a hammer not a shoe. You don't need an MS.
+Validation
+- Prescribed set of specific experiments which test how good your method is.
+**AOAC**
+- **Association of Official Analytical Chemists**
+Single Lab Validation
+Performance Characteristics
+- Set of measures
+Sample Matrix
+Dilution series
+Standard curve
+- Not a line its a CURVE!!! You just don't see the whole thing.
+Linearity
+LOD
+- Lowest you can see  a thing but its not a real thing
+LOQ
+- Lowest or highest you can say its there
+CRM/RM
+- (Certified) Reference Materials

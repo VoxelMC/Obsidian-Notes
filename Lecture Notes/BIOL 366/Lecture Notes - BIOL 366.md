@@ -150,3 +150,18 @@ N/A
 ## Notes
 
 
+
+# Tuesday, Oct 10, 2023
+###### Topic: **Cloning I**
+Lecture Link:
+
+## Todo/Assignments
+N/A
+
+## Notes
+
+### cDNA Normalization
+
+Enriches the library for genes that are less expressed.
+
+
