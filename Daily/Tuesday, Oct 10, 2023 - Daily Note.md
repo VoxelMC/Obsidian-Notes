@@ -27,17 +27,20 @@
 	- [x] Content Ready ✅ 2023-10-10
 - [ ] **Protocols** and Notebook
 	- [x] Protocols are Written as PDFs ✅ 2023-10-10
-	- [ ] *Ask Mary about Notebook* - Satanshu
+	- [x] *Ask Mary about Notebook* - Satanshu ✅ 2023-10-11
+	- [ ] Implement Protocols (They are already there, just have to add them to the page).
+		- [x] Half done ✅ 2023-10-11
+		- [ ] Other Half Done?
 	- [ ] Notebook content done
 - [ ] Biosafety Blurb
 	- [ ] **Check with Wet Lab on this**
 - [ ] Check with Wet Lab about this
-- [ ] *Go Up Button* - Satanshu
+- [?] *Go Up Button* - Satanshu
 - [ ] Review
 	- [ ] Parts
 	- [ ] Dry Lab
 	- [x] Footer - Underlines on Hyperlinks??? ✅ 2023-10-10
-- [ ] *Remove Tomato from Introduction Paragraph of Sponsors* - Satanshu
+- [?] *Remove Tomato from Introduction Paragraph of Sponsors* - Satanshu
 - [ ] Add some IntersectionObservers!
 
 ## Ideas

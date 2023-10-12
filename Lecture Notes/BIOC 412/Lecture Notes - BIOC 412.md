@@ -729,7 +729,7 @@ What is a PEAK?
 
 ### MZmine Continued
 
-- [ ] Make sure to use her slide deck to walk yourself through MZmine.
+- [ ] Make sure to use her slide deck to walk yourself through MZmine. !!!!!!!!!!!!!!!!!
 
 MS level 1 in +ve mode.
 
@@ -762,4 +762,134 @@ Plant 4 vs 2 other plants.
 Definitely try out annotations.
 - Database Match to HormonomicsDB
 
+# Wednesday, Oct 11, 2023
+###### Topic: **...**
+Lecture Link:
 
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Metabolomics is Never Normal
+
+Cannot do an ANOVA, have to do non-parametric analysis!
+
+PLS-DA, Random Forests, MVA.
+
+### msDIAL
+
+Data Independent Algorithm
+
+### How do I get from a peak to a molecule?
+1. Determine correct adduct,
+2. Determine correct molecular formula,
+3. Determine list of candidate structures
+
+Centroid data
+
+1% of known chemicals have MS/MS spectra
+
+- [ ] Check Adduct Spreadsheet from UCDavis
+
+#### Alternative Solutions to Compound ID
+
+- Reaction Chemistry Methods
+	- MS-Finder
+	- Mass Frontier
+- Machine Learning
+	- Sirius+CSI-Finger ID
+	- CFM-ID
+- Heuristic
+	- LipidBLAST
+- Quantum Chemistry
+	- QCEIMS
+
+### How Do You Trust Metabolite ID?
+
+A. Trust the researcher?
+B. It has the name?
+C. It's in a journal?
+
+- [ ] Metabolomics Workbench
+
+### Metabolomics Standards Initiative (MSI)
+
+Started in 2005
+**Aim:** Provide a reporting standard for identification of compounds.
+
+#### Schymanski Levels
+
+1. Confirmed by Reference Standard
+2. Probable Structure by Library Spec Match or Diagnostic Evidence
+3. Tentative Candidate by Structure, Substituent, or Class
+	1. Exp. Data
+4. Unequivocal Molecular Formula
+	1. MS Isotope/Adduct
+5. Exact Mass of Interest
+	1. MS
+
+#### MSI Levels Guide
+
+Peak quality?
+Determine mass error +/- 1 mDa
+m/z-RT match?
+MS/MS match? Is it good or bad? Are there other possible hits with good MS/MS match? (non-unique)
+Biologically plausible?
+If MSI fits but does not match criteria, but you have a good match - are your criteria too strict?
+
+### Molecular Formula Deconvolution
+
+Accurate Mass
+MS/MS Spectrum and Fragment Ion Analysis
+- Neutral Loss
+- m/z Difference
+Accurate Isotopic Abundances
+Characteristic Isotopic Patterns
+- 12C, 13C, *14C*
+- 3:1 - Cl [M]+:[M+2]+
+- 1:1 - Br [M]+:[M+2]+
+
+### Structure Deconvolution
+
+Get a high resolution MS
+
+MS/MS Spectrum
+1. Precursor Match
+2. Product Ion Search
+3. DB
+Returns Results with Annotation.
+
+#### Databases:
+\$\$\$: NIST & METLIN
+Free: MoNA & In-House
+
+Use MS/MS, but not limited to MS1 or MS<sup>n</sup>
+
+NIST MS Search
+<600 is bad.
+
+#### MS-DIAL Entropy Score
+
+Score from 1-4, meaning how much a molecule makes noise in the instrument. 
+Increases with more fragmentation or noise.
+
+0. Guanosine - No fragments
+1. Lactitol - 3 fragments
+2. L-Valine - Like 10 fragments
+3. Juarezic Acid - So many fragments.
+
+#### Quantum Chemistry
+
+Rebuilds molecule from the entropy - Considers bond strength of individual bonds.
+
+#### MS-FINDER
+
+- [ ] Mess around with MS-FINDER
+- [ ] Check out Lotus Database [Link](https://lotus.naturalproducts.net/)
+
+#### MetaboAnalyst 5.0
+
+It's Canadian
+Does Stats

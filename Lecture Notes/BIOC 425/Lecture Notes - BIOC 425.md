@@ -386,4 +386,38 @@ N/A
 
 ## Notes
 
+- [ ] Rosetta - Double Check This
+
+# Wednesday, Oct 11, 2023
+###### Topic: **Non-canonical Amino Acids**
+Lecture Link:
+
+## Todo/Assignments
+N/A
+
+## Notes
+
+### Non-canonical Amino Acids
+
+Any amino acid that is not incorporated into proteins.
+
+### Unnatural Amino Acids
+
+Non-canonical Amino Acids that are not present or found in nature.
+
+### P.G. Schultz - Genetic Code Expansion
+
+**Genetic code expansion** 
+
+#### tRNA Synthetases
+
+There is lots of variability between typical tRNA Synthetases.
+
+tRNAs have Identity Elements and Anti-Identity Elements
+Identity $\rightarrow$ I want THIS tRNA SYNTHETASE to modify me.
+Anti-Identity $\rightarrow$ I don't want ANYTHING ELSE to modify me.
+- Methylation of G73 of *S. cerevisiae* tRNA$_{\text{Asp}}$ prevents mis-aminoacylation by ArgRS synthetase.
+
+Changing 3 bases can change tRNA Synthetase Specificity.
+
 
