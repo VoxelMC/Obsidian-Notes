@@ -890,4 +890,7 @@ $$
 \text{\% Recovery} = \frac{\text{(Area of Analyte + Spike) - Area of Analyte}}{\text{Area of Analyte in Spike}}
 $$
 
-
+Do the math
+Do the experiment
+See how much you should have gotten
+Weep
