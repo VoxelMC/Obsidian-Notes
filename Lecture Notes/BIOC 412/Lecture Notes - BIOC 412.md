@@ -893,3 +893,6 @@ Rebuilds molecule from the entropy - Considers bond strength of individual bonds
 
 It's Canadian
 Does Stats
+
+Has NMR Peak Lists
+NMR Bayes is there under other, check out what that does!

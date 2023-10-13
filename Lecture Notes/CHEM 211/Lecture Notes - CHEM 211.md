@@ -797,3 +797,97 @@ LOQ
 - Lowest or highest you can say its there
 CRM/RM
 - (Certified) Reference Materials
+- Very few agencies
+	- NIST
+	- NRC
+	- Tested in a bunch of different ways, super expensive.
+- 
+
+# Thursday, Oct 12, 2023
+###### Topic: **Standards**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Make a Peanut Butter Reference Solution!
+1. Find out what it dissolves in,
+2. Separate polar and non polar phases
+	1. Normal Phase for Polar
+	2. Reverse Phase for Non Polar
+3. We wanna check Afflatoxin?
+	1. Get a CRM of Afflatoxin.
+	2. Quantification standard for the standard curve.
+
+Fit for Purpose could mean Looking at the cookies and Seeing if there is Wood
+
+Health Canada found a sus product that send 25 people to the emergency room! Here is what we know, tell me what you would do.
+- [ ] Do this practice question.
+
+### AOAC Official Methods of Analysis
+
+3000 Methods recognized worldwide. They are the authority.
+
+### Single Lab Validation
+
+1. Identity - What ar you measuring?
+2. Method / Optimization
+3. Reference Standard
+	1. CRMs are external standards
+4. Ruggedness
+5. Specific Variables
+	1. Analyte addition
+	2. Re-extraction
+	3. Solvent comparisons
+	4. Orthogonal Methods
+6. Selectivity
+7. Repeatability
+8. Reproducibility
+9. Stability
+
+#### More on CRMs
+
+Don't take into account the sample matrix.
+
+##### Standard Addition Experiment
+
+5 flask dilution series
+5 mL of unknown in each flask
+Add 0, 5, 10, 15 and 20 mL of standard to them too
+Dilute to 50mL
+
+Extrapolate down to 0 = y to find volume of added standard to equal that concentration (-6mL or something). 
+
+Back to PB.
+
+Add aflatoxin, extrapolate back
+If there wasn't, it will extrapolate back to 0.
+
+**Not the most accurate**
+
+**Takes into account the matrix effect**
+Because sample and standard are in all samples, pretty much.
+
+Best way to do this, is to use an internal standard.
+
+$$
+\text{Ratio} = \frac{\text{Area Under Peak}}{\text{[Internal Standard]}}
+$$
+
+$\text{\% Recovery}$
+
+You know how much X you put in, so you can see how much you get out.
+$$
+Spike = \frac{\text{Area}}{\text{[Added]}}
+\text{ and }
+Peak = \frac{\text{Area}}{\text{[Sample]}}
+$$
+
+$$
+\text{\% Recovery} = \frac{\text{(Area of Analyte + Spike) - Area of Analyte}}{\text{Area of Analyte in Spike}}
+$$
+
+
