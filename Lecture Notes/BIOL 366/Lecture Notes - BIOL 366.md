@@ -164,4 +164,32 @@ N/A
 
 Enriches the library for genes that are less expressed.
 
+# Thursday, Oct 12, 2023
+###### Topic: **Cloning 2 - Finding a Target Gene**
+Lecture Link:
+
+## Todo/Assignments
+
+
+## Notes
+
+### cDNA Library
+
+Obtain a probe for the target gene.
+Build a cDNA Library from target tissue.
+Screen cDNA Library using your probe.
+
+Colonies grown by dilution
+Transferred to a nitrocellulose membrane (the colonies!)
+Screen the membrane with the probe
+Find full length clone
+Express cDNA in bacteria or yeast
+Screen for activity
+
+3 Colonies, and high quality sequencing? Use Sanger!
+
+r-Protein $\rightarrow$ Recombinant Protein
+
+Partial Sequences? Yeah but there is also very likely to be a long enough mRNA somewhere to give a full length strand or else the bacteria couldn't make the protein in the first place.
+
 

@@ -894,3 +894,27 @@ Do the math
 Do the experiment
 See how much you should have gotten
 Weep
+
+#### Ruggedness
+
+**% Relative Standard Deviation**
+
+Degree of reproducibility of the results obtained under a variety of conditions
+These conditions include different labs, analysts, instruments, reagents, days, etc.
+Measured by reproducing the same analysis in multiple labs
+
+Which things matter and which things don't?
+
+##### Youden Trial
+
+Choose 7 Factors
+Choose a high and low for each
+Run a series of experiments that mix the highs and lows so all are covered
+Stats calculate the effect of each factor
+Plot on a line according to relative weight of each factor
+
+**Identifies factors that matter in the analysis.**
+
+### Multiple Lab Validation
+
+InterLab?
