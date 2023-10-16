@@ -1,4 +1,4 @@
-Class: #ENGL395B
+Class: #ENGL395B #Courses 
 ***
 # Wednesday, Sep 15, 2023
 Topic: **The Hero, Myth, and the 20th Century**

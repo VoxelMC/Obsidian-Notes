@@ -1,3 +1,4 @@
+#BIOL366 
 ## What Do We Expect?
 - **Sequencing methods**
 	- **Sanger**

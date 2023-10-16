@@ -1,4 +1,4 @@
-Class: #BIOC425
+Class: #BIOC425 #Courses 
 ***
 # Wednesday, Sep 13, 2023
 Topic: **Finishing Stereoselectivity**

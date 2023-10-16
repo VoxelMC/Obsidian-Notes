@@ -1,4 +1,4 @@
-Class: #BIOC412
+Class: #BIOC412 #Courses 
 ***
 # Wednesday, Sep 13, 2023
 Topic: **Data Sets**

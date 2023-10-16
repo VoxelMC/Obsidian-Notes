@@ -1,4 +1,4 @@
-Class Code: #BIOL366
+Class Code: #BIOL366 #Courses
 ***
 # Tuesday, Sep 12, 2023
 ###### Topic: **DNA Modification and Synthesis**

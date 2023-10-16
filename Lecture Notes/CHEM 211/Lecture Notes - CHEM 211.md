@@ -1,4 +1,4 @@
-Class Code: #CHEM211
+Class Code: #CHEM211 #Courses
 ***
 # Tuesday, Sep 12, 2023
 Topic: **General Statistics**
@@ -304,7 +304,7 @@ One way t-test to known value
 
 Two way paired t-test to compare to each other
 
-#### >2 Groups
+#### \>2 Groups
 
 ANOVA
 
