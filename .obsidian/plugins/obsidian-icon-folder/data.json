@@ -1,11 +1,17 @@
 {
   "settings": {
-    "migrated": 2,
+    "migrated": 3,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiSchool",
+      "FasListOl",
+      "RaRoundBottomFlask",
+      "LiBeaker",
+      "FasStar"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -14,6 +20,31 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false
-  }
+    "iconInTabsEnabled": false,
+    "iconsBackgroundCheckEnabled": false
+  },
+  "Attachments/Codon Wheel.png": "LiCircle",
+  "Attachments/Papers": {
+    "iconName": "FasNewspaper",
+    "inheritanceIcon": "FasNewspaper"
+  },
+  "Attachments/Papers/Arnold_Chen_1991-Subtilism.pdf": "FasNewspaper",
+  "Lecture Notes/BIOL 366": {
+    "iconName": "FasCircleNotch",
+    "inheritanceIcon": "FasCircleNotch"
+  },
+  "Lecture Notes/CHEM 211": "LiFlaskConical",
+  "Lecture Notes/ENGL 395B": "FasStar",
+  "Lecture Notes/BIOC 425/Papers": {
+    "iconName": "FasNewspaper",
+    "inheritanceIcon": "FasNewspaper"
+  },
+  "Lecture Notes/BIOC 425/Assignments": {
+    "iconName": null,
+    "inheritanceIcon": "FasAlignLeft"
+  },
+  "Lecture Notes/BIOC 412": "LiBeaker",
+  "Lecture Notes/BIOC 425": "RaRoundBottomFlask",
+  "Lecture Notes/Lecture Todos.md": "FasListOl",
+  "Lecture Notes": "LiSchool"
 }
