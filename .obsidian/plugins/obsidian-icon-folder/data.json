@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBook",
       "FasNoteSticky",
       "LiSchool",
       "FasListOl",
-      "RaRoundBottomFlask",
-      "LiBeaker"
+      "RaRoundBottomFlask"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,6 @@
   "Lecture Notes/Lecture Todos.md": "FasListOl",
   "Lecture Notes": "LiSchool",
   "Lecture Notes/BIOL 366/Tests/Midterm 1 Notes.md": "FasNoteSticky",
-  "Lecture Notes/BIOL 366/Tests/Midterm 2 Notes.md": "FasNoteSticky"
+  "Lecture Notes/BIOL 366/Tests/Midterm 2 Notes.md": "FasNoteSticky",
+  "Lecture Notes/BIOL 366/Tests": "LiBook"
 }
