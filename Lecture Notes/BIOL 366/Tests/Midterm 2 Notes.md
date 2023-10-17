@@ -68,3 +68,15 @@ A cDNA library is a bunch of bacteria that have each been transformed with a pla
 
 ## E. coli recombinant - 
 
+# Textbook Questions
+**Do questions 1-13, 16, 17.**
+
+## Question 1
+
+**h)** Make an oligo so that the bam site can go in without regenerating eco site.
+
+## Question 2
+
+![[Midterm 2 Notes Mo 16-Oct 2023 22.41.excalidraw]]
+
+## Question 3
