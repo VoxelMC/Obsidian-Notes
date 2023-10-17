@@ -6,7 +6,7 @@
 
 ## Todos
 
-- [ ] Finish Metabolomics Assignment
+- [x] Finish Metabolomics Assignment [completion:: Oct 17, 2023 @ 02:51 PM]
 - [ ] English Reading and Watching
 
 ## Ideas

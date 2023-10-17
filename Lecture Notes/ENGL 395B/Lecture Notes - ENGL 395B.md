@@ -141,7 +141,7 @@ Does he know what he is doing?
 
 ### Quizzes
 
-- [ ] Complete Quiz 📅 2023-09-27
+- [x] Complete Quiz 📅 2023-09-27 [completion:: Oct 17, 2023 @ 02:53 PM]
 
 There will be 15 to 20 questions from the texts and films.
 - Multiple Choice
@@ -261,7 +261,7 @@ Lecture Link:
 
 ## Todo/Assignments
 
-- [ ] Check scene analysis outline Sep 29th or 30th.
+- [x] Check scene analysis outline Sep 29th or 30th. [completion:: Oct 17, 2023 @ 02:53 PM]
 
 ## Notes
 

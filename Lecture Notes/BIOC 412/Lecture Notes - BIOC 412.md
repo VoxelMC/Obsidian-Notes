@@ -6,7 +6,7 @@ Topic: **Data Sets**
 ## Todo/Assignments
 
 - [x] Look at Assignment Part 2 ✅ 2023-09-19
-- [ ] Ask Dr. Murch about her Turkish Coffee
+- [x] Ask Dr. Murch about her Turkish Coffee [completion:: Oct 17, 2023 @ 02:51 PM]
 
 ## Notes
 
@@ -204,7 +204,7 @@ Lecture Link: N/A
 
 ## Todo/Assignments
 
-- [ ] Assignment 2 📅 2023-09-27
+- [x] Assignment 2 📅 2023-09-27 [completion:: Oct 17, 2023 @ 02:52 PM]
 
 ## Notes
 
@@ -442,7 +442,7 @@ Enzymes are super simple. They do serial things - add or take *something*.
 - Isomerization can be looked at using same mass at different retention times.
 
 - [ ] Look at Wikipathways or Kegg for pathways
-- [ ] Actually look at the data!!!
+- [x] Actually look at the data!!! [completion:: Oct 17, 2023 @ 02:52 PM]
 
 ### NMR Based
 
@@ -887,7 +887,7 @@ Rebuilds molecule from the entropy - Considers bond strength of individual bonds
 #### MS-FINDER
 
 - [ ] Mess around with MS-FINDER
-- [ ] Check out Lotus Database [Link](https://lotus.naturalproducts.net/)
+- [x] Check out Lotus Database [Link](https://lotus.naturalproducts.net/) [completion:: Oct 17, 2023 @ 02:52 PM]
 
 #### MetaboAnalyst 5.0
 

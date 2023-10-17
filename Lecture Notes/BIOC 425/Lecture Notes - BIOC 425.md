@@ -205,7 +205,7 @@ Lecture Link:
 
 ## Todo/Assignments
 
-- [ ] Problem Set 📅 2023-09-26 
+- [x] Problem Set 📅 2023-09-26 [completion:: Oct 17, 2023 @ 02:52 PM]
 
 ## Notes
 
@@ -338,8 +338,8 @@ $\rightarrow$ 12 $\rightarrow$ 144 $\rightarrow$ 1728 possible codons.
 ### Warren L. DeLano
 
 Created PyMOL
-- [ ] Try to use PyMOL.
-- [ ] PDB
+- [x] Try to use PyMOL. [completion:: Oct 17, 2023 @ 02:52 PM]
+- [x] PDB [completion:: Oct 17, 2023 @ 02:52 PM]
 
 # Wednesday, Oct 04, 2023
 ###### Topic: **3D Structures**

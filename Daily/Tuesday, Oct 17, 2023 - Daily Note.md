@@ -1,7 +1,10 @@
 #Daily
 ## Quotes
 
-{{qotd
+{{qotd}}
+
+`It was tomorrow, during yesterday.`
+``
 
 ## Day Planner
 

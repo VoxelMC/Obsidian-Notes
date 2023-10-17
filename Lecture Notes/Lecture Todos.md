@@ -6,17 +6,6 @@
 	- [x] Metagenomics Halogenase ✅ 2023-09-19
 
 # Daily Notes
-```dataviewjs
-const Tasks = dv.pages("#Daily").file.tasks;
-
-let CompletedTasks = Tasks.where(t => t.completed) || 0;
-let tryPercentage = (CompletedTasks.length / Tasks.length) * 100;
-let percentage = !Number.isNaN(tryPercentage) ? tryPercentage : 0; 
-
-dv.span("![progress](https://progress-bar.dev/" + percentage + "/?title=Daily&width=80" + ")" 
-);
-
-```
 
 ```dataview
 task from #Daily 
@@ -74,33 +63,13 @@ task from #BIOC412
 ```
 
 ## BIOC425
-```dataviewjs
-const Tasks = dv.pages("#BIOC425").file.tasks;
 
-let CompletedTasks = Tasks.where(t => t.completed) || 0;
-let tryPercentage = (CompletedTasks.length / Tasks.length) * 100;
-let percentage = !Number.isNaN(tryPercentage) ? tryPercentage : 0; 
-
-dv.span("![progress](https://progress-bar.dev/" + percentage + "/?title=BIOC425&width=80" + ")" 
-);
-
-```
 ```dataview
 task from #BIOC425
 ```
 
 ## ENGL395B
-```dataviewjs
-const Tasks = dv.pages("#ENGL395B").file.tasks;
 
-let CompletedTasks = Tasks.where(t => t.completed) || 0;
-let tryPercentage = (CompletedTasks.length / Tasks.length) * 100;
-let percentage = !Number.isNaN(tryPercentage) ? tryPercentage : 0; 
-
-dv.span("![progress](https://progress-bar.dev/" + percentage + "/?title=ENGL395B&width=80" + ")" 
-);
-
-```
 ```dataview
 task from #ENGL395B
 ```
