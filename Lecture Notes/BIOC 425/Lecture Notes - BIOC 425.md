@@ -420,4 +420,22 @@ Anti-Identity $\rightarrow$ I don't want ANYTHING ELSE to modify me.
 
 Changing 3 bases can change tRNA Synthetase Specificity.
 
+# Friday, Oct 13, 2023
+###### Topic: **Metabolic Engineering**
+Lecture Link:
+
+## Todo/Assignments
+
+## Notes
+
+Common issues of redirecting flux in microbial factories.
+- Poor expression of genes
+- Toxicity of intermediate
+- Cost of C sources
+- Expression levels of enzymes are frequently dramatically higher than would be naturally found
+- High expression robs flux of nts and AAs that could have been used for biomass production or desired product, decreasing titers and inducing stress responses (in the cells AND the researcher)
+- You are fighting homeostasis
+
+- [ ] 2 plasmids in the same host cannot have the same ORI...?
+
 
