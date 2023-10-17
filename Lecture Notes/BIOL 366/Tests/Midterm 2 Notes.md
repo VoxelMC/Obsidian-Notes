@@ -79,4 +79,10 @@ A cDNA library is a bunch of bacteria that have each been transformed with a pla
 
 ![[Midterm 2 Notes Mo 16-Oct 2023 22.41.excalidraw]]
 
-## Question 3
+## Question 4
+
+![[Midterm 2 Notes Mo 16-Oct 2023 22.58.excalidraw]]
+
+## Question 7
+
+

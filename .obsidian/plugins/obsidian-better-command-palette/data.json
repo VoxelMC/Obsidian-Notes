@@ -18,6 +18,13 @@
         "obsidian-git:push2"
       ],
       "delay": 800
+    },
+    {
+      "name": "Create and Embed Excalidraw Drawing",
+      "commandIds": [
+        "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-popout"
+      ],
+      "delay": 200
     }
   ],
   "hotkeyStyle": "windows",
