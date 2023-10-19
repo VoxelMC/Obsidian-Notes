@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBookOpen",
       "LiBook",
       "FasNoteSticky",
       "LiSchool",
-      "FasListOl",
-      "RaRoundBottomFlask"
+      "FasListOl"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,7 @@
     "inheritanceIcon": "FasCircleNotch"
   },
   "Lecture Notes/CHEM 211": "LiFlaskConical",
-  "Lecture Notes/ENGL 395B": "FasStar",
+  "Lecture Notes/ENGL 395B": "FasBookOpen",
   "Lecture Notes/BIOC 425/Papers": {
     "iconName": "FasNewspaper",
     "inheritanceIcon": "FasNewspaper"
@@ -49,5 +49,6 @@
   "Lecture Notes": "LiSchool",
   "Lecture Notes/BIOL 366/Tests/Midterm 1 Notes.md": "FasNoteSticky",
   "Lecture Notes/BIOL 366/Tests/Midterm 2 Notes.md": "FasNoteSticky",
-  "Lecture Notes/BIOL 366/Tests": "LiBook"
+  "Lecture Notes/BIOL 366/Tests": "LiBook",
+  "Lecture Notes/ENGL 395B/Lecture Notes - ENGL 395B.md": "FasBookOpen"
 }
