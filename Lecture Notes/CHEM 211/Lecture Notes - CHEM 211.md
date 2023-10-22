@@ -918,3 +918,38 @@ Plot on a line according to relative weight of each factor
 ### Multiple Lab Validation
 
 InterLab?
+
+# Tuesday, Oct 17, 2023
+###### Topic: **Murch Case Study**
+Lecture Link:
+
+## Todo/Assignments
+N/A
+
+## Notes
+
+# Thursday, Oct 19, 2023
+###### Topic: **Physical Chemistry?**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Physical Force on Water
+
+Pushes water apart. Water expands because you made the molecules further apart.
+
+### Chemical Force on Water
+
+### Microfluidics
+
+Lab on a chip
+Lego microfluidics
+Atrandi
+
+### Detectors
+
+

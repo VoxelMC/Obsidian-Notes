@@ -438,4 +438,112 @@ Common issues of redirecting flux in microbial factories.
 
 - [ ] 2 plasmids in the same host cannot have the same ORI...?
 
+# Wednesday, Oct 18, 2023
+###### Topic: **Artemisinic Acid: Case Study**
+Lecture Link:
 
+## Todo/Assignments
+
+- [ ] Look at practice Midterm
+
+## Notes
+
+Artemisinin found after metabolic engineering, after a lot of looking for ADH and stuff.
+
+- [ ] Nature Paper: Microbial supply chain for production of the anti-cancer drug vinblastine
+
+2000 kg of leaves to get 1 g of product.
+
+### Immobilized Enzymes
+
+Glucose isomerase $\rightarrow$ Fructose
+Sucrose mutase $\rightarrow$ **...**
+Penicillin acylase $\rightarrow$ 6-APA
+Thermolysin $\rightarrow$ Aspartame
+Nitrilase $\rightarrow$ Acrylamide
+
+#### Supports
+
+Water-insoluble $\rightarrow$ polysaccharides or gelatin/albumin
+Inorganic supports $\rightarrow$ silica
+
+![[Pasted image 20231018162134.png]]
+
+#### Entrapment
+
+Inclusion in a polymer network (agarose, silica sol-gel)
+Covalent attachment is required
+Entrapment generally requires the synthesis of the polymeric matrix in the presence of the enzyme.
+
+##### Silica Sol-gels
+Hydrolytic polymerization of tetraethoxysilane
+Drying of the gel leads to formation of cages
+Can remove methanol from waste water
+Used with whole cell catalysts rather than enzymes
+
+**Hydrogels**
+Immobilized using natural or synthetic polymers
+![[Pasted image 20231018162338.png|50%]]
+
+#### Crosslinking
+
+CLEC or CLEA
+crosslinked enzyme crystals/aggregates
+
+Highly concentrated enzyme activity in the catalyst
+Lower production cost due to lack of carrier
+
+(NH3)2SO4 to precipitate, then add glutaraldehyde to crosslink them. Because it can crystallize because it is highly concentrated.
+
+Amines react w/ aldehydes
+
+![[Pasted image 20231018163114.png]]
+
+#### Measuring Success of Immobilization
+
+% Yield = $100 \times \frac{\text{Immobilized activity}}{\text{Starting activity}}$
+
+Immobilization efficiency = $\frac{\text{Observed activity}}{\text{Immobilized Activity}}$
+
+Activity recovery = $\frac{\text{Observed activity}}{\text{Starting Activity}}$
+
+Example:
+$$\% Yield = 100 \times \frac{80U}{100U} = 80\%$$
+
+$$
+\% Efficiency = 100 \times \frac{40U}{80U} = 50\%
+$$
+
+$$
+\% Activity_{Recovery} = 100 \times \frac{40U}{100U} = 40\%
+$$
+
+**Do we need to do a specific change in amino acid, or just random degenerate for all amino acids**
+
+**Does the primers work like this or like this**
+![[Lecture Notes - BIOC 425 We 18-Oct 2023 16.44.excalidraw]]
+
+# Friday, Oct 20, 2023
+###### Topic: **Industry Enzymes**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+Emperical Rule: **Kazlauka's Rule**
+Predicts how a lipase will react in terms of stereoselectivity in a lipase catalyzed reaction.
+
+Lipases need no cofactors or coenzymes.
+Used in everything, a very big industry.
+
+Trans-esterification! Chocolate!
+
+### Production of Naproxen
+
+Dynamic Kinetic Resolution $\rightarrow$ Kinetic Resolution coupled to racemization of unwanted enantiomer. 
+- Desired product must no racemize
+- Enzymatic reaction needs high stereoselectivity
+- Substrate must racemize faster than enzymatic reaction 

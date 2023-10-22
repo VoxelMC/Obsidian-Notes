@@ -896,3 +896,61 @@ Does Stats
 
 Has NMR Peak Lists
 NMR Bayes is there under other, check out what that does!
+
+# Wednesday, Oct 18, 2023
+###### Topic: **Software**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+AD AD processing
+MS scan 1
+make sure not MS2
+Polarity +
+
+Data from an MS to excel is hard...
+
+MZmine is an irrational program
+
+### Software 1 - MetaboAnalyst
+
+How to meaningfully use MetaboAnalyst
+- Think about your data, and what you are actually putting into the program.
+
+- [ ] Read Tutorials at [MetaboAnalyst](https://www.metaboanalyst.ca/docs/Tutorials.xhtml)
+- [ ] Check https://omicsforum.ca
+
+Seq2Fun - RNASeq with Metabolomics Data
+
+- [ ] Check [MetaboAnalystR](https://www.metaboanalyst.ca/docs/RTutorial.xhtml)
+Automated p-values are weighted for the human genome, so might have to change that. Use something-Wallis p-value
+
+**Things to Try:**
+1. Load mzML into LC-MS spectra processing,
+
+Start at the bottom, and work up.
+
+Check the data file to make sure it looks like your input, might be why it doesn't work.
+
+#### Transformation and Normalization
+
+Bring small things up and change big things by not that much.
+Play around with this, make all the things go to the middle.
+**For Portfolio** Step 1. Normalize Data
+
+#### Processing
+
+SAM data is RNA processing from a microarray but with your MS data
+
+Map Pathway from most significant feature
+PLS-DA most VIP score
+
+### Software 2 - Murch's Stuff
+
+
+
+### MSDial

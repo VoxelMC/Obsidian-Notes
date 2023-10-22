@@ -440,3 +440,13 @@ Eye level? What does that imply?
 - Pan
 	- Frame moves side to side.
 
+# Friday, Oct 20, 2023
+###### Topic: **...**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
