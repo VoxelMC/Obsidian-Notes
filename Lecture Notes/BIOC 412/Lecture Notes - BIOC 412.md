@@ -954,3 +954,73 @@ PLS-DA most VIP score
 
 
 ### MSDial
+
+
+# Monday, Oct 23, 2023
+###### Topic: **More MetaboAnalyst**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+## Cranberry Data
+
+Stevens Cranberry is our one
+
+**MetaboAnalyst**
+
+What is the best statistic in terms of filtering
+SD, RSD?
+
+We use whatever is default for filtering
+
+*Data Normalization*
+Once it's normalized, the file is mutated. Don't do it again.
+
+-> Log Transform
+-> Auto Scaling
+
+Now that there are 5 treatments
+
+Network Plots
+Edges length $\rightarrow$ How far apart are the values
+
+### PCAs
+
+Often overinterpreted
+
+---
+
+Heatmap shows outlier Stevens B
+
+Same with K-means
+
+- [ ] Chec out excel Data > Text to Columns
+
+Get a hit list from SAM or something
+Put it into mummichog (Pathway Analysis)
+
+Set up data in CSV to do some metabolite mapping
+
+Biomarker Analysis
+Compare stevens to ONE thing for the ROC analysis (receiver operator characteristic)
+- Calculates AUC and ranks by ROC curve. Determines most significant in data if data is not normal
+- For each metabolite what is the most significant difference.
+- Plots true positive rate against false positive rate.
+
+Then load this to pathway thing
+
+
+Meta Analysis thing
+Upload data
+get a kegg map
+
+## Metabolomics Workbench
+
+Just wanna do science and publish a paper w/o being in a lab?
+Design an experiment, download data from here, and write a paper.
+
+Ask any question you want

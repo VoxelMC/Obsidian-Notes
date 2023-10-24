@@ -547,3 +547,15 @@ Dynamic Kinetic Resolution $\rightarrow$ Kinetic Resolution coupled to racemizat
 - Desired product must no racemize
 - Enzymatic reaction needs high stereoselectivity
 - Substrate must racemize faster than enzymatic reaction 
+
+# Monday, Oct 23, 2023
+###### Topic: **...**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+
