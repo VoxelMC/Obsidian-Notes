@@ -450,3 +450,48 @@ Lecture Link:
 
 ## Notes
 
+
+# Wednesday, Oct 25, 2023
+###### Topic: **War Imagery**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Dunn 
+How can we reconcile evil and an all-encompassing Force.
+
+**Panentheism** dissolves the distinction between good and evil as thoroughly and relentlessly as the Mustafar's lava melts flesh.
+
+#### Panentheism
+
+In theism, God is Separate and above the universe.
+
+Panentheism has God surrounding the universe.
+
+**Pantheism** God = universe
+
+If the force is regarded in panentheism, then the Force contains evil, because it contains everything, and evil is something. 
+
+### Frankel
+
+Feminist Media Studies analysis
+Episodes 7 and 8
+
+#### Cross-boundary intertextuality
+
+Harry Potter Books - Brings in Latin and Greek literature.
+Intertextual - links to other texts.
+Cross-boundary - interacts with fan-discourse, on TOP of literature and media.
+- Even Fan-Fiction
+
+#### Liminal Boundary
+
+Star Wars crosses liminality between dual concepts. Light and Dark, Good and Evil.
+
+Also, text $\leftarrow$ Liminal $\rightarrow$ life
+
+

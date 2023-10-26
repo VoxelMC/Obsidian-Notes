@@ -1024,3 +1024,136 @@ Just wanna do science and publish a paper w/o being in a lab?
 Design an experiment, download data from here, and write a paper.
 
 Ask any question you want
+
+# Wednesday, Oct 25, 2023
+###### Topic: **Metabolomics Workbench and Public Databases**
+
+## Todo/Assignments
+
+## Notes
+
+Piktochart [link](https://create.piktochart.com/teams/29861254/dashboard) for Portfolio
+
+### Public Databases
+
+You can put data on a hard drive for never or you can put it into a public repository!
+
+#### Benefits
+
+Transparency = reader confidence
+If YOU are confident, make it public
+
+Allows for other researchers to reproduce results = reader confidence
+
+Publications in better journals
+
+#### Retip
+
+Open-access.
+Machine-learning tool
+- All of the chromatography data,
+- learned from retention time, molecule, and column
+
+#### Reporting Guidlines
+
+FAIR: Findable, Accessible, Interoperable, Reproducible
+
+FAIR Data policies are in place across many fields of scientific research including microarray data, genomics, proteomics.
+
+Est. that 2/3 of researchers have concerns about data reproducibility.
+
+##### **F**indable
+Data and supplementary materials have sufficiently rich metadata and a unique and persistent identifier
+
+##### **A**ccessible
+Metadata and Data are understandable to HUMANS and MACHINES. Data is deposited in a trusted repository
+
+##### **I**nteroperable
+Metadata use a formal, accessible, shared, and broadly applicable language for knowledge representation
+
+##### **R**eusable
+Data and collections have a clear usage license and provide accurate information on provenance
+- License number,
+- Ethics,
+- Biosafety
+
+##### Reporting
+
+Plant people are better at being compliant.
+
+Metabolomics Workbench is the most compliant for plants.
+
+### Repositories
+
+Metabolomics Workbench
+MetaboLights
+Metabolic Phenotype Database (MetaPhen) GC-MS Focused
+Metabolomics Repository Bordeaux (MeRy-B) NMR Focused
+MetabolomeXChange
+GNPS** No minimum data reporting requirements
+
+ProteomeXChange
+
+### Workbench
+
+Do:
+Volcano Plot
+Network Analysis
+
+### Publication
+
+Something called Dryad
+If you need to make data public, use Metabolomics Workbench
+
+### Data Workflow
+
+Acquire
+Data quality
+Visualize
+Normalize and scale
+Visualize
+Apply analysis
+
+1. Minimize Data, filter some out
+	- PCA?
+	- Need Blanks
+		- Solvent Blanks
+			- One for each solvent
+		- Blank Matrix (Subtractive Metabolomics)
+			- Sugar Matrix, so you can remove the sugars
+			- Wild Type, so you can remove consistent data
+
+	Independent Variables
+	- Experimental condition or treatment
+	- Chosen in design
+		- Nominal (>2 unordered groups)
+		- Ordinal (>2 ordered groups)
+		- Binary (2 groups)
+	
+	Dependent Variables
+	- Measurement
+		- Time, m/z, spectra, etc.
+	- Data collected
+		- Continuous (conc, peak intensity)
+		- Discrete (read counts)
+
+#### Univariate vs. Multivariate Analysis
+1 variable or many variables.
+
+SAM is **Uni**
+ANOVA is **Multi**
+
+**Uni**
+Is the metabolite changing between treatments?
+
+**Multi**
+Is the metabolite changing between treatment groups?
+Which metabolites are different between groups?
+What metabolites are most responsible for the differences between groups?
+
+**Bayesian** - *What will come next?*
+What metabolites are most important?
+- "These previous samples had lots of sugar, weight the algorithm to look for more sugar."
+
+
+

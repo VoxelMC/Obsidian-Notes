@@ -14,6 +14,7 @@
 
 
 ### Methods
+
 **Determination of Wavelength Max**
 1. Appropriately Label Volumetric Flask 1.
 2. Weigh 0.010 g of crystal purple merlot colorant.
@@ -25,3 +26,9 @@
 1. Appropriately label a volumetric flask 2.
 2. Weigh 0.200 g of crystal purple merlot and dissolve in citric acid buffer in a 100 mL volumetric flask to prepare a stock solution.
 3. Transfer 20 mL of the stock solution to a new volumetric flask labelled "0.2 dilution" 
+4. Transfer 10 mL of the stock solution to a new volumetric flask labelled "0.1 dilution"
+5. Fill both volumetric flasks to the stop line with CAB to make the respective dilutions.
+6. Cap and invert flasks
+7. Zero spectrophotometer using citric acid buffer
+8. Measure absorbance at $\lambda_{max}$  
+**Determination of Unknown Concentrations**
