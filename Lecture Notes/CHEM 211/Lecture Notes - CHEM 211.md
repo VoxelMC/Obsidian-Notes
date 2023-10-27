@@ -952,4 +952,43 @@ Atrandi
 
 ### Detectors
 
+# Thursday, Oct 26, 2023
+###### Topic: **Midterm Preparation**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+What kind of chromatography would you use for THIS?
+
+What is the difference in house reference materials vs certified reference materials
+What is design of experiments
+
+Different types of errors?
+Label stuff: Column
+
+Choose the best method for a thing
+how to explain this on a jury
+
+Analytes
+Standards
+Separations 
+Detectors
+
+### Practice Question
+
+To maintain a healthy diet, adults require 90-120μg/day of vit K. Vit K is a class of fat soluble vitamins found in many foods including breakfast cereals. You analyzed 5 boxes of Kellogg's Special K using 2 different methods. The label on the box says the vitamin K content should be 12 μg/100 g. 
+
+|         | Method 1    | Method 2      |
+| ------- | ----------- | ------------- |
+| Average | 0.128       | 0.121         |
+| Median  | 0.128       | 0.119         |
+| Normal? | Yes         | Skewed        |
+|         | More Normal | More Accurate |
+ 
+And why = probably whatever you choose is right
+
 
