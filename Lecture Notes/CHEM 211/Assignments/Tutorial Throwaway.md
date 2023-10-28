@@ -32,4 +32,38 @@
 7. Zero spectrophotometer using citric acid buffer
 8. Measure absorbance at $\lambda_{max}$  
 **Determination of Unknown Concentrations**
-1. 
+1. Prepare a dilution series starting from a 2 mg/mL stock solution. Transfer 75 mL of stock and fill to the 100 mL line to make a 3/4 dilution. Do this 5 times.
+2. Zero at λ_max with deionized water.
+3. Measure absorbance of each standard, starting from the lowest concentration to the highest.
+4. Last, measure absorbance of unknown solutions.
+5. Performed in triplicate pseudoreplicates.
+
+### Calculations
+
+1. **Average Absorbance (Standard Series 1 Solution):** Calculated using Excel AVERAGE function: \(0.128 \, \text{AU}\)
+  
+2. **Standard Deviation of Absorbance (Standard Series 1 Solution):** Calculated using Excel STDEV.S function: \(0.00057735 \, \text{AU}\)
+  
+3. **Standard Error (Error Bar) for Standard Series 1 Solution:** \( \%RSD = \frac{0.00057735}{\sqrt{3}} = 0.0003333 \, \text{AU}\)
+  
+4. **Extinction Value (EV) Calculation:** \(EV = \frac{0.2}{0.2018 \times 1.100} = 27.25470763\)
+  
+5. **Average Extinction Values:** Calculated using Excel AVERAGE function: \(24.4301288 \approx 24\)
+  
+6. **Concentration of Unknown Solution (Unknown 1):** \( \text{Concentration} = \frac{(0.183 - (-0.00842))}{1.581866} \approx 0.12101 \, \text{mg/mL}\)
+  
+7. **Slope and Y-intercept Standard Deviations, etc.:** Calculated using Excel LINEST function
+  
+8. **Squared Standard Deviation of X:** Calculated using Excel DEVSQ function: \(0.001363 \, \text{mg}^2/\text{mL}^2\)
+  
+9. **Number of Points Used for Calibration:** Calculated using Excel COUNT function: \(3\)
+  
+10. **Mean of Y Values on the Calibration Curve:** Calculated using Excel AVERAGE function: \(0.081 \, \text{AU}\)
+  
+11. **Number of Replicates Used for yc:** Calculated using Excel COUNT function: \(3\)
+  
+12. **Mean of Replicate Analyses of c:** Calculated using Excel AVERAGE function: \(0.183 \, \text{AU}\)
+  
+13. **Standard Deviation of Concentration of Unknown Solution (sc):** \(sc = \frac{0.000229391}{|1.581866|} \times \sqrt{\frac{1}{3} + \frac{1}{3} + \frac{(0.183 - 0.081)^2}{(1.581866^2 \times 0.001363)}} \approx 0.000279 \, \text{mg/mL}\)
+  
+14. **95% Confidence Interval for Concentration of Unknown Solution:** \(95\% \, \text{CI} = 12.71 \times 0.000229391 \approx 0.002916 \, \text{mg/mL}\)
