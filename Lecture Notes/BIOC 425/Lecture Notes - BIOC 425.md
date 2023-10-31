@@ -549,7 +549,7 @@ Dynamic Kinetic Resolution $\rightarrow$ Kinetic Resolution coupled to racemizat
 - Substrate must racemize faster than enzymatic reaction 
 
 # Monday, Oct 23, 2023
-###### Topic: **...**
+###### Topic: **Some Mechanisms**
 Lecture Link:
 
 ## Todo/Assignments
@@ -558,4 +558,14 @@ Lecture Link:
 
 ## Notes
 
+# Monday, Oct 30, 2023
+###### Topic: **Ketoreductases**
+Lecture Link:
 
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+Chemdraw
