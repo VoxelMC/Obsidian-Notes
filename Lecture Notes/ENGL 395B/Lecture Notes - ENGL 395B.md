@@ -253,7 +253,7 @@ Planets are countries, another layer of galactic abstraction.
 
 #### Lens Flare
 
-- [ ] Read about lens flares in film and what they mean.
+- [x] Read about lens flares in film and what they mean. [completion:: Oct 30, 2023 @ 05:07 PM]
 
 # Friday, Sep 29, 2023
 ###### Topic: **Continuing Identity**

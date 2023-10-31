@@ -1155,5 +1155,13 @@ What metabolites are most responsible for the differences between groups?
 What metabolites are most important?
 - "These previous samples had lots of sugar, weight the algorithm to look for more sugar."
 
+# Monday, Oct 30, 2023
+###### Topic: **M**
+Lecture Link:
+
+## Todo/Assignments
+N/A
+
+## Notes
 
 
