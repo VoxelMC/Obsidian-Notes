@@ -1137,7 +1137,7 @@ Apply analysis
 		- Continuous (conc, peak intensity)
 		- Discrete (read counts)
 
-#### Univariate vs. Multivariate Analysis
+### Univariate vs. Multivariate Analysis
 1 variable or many variables.
 
 SAM is **Uni**
@@ -1156,12 +1156,201 @@ What metabolites are most important?
 - "These previous samples had lots of sugar, weight the algorithm to look for more sugar."
 
 # Monday, Oct 30, 2023
-###### Topic: **M**
+###### Topic: **MetaboAnalyst - What Tests Mean**
 Lecture Link:
 
 ## Todo/Assignments
-N/A
+
+- [ ] Portfolio assignment opens on November 1, will be due in December.
 
 ## Notes
 
+### Continuing Last Lecture
 
+- [ ] What is Pareto? What is frontloading the data?
+#### Descriptive Statistics in Metabolomics
+
+Name the numbers of the normal curve
+68.2 95.5 99.7
+1 sd 2 sd 3 sd
+
+%RSD = Coefficient of Variation
+- Useful for data with very different means
+
+Pseudoreplication is VERY PRECISE
+Real biological replication is not. This is more accurate.
+
+**Precision in metabolomics is**
+- Quality control standards
+- Alignment standards
+- Instrument calibration standards
+- Comparison between experiments, labs, datasets.
+
+#### Multivariate Statistics in Metabolomics
+
+Dependent variables in multivariate are interlinked. They depend on each other.
+
+Particularly important in metabolomics since metabolites do not function in isolation.
+
+Classification of metabolites into Unsupervised and Supervised groups.
+- **Unsupervised**: Exploratory; trends not 
+	- PCA
+- **Supervised**: Confirmatory; You tell which things belong where
+	- PLS-DA
+
+##### Principal Component Analysis - What is It
+
+Circles are 95% confidence in the *model*. 95% sure you used the right model.
+
+Add the variance from each axis to get how much of the sample variance is described by these two components.
+
+Variance: Square of SD of how different the things are from each other.
+
+Bottom axis: Thing that varies the most
+Side axis: Second or third thing that varies the most.
+
+This is a matrix projection method.
+- Windows in multi dimensional spaces
+	- Tables with many correlated variables
+- Generates new independent latent variables consisting of scores ($t_i$) and loadings ($p_i$)
+- Interpretation of scores: info about relationships between objects
+- Interpretation of loadings: info about how far from an axis
+
+**What is it doing?**
+Calculating the difference between data points
+Plotting difference data along a vector
+Ranking data by distance to the vector
+Centering to the most dense data
+Determining points furthest from the most data (most different)
+Clustering samples based on distance from centered data.
+
+### PCA and Eigenvalues/Eigenvectors
+
+Assume data is linear
+Transform data
+Sort by scores
+Compare by loadings
+
+- [ ] Do eigen stuff at the eigen institute for a weekend. ::BUCKETLIST
+
+#### Data to Variable Space
+
+1. Plot in 3d
+2. Move origin of axes to the middle of the cluster
+3. First principal component (PC1)
+	1. Biggest data difference
+	2. Set to describe the largest variation in the data, which is the same as the direction in which the points spread most in the variable space.
+	3. Score ($t_{i1}$) is distance from projection of the point on the 1st component to the origin
+
+![[Lecture Notes - BIOC 412 Mo 30-Oct 2023 17.38.excalidraw]]
+
+Honestly, just look at the slides. AND DOWNLAOD THEM
+
+- [ ] Download all of the slides!!!!!!
+
+Loading is the distance that the features have moved from theoretical 0, intersection of the two scores. Basically a 3d coordinate.
+
+Biplot
+- Arrows represent the eigenvectors
+
+Scree plot
+- Total variance explained by each principal component.
+
+Variation compressed from K dimensions to 2 dimensions
+
+Hotelling's T^2 test
+- Generalized Student's t-test of a PCA
+- Tells what the outliers are. 
+
+### Uses of PCA
+
+It definitely tells the stunningly obvious
+- Data exploration and visualization
+- Outlier Detection
+- Variable reduction
+- Data preprocessing evaulation (are there obvious groups?)
+- Validation
+
+### PLS-DA
+
+Cross-validation
+
+IF you get a WILDLY different answer from PLS-DA from PCA, something is wrong.
+They *should* be the same.
+
+If the result is non-specific, you can use non-linear supervised analyses such as random forests.
+
+Using too many components overfits the model. 
+
+**VIP Scores (Variable Importance on Projection)**
+
+1 score per variable per component.
+Tells you which components have high and low variability based on treatment.
+What is different between the thing and the major component in the thing.
+
+\>1 is significant, depending on number may set a higher cut-off
+<1 is less important, can also excluding from the model
+
+Analogous to univariate p-values.
+Tells which features to investigate.
+Probably the most useful.
+
+### False Discoveries and True Values
+
+How do I know?
+
+#### Significant Analysis of Microarrays (SAM)
+
+For each variable, finds highest and lowest values and calculates a t-test for them.
+
+![[Lecture Notes - BIOC 412 Mo 30-Oct 2023 18.07.excalidraw]]
+
+Does not assume normality. 
+
+Things above the line are not different, things below are. In metabolomics, we want our chosen components to NOT be below the line.
+
+### Bayesian Statistics
+
+Mapping and clustering
+
+- [ ] Website called linked papers to make a map of papers which cited a paper.
+
+Pick a molecule, and look at all of the things that are linked to that molecule. 
+
+Predictive, hypothesis generating, clustering, mapping, networking, machine learning.
+Each parameter can have a probability distribution given some extra context (prior knowledge)
+
+Allows you to ask "which result is more important"?
+
+Compares distributions of observations.
+
+Edges - distance between individual things in a cluster.
+
+**Cytoscape** and **GNPS** are good tools for this.
+
+### Clustering Methods
+
+https://fronteirsin.org/articles/10.3389/fbioe.2018.00031/full 
+
+Heirarchal Clustering
+
+Outputs as dendrograms and heat maps.
+- Lines on the side, series of clusters.
+	- Find 2 most similar metabolite expression levels or curves
+	- find net closes pair of levels
+	- iterate
+
+K-means clustering, calculate averages between different nodes of the cluster.
+- Randomly chooses k observations from the datasets and uses these as initial means
+- Calculates the similarity of the next object to this centroid
+- If similarity is greater than threshold, object added to the cluster and centroid is recomputed, if not the object starts a new cluster
+- Repeat until done
+
+#### Biological Context
+
+If it doesn't look right go back and look at it again.
+
+Many approaches are prone to overfitting
+Other times no obvious separation by PCA/PLS-DA but a strong biological phenomenon should be present
+Consider groups of metabolites that are known to be involved in the process
+Targeted/untargeted analysis
