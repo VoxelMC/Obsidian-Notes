@@ -1332,7 +1332,7 @@ Edges - distance between individual things in a cluster.
 
 https://fronteirsin.org/articles/10.3389/fbioe.2018.00031/full 
 
-Heirarchal Clustering
+Hierarchal Clustering
 
 Outputs as dendrograms and heat maps.
 - Lines on the side, series of clusters.
@@ -1354,3 +1354,56 @@ Many approaches are prone to overfitting
 Other times no obvious separation by PCA/PLS-DA but a strong biological phenomenon should be present
 Consider groups of metabolites that are known to be involved in the process
 Targeted/untargeted analysis
+
+# Wednesday, Nov 01, 2023
+###### Topic: **GNPS**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Assignment (Portfolio)
+
+Make a good biorender!
+Make the whole thing pretty
+
+Analysis report is an appendix for the final report.
+
+### GNPS
+
+In silico enzyme prediction
+Precursor; Predict that the enzyme exists; do the math to figure out what the product should be; figure out that its there.
+
+#### Synthetic Biotransformations
+
+AKA In silico enzymology, logical algorithms.
+
+#### GNPS Continued
+
+https://gnps.ucsd.edu/
+
+"Social Molecular Networking"
+-> Structural Dereplication 
+- Find unknown knowns.
+
+https://ccms-ucsd.github.io/GNPSDocumentation/quickstart
+
+Can use mzXML, mzML, or Thermo raw.
+Less than 3 treatments.
+Analysis maxiumum of 50 spectrum files.
+Each file less than 200 MB.
+
+MASST
+- Library of spectra
+	- "MS equivalent of NCBI BLAST"
+
+linked paper website!!!!
+
+Assumes data independent
+
+Takes ALL The peaks, no baseline editing.
+
+
