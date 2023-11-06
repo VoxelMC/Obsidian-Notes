@@ -494,4 +494,65 @@ Star Wars crosses liminality between dual concepts. Light and Dark, Good and Evi
 
 Also, text $\leftarrow$ Liminal $\rightarrow$ life
 
+# Friday, Nov 03, 2023
+###### Topic: **Binary Opposites**
+Lecture Link:
+
+## Todo/Assignments
+
+## Notes
+
+### Some Big Ideas
+
+#### Balance
+- Leads to liminality
+
+#### Liminality
+- The space in-between
+- Grey Jedi
+
+#### Tension
+- Inter-relatedness
+- Luke
+	- Contradicts and counters Kylo Ren's overt effort to BE RAGE AND SITH AND SUPER VADER
+	- Institutional approach of separation into light and dark.
+
+### Dark Place Scene
+
+Drop of water, probably from higher up.
+Movement of water and mise-en-scene lead to making a differentiation between the light and the dark being difficult. Continuous with each other.
+
+Rey wears light and dark, like the mise-en-scene. She is standing in light AND the shadowy darkness, as the drop falls.
+
+She looks down, and can slightly see herself, but drop ripples her reflection.
+- Her assumptions of the force are shattered, like her reflection.
+
+Troubles the concept that the two are apart.
+
+Rey pursues the dark side, approaching with a calm curiosity.
+
+The mirror, showing infinite hers, 
+- Could mean she self-saves
+
+Could she be her own shadow self?
+
+
+### Melodrama
+
+Accentuates human elements of emotion, family, fear, and home.
+
+When C3PO will be reset, very emotional close up!
+
+#### Space Travel
+
+In sci-fi, it's usually quite tense, alienated, dangerous.
+- In Star Wars, it's quite commonplace.
+- Day to day commute?!
+
+#### Morality
+
+Spectators find themselves 'observing extreme moral injustice' (Singer quoted by Tasker 13).
+
+Planet Killer Weapons
+
 
