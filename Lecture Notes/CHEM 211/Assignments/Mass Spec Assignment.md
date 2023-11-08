@@ -1,4 +1,4 @@
-
+1. The most important pieces of the makeshift mass spectrometer are the copper piping, rubber stoppers, sewing needles, copper tape, razor blades, and a tungsten filament. To get the best vacuum possible, a basic vacuum pump to pull a low but not perfect vacuum, then a turbomolecular pump to pull the rest of the air out. For the signal acquisition and processing, a copper cup was hooked up to a pre-amplifier integrated chip, powered by two 9V batteries. This then output to a low pass filter and oscilloscope for reading the output. Last, two power supplied are needed to run the instrument - one DC and one AC. This is for constant power that is slightly frequency modulated by the AC output.
 
 2. To provide a pass-through for conduction without compromising the vacuum seal required for the system to run. The sewing needles provide the electrical interface between the power source and the tungsten filament, and also between the copper cup detector and the pre-amplifier circuit.
 
