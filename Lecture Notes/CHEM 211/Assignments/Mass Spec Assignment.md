@@ -8,4 +8,4 @@
 
 5. The main problem with the setup is the throughput. After a run, which only lasts for 10 minutes of signal acquisition, the entire system must cool down and equilibrate, be loaded, and brought back up to temperature and vacuum. This process takes much too long. Another problem is that the spray of ionized sample molecules is not directed by any means, meaning that the inside of the sample chamber gets coated with salt that is not being directed down the instrument - drastically reducing the output signal. 
 
-6. It works, as in it is able to get a signal for potassium. It doesn't work, as in it is probably systematically inaccurate in its readings. 
+6. It works, as in it is able to get a signal for potassium. It doesn't work, as in it is probably systematically inaccurate in its readings. e
