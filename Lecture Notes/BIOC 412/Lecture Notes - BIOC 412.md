@@ -763,7 +763,7 @@ Definitely try out annotations.
 - Database Match to HormonomicsDB
 
 # Wednesday, Oct 11, 2023
-###### Topic: **...**
+###### Topic: **Deconvolution and Tooling**
 Lecture Link:
 
 ## Todo/Assignments
@@ -1405,5 +1405,83 @@ linked paper website!!!!
 Assumes data independent
 
 Takes ALL The peaks, no baseline editing.
+
+# Monday, Nov 06, 2023
+###### Topic: **HormonomicsDB**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### The HormonomicsDB Story
+
+**Plants are way cooler than animals.**
+
+ALL plant cells are totipotent - Any cell can become another cell. Even embryos.
+
+There is one pomelo that is natrually occurring.
+
+Citrus made from protoplasts, fusing them together, and growin'em and seeing what we got.
+
+Hormones supposed to be at small quantities, so why:
+- Cytokinins from adenine
+- Auxins from tryptophans
+- (Skoog and Miller Hypothesis) All cytokinin and auxin knockouts are lethal.
+
+High aux low cyt $\rightarrow$ Roots
+Opposite $\rightarrow$ Shoots
+High both $\rightarrow$ Callus
+
+How do we measure hormones? So little!!!
+\+ site of synthesis changes
+
+Cell walls are made into desks and chairs.
+
+Apoplastic space is 5.7 pH. Media is too because you want to mimic it.
+Lower auxin at a specific location makes pH to 5.2 which activates cellulase and hemicellulases specifically at one place in the cell wall, which cuts it, and then causes plant bending!
+
+Ethylene is a plant scream.
+
+There are lots of plant hormone classes.
+- Auxin
+- Cytokinins
+- Salicylates
+- Strigolactones
+- Brassinosteroids
+- Ethylene
+- Karrikins
+- Gibberellins
+- Abscisic Acids
+- Jasmonates
+
+Karrikins are released by wildfires, and old (30 yo) seeds can germinate because of karrikin presence.
+Natural repair of forests and stuff.
+
+#### Melatonin and Serotonin - Plant Growth Regulators???
+
+Murch's PhD thesis, discovering melatonin in plants! 1997.
+
+In 2000 she found the pathway using 14C doping. 12-13 years to get in textbooks.
+
+Murch used crazy drugs on plants in subsequent papers (2001, 2002).
+
+Measurement at a moment in time may or may not contribute to what is actually happening in the plant. Its all cross talking and in flux, so what's the point?
+
+Quantum dots can be used for single molecule detection.
+
+- [ ] Quantum dot things
+
+"not looking at any trevors in the room"
+
+HormonomicsDB is for NUANCE. Not many compounds, but so much information about their relationships.
+
+Was smell of cannabis correlated with terpene profile?
+
+High THC are lower because carbon flux goes towards giberrelic acid.
+- High THC varieties smell different. Woodier and skunkier
+- Low THC High CBD is citrusy and sweet and tropical.
 
 
