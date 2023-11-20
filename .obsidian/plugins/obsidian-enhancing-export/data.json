@@ -53,7 +53,8 @@
   "openExportedFile": true,
   "env": {},
   "lastExportDirectory": {
-    "win32": "D:\\Coding\\Obsidian\\Development-Git\\Attachments"
+    "win32": "D:\\Coding\\Obsidian\\Development-Git\\Attachments",
+    "darwin": "/Users/tfox/Documents/School"
   },
   "lastExportType": "Word (.docx)"
 }
