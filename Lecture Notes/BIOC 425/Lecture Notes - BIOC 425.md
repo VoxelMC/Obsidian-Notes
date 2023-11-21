@@ -569,3 +569,14 @@ Lecture Link:
 ## Notes
 
 Chemdraw
+
+# Monday, Nov 20, 2023
+###### Topic: **...**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+

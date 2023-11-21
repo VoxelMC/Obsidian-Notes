@@ -1474,7 +1474,7 @@ Quantum dots can be used for single molecule detection.
 
 - [ ] Quantum dot things
 
-"not looking at any trevors in the room"
+"not looking at any Trevors in the room"
 
 HormonomicsDB is for NUANCE. Not many compounds, but so much information about their relationships.
 
@@ -1484,4 +1484,68 @@ High THC are lower because carbon flux goes towards giberrelic acid.
 - High THC varieties smell different. Woodier and skunkier
 - Low THC High CBD is citrusy and sweet and tropical.
 
+# Monday, Nov 20, 2023
+###### Topic: **...**
+Lecture Link: Lecture Not Uploaded Yet (After 14)
 
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+Assignment 3
+- **Meta-Analysis**
+	- Try without the time part of the identifier
+	- 
+
+**Materials and Methods**
+- [ ] Uploaded for wine data, check it out
+
+### Once you find a significant m/z value, what next?
+
+512.8280
+
+Pathway Analysis
+- Continuous
+- Columns
+- Compound List
+	- How to get the list:
+		- Take list from Mummichog
+		- Download HMDB, LOTUS (doesn't give m/z, so prob use the online search), FooDB maybe, keep going...
+		- Search and find...? Probably write a program.
+		- Figure out adducts?
+- Upload top 25 m/z into *functional analysis* (m/z, p.value, t.score) or (m/z ranked by p.value)
+- Check Mummichog and GSEA
+
+### "Quick" Road to ID'ing Compounds
+
+Exhaustively search libraries & databases
+
+hmdb
+GPNS
+METLIN
+NIST - Get Old Versions
+m/z Cloud
+MassBank
+
+https://massbank.us/
+
+ABF Converter
+- NIST20 -> MSSearch -> Converted
+
+ToF data from wine is too old, make sure to use 2008 ms search
+
+.msp comes out of MZmine and other softwares
+
+Score > 800 is a good match
+999 is perfect or whatever
+
+If db doesnt have your parent, it will probably have your fragments.
+$\Delta$m = Distance of characteristic fragments (can we get back to the parent molecule?)
+
+>FYI: Brucine is a cancer biomarker
+
+Class Search: [ClassyFire](https://cfb.fiehnlab.ucdavis.edu)
+
+Pick 2 or 3 compounds to go down the rabbit hole with
