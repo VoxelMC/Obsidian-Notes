@@ -192,4 +192,41 @@ r-Protein $\rightarrow$ Recombinant Protein
 
 Partial Sequences? Yeah but there is also very likely to be a long enough mRNA somewhere to give a full length strand or else the bacteria couldn't make the protein in the first place.
 
+# Tuesday, Nov 21, 2023
+###### Topic: **Final Midterm Review**
+Lecture Link:
 
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+**Lecture 1**
+- Nucleotide Structure
+- C2 C3 Endo Pucker
+- Written Orientation (easy)
+	- Other conventions, like pNpNpN or whatever, double check
+- H-bonds
+- B, A, and Z DNA
+
+**Lecture 2**
+- Methylation and Methylation Patterns
+	- CpG (CG)
+	- CpHpG (CHG)
+	- CpHpH (CHH)
+	- On C, G, and A (and U)
+- DNA Synthesis
+	- $\text{5'}\rightarrow\text{3'}$
+	- Primers on the Lagging
+- Products of DNA Synthesis
+	- PP
+	- H+
+- dideoxyNucleotide (ddN)
+- Chemical Synthesis of DNA
+	- $\text{3'}\rightarrow\text{5'}$
+	- Deprotection
+	- Cycle
+- DNA/RNA Concentration (BRING CALCULATOR)
+**Lecture 3**
+- 

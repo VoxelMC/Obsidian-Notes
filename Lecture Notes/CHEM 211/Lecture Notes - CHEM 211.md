@@ -991,4 +991,14 @@ To maintain a healthy diet, adults require 90-120μg/day of vit K. Vit K is a cl
  
 And why = probably whatever you choose is right
 
+# Tuesday, Nov 21, 2023
+###### Topic: **Cannabis Preamble**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
 
