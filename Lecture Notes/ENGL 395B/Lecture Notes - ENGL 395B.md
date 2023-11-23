@@ -555,4 +555,44 @@ Spectators find themselves 'observing extreme moral injustice' (Singer quoted by
 
 Planet Killer Weapons
 
+# Wednesday, Nov 22, 2023
+###### Topic: **Mandalorian**
+Lecture Link:
+
+## Todo/Assignments
+N/A
+
+## Notes
+
+### What was good about The Mandalorian?
+
+- Not so thoughtless!
+- Consideration of creed instead of "how things should go"
+
+### Space Western
+
+For Sure
+
+### Background
+
+- What is a Mandalorian?
+	- Clan-based Group
+	- Language, Creed, and Code
+	- Legendary warriors
+
+### Masculinity and the Western
+
+- Hyper-independent, violent, extremely aggressive masculine character
+- Hegemonic Masculinity
+	- Prison Break
+	- The Mandalorian
+	- The Witcher
+
+In contrast to that hyper-masculinity, The Mandalorian includes fatherhood, paternal love and nurturing behaviours.
+
+Hyper-masculine Elements
+- Use of weapons
+- Stoicism
+- Masculine "honour code"
+
 
