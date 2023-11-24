@@ -1002,3 +1002,15 @@ Lecture Link:
 ## Notes
 
 
+# Thursday, Nov 23, 2023
+###### Topic: **PCA**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+PCA can show you outlier features
+If PC1 doesn't make ANY sense, perhaps move to PC2 and PC3 to see if that makes any sense. It might just be detecting error in your method.

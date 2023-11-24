@@ -1549,3 +1549,16 @@ $\Delta$m = Distance of characteristic fragments (can we get back to the parent 
 Class Search: [ClassyFire](https://cfb.fiehnlab.ucdavis.edu)
 
 Pick 2 or 3 compounds to go down the rabbit hole with
+
+# Wednesday, Nov 22, 2023
+###### Topic: **Pawan's Talk**
+Lecture Link:
+
+## Todo/Assignments
+
+## Notes
+
+Could you do sequencing using mass spec? idk
+
+
+
