@@ -595,4 +595,48 @@ Hyper-masculine Elements
 - Stoicism
 - Masculine "honour code"
 
+# Friday, Nov 24, 2023
+###### Topic: **The Mandalorian Cont.**
+Lecture Link:
 
+## Todo/Assignments
+N/A
+
+## Notes
+
+### Decisions
+
+Early Mando
+- Cost/Benefit
+- Heirarchy
+
+Post-Kuiil Mando
+- Protective
+
+### Phraseology
+
+| This is the way             | I have spoken     |
+| --------------------------- | ----------------- |
+| For the better of the group | Just listen to me |
+| Idealistic                  | Pragmatic         |
+
+### Mandalorian Culture
+
+1. Wear armour
+2. Speak the language
+3. 4 others...
+
+**Dar'manda**
+
+1. Ignorant of heritage
+2. Lose their Mandalorian soul
+3. Lose their place in *Manda*
+
+#### Mando is the Embodiment of...
+
+- Obedience
+- Calculated approach to work and relations
+- Fair transactions
+- Avoidance of relational entanglement
+
+just make the protein with R-amino acids
