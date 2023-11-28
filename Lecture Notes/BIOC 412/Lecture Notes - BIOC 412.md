@@ -1561,4 +1561,81 @@ Lecture Link:
 Could you do sequencing using mass spec? idk
 
 
+# Monday, Nov 27, 2023
+###### Topic: **...**
+Lecture Link: Slides 
 
+## Todo/Assignments
+Just work on the Portfolio
+
+## Notes
+
+Wednesday class is not in-person.
+
+Tuberculosis
+Pathogenic gut bacteria
+Diabetes?
+
+If we do the work day, what are we missing?
+
+### Peaks and Features
+
+How good is the data?
+- Do you *need* to transform, scale, or normalize the data?
+- There are a LOT of tools in the slides.
+
+Why might a peak be missing
+- Not there
+- Below LOD
+- You can estimate missing data
+	- Manual gap filling (painful)
+	- Machine learning approaches
+
+Peak alignment can be dodgy
+- Drift
+- Correction for accurate downstream analysis
+
+Deconvolution software helps but it can be wrong for sure
+
+### Coffee Data Experiment
+
+12300 unique compounds
+There was peak splitting
+
+### Deanna Experiment
+
+Innovate Phytoceuticals - Designer Probiotics
+
+E. coli Nissle 1917 -> BioPersist
+Lactobacillus reuteri -> BioColoniz
+
+|          | E. coli     | Lactobacillus reuteri |
+| -------- | ----------- | --------------------- |
+| WT       | Nissle 1917 | L. reuteri WT         |
+| Designer | BioPersist  | BioColoniz            |
+
+
+2 derived replicates of 2
+
+Derived Replication
+-> Could only compared the Wild Type to the Derivative
+	-> 2 separate experiments
+
+KEGG and BioCyc Databases to ID features
+
+DESIGN YOUR DATA WELL
+
+### Final Assignment
+
+Don't just use all of the data, come up with a really good experiment
+
+Pathway analysis?
+Extraction technique -> compound subclass
+
+### MetaboAnalyst
+
+How normal did you make the data
+Did you use normalized data for that or non-normalized
+- When generating P-values
+- What is a Fisher p value
+- 
