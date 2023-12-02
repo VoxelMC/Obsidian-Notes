@@ -640,3 +640,97 @@ Post-Kuiil Mando
 - Avoidance of relational entanglement
 
 just make the protein with R-amino acids
+
+# Friday, Dec 01, 2023
+###### Topic: **...**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Novel
+
+Faceless implacable foe.
+
+#### Mapping a Politics of Representation of Power
+- Anthropocentrism
+	- De-centers the human as valuable.
+	- Centering and privileging of the human species, culture, and history
+- "Primitive"
+- Fearful enemies
+- Speciesism
+	- Favouring one species over others
+- Animalization
+	- Process of attributing animal or "beast"-like qualities to groups or individuals
+- Anthropomorphism
+	- Process of attributing human-like qualities to group or individuals. Usually non-humans.
+
+#### SF and Defamiliarization
+
+##### Anthropocentrism
+
+Human centred
+Great chain of being (Aristotle & Plato)
+1. God
+2. Angels
+3. Animals: Lions
+4. Animals: Smaller
+5. Plants
+6. Minerals
+Enduring influence on western philosophy
+
+Are all humans afforded this intrinsic and unique value?
+- No. Not every human is valued the same way.
+- GCoB, enabled anthropocentric ideas to animalize and exclude certain humans from this privileged position.
+
+**The Ideal Human**
+- Enables colonialism, imperialsm, capitalism, sexism, and heteronormativity as oppressive structures
+- Historically privileged those in power
+1. Male
+2. White
+3. Hetero
+4. Able
+5. Judeo-Christian
+6. High Socioeconomic Status
+Others are animalized
+- Women, PoC, Indigenous folks, Queer folks, and disabled and disfigured folks.
+- 
+
+Culture > Nature
+Mind > Body
+Aligned with the *mind*. 
+
+##### SciFi
+
+Genre with advanced tech, sentient machine, organic others, and removal or Earth centric geographic space and sensation (gravity and air), and decenters the human.
+The human faces show their human-ness.
+SF shows us our anthropocentric assumptions
+However, it also reiterates them.
+
+##### In Onslaught
+
+- Heroes
+- Enemy
+- Primitive/Beast
+- Alien - or non/human - as shorthand for race.
+- Women are represented as Jedi, pilots, politicians, and warriors
+	- Jaina piloting p.170
+		- Skilled, active, calm
+		- Confident and 
+- Who is missing?
+	- Women of colour,
+	- PoC - other than Lando but not noted
+	- Heroes are predominantly white men
+		- If we assume they look the same as their screen representations
+	- Species is mentioned when describing non-humans
+	- Queer folks - compulsory hetero
+	- Disability
+
+"Primitive" is similar to "Beasts"
+- Mapped to different peoples based on their relationship to machines and technology. 
+- P. 170 - fighter in which she's sat
+- 
+
