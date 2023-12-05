@@ -1639,3 +1639,72 @@ Did you use normalized data for that or non-normalized
 - When generating P-values
 - What is a Fisher p value
 - 
+
+# Monday, Dec 04, 2023
+###### Topic: **Some Last Things**
+Lecture Link:
+
+## Todo/Assignments
+
+## Notes
+
+### m/z Units
+
+Prior to 2019, it was amu/charge (elementary charge)
+amu = Dalton
+Dalton/charge
+"Thompson"
+
+After 2019, it is now
+kg/Coulomb (kg/C)
+
+m/Q
+
+1 Thompson $\approx$ 1.036426 $\cdot$ $10^{-8}$ ($\frac{1}{12}$ of Avogadro's Number)
+
+### Mummichog
+
+What does it really do? What *is* a Mummichog.
+
+It's a Python script
+Leverages the organization of metabolic networks to predict functional activity directly from feature tables, bypassing metabolite identification.
+
+### GSEA
+
+**Gene Set Enrichment Analysis**
+
+Developed for Gene Sequence data
+1. Quantify the interest of each gene with a p-value
+2. Adjust p-values for multiple comparisons
+3. Choose an appropriate cut-off
+4. Create a list of candidate genes
+
+Compare your metabolic networks to the genes responsible (Mummichog vs. GSEA)
+
+GSEA p value is relative to Human (118000 genes)
+
+Fisher P may not be weighted against the human genome anymore.
+
+Weakness: not weighted for the biology. Untargeted analysis of the genome. KEGG gives preference to genes that are related in KNOWN pathways.
+
+q-value is a measure of the False Discovery Rate (FDR)
+q-values closer to 0 represent greater significance
+
+https://www.gsea-msigdb.org/gsea/index.jsp
+
+There is a GSEA tutorial. About an hour long.
+
+### Murch's Weird Story
+
+Had a student for 8 months. Really wanted to be a cosmetics chemist.
+
+Kenna Whitnell
+- How to SUCCEED in a Biochemistry Degree
+
+She had a video about lipstick, it went viral! 4M.
+
+Wanted to be a formulations chemist.
+
+Sold something to Aveda.
+
+
