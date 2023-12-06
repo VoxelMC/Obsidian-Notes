@@ -1014,3 +1014,137 @@ Lecture Link:
 
 PCA can show you outlier features
 If PC1 doesn't make ANY sense, perhaps move to PC2 and PC3 to see if that makes any sense. It might just be detecting error in your method.
+
+# Tuesday, Dec 05, 2023
+###### Topic: **Final Questions**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Questions 
+
+#### HPLC Components
+
+
+
+#### Standard Curve
+
+- LOD
+- ULOQ
+- LLOQ
+- Linear Range
+- Equation Where?
+	- y=mx+b
+- x = []
+- y = signal/intensity
+
+#### Standard Error/%RSD/Calculation Questions
+
+How to interpret the results (table again).
+Maybe from the standard curve.
+
+#### Dilution Series
+
+:|
+
+#### Mass Spectrometry
+
+### Guidelines
+
+What was the purpose of everything that was taught this term?
+
+### Topics
+
+#### Separation
+
+**Reverse Phase**
+Hydrophilic ones are early
+Hydrophobic ones are late
+
+**Bad separation?** 
+Change column!
+Change time!
+Change solvent/gradient!
+
+#### Dilution Series
+
+10 mM *(1 in 1000)*
+100 μM *(1 in 1000)*
+100 nM *(1 in 100)*
+1 nM *(1 in 8)*
+125 pM = 0.125 nM
+
+#### Accuracy vs. Precision
+
+If asks accurate and there is no real value, PUT THAT YOU CANNOT KNOW. (Or it could be either)
+Only comment on precision then, because you have the data.
+
+
+| Experiment                                                                                                                           | Accuracy | Precision | Both |
+| ------------------------------------------------------------------------------------------------------------------------------------ | -------- | --------- | ---- |
+| Entire box of smarties and grind them together. Take on sub sample from the bulk sample and analyze it 3 times. Total # analysis = 3 | N        | Y         | N    |
+| Take 3 smarties out and prepare each separately you analyze each of these once. Total # = 3.                                         | N        | Y         | N    |
+| You take 1 and cut it into 3, #=3                                                                                                    | N        | Y         | N    |
+| Take 3, prepare 3 replicates, #=9                                                                                                    | N        | Y         | N    |
+| Take 2 smarties from the box, spike one, and prepare them. #=2 -> Accurate                                                           | Y        | N         | N    |
+
+#### Experimental Error
+
+Punching Samples -> Systematic
+Pipette Mis-calibration -> Systematic
+Derivatization Reaction -> Systematic
+Chromatography -> Column goes bad: Gross
+
+**Biggest source of error: Instrument Failure (Most Likely Gross Error)**
+Power goes out
+Light bulb goes out
+Electrical storm
+People push buttons
+
+Will be asked: in this method, what kind of errors may occur. Explain 7.
+
+ALWAYS PUT IN YOUR STANDARD CURVES.
+
+#### Ruggedness
+
+Youden: 7 factors
+
+#### Mass Specs
+
+Explain the components and their functions
+- Orbitrap
+- Tandem
+- ToF
+
+EI
+ESI
+- Coulombic Explosions
+
+LC-MS (hyphenated)
+
+#### Masses and Charges
+
+**Modes**
+
+| Cpd     | MI Mass    | Ion Formed | m/z Detected |
+| ------- | ---------- | ---------- | ------------ |
+| Glucose | 180.15588  |            |              |
+| Glucose | \|\|       |            |              |
+| Lac     | 342.116211 |            |              |
+| Lac     | \|\|       |            |              |
+
+#### Metabolomics Concepts and Principles
+
+"What is Metabolomics?"
+- [ ] Look up definition of Metabolomics
+
+The untargeted detection and identification of all of the compounds in a biological system.
+
+### Q&A
+
+Same format as last test.
+

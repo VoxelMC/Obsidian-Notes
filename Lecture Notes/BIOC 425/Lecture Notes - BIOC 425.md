@@ -444,7 +444,7 @@ Lecture Link:
 
 ## Todo/Assignments
 
-- [ ] Look at practice Midterm
+- [x] Look at practice Midterm [completion:: Dec 05, 2023 @ 05:47 PM]
 
 ## Notes
 
