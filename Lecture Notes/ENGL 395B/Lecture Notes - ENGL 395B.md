@@ -734,4 +734,84 @@ However, it also reiterates them.
 - P. 170 - fighter in which she's sat
 - 
 
+# Wednesday, Dec 06, 2023
+###### Topic: **Onslaught: Yuuzhan Vong**
+Lecture Link:
 
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Preoccupation by War
+
+The Galactic Way of Warfare
+
+- Anti-system and Anti-war motivations
+	- Focused on foregrounding the problems inherent in violence and war
+- Film as the medium, Lucas intended to horrify the audience with war imagery
+- Asymmetric warfare
+- Many assume that the Empire in SW represents the USSR or Nazis, but McVeigh claims that the Evil Empire represents a version of America itself.
+
+The "Long War"
+
+From beginning of WW1 to end of Cold War. The end of this period marked a Revolution of Military Affairs
+
+Leading up to, enduring, and after 9/11, there was an understanding that warfare has changed
+There was new technology and military practice shifted.
+
+- Shifts in institutions such as the Senate and the Jedi Order
+- Droids
+- Clones
+
+
+### Book
+
+There is a fear that Jedi will regain their power due to military need.
+
+Tech
+
+| Good tech                                   | Bad tech                                  |
+| ------------------------------------------- | ----------------------------------------- |
+| Humans in control                           | Machines take over                        |
+| used and unreliable                         | Used to strike fear throughout the Galaxy |
+| Requires the innate skill over machine tech | Destruction                               |
+|                                             | Military                                  |
+
+Asymmetric in power.
+
+The empire possessed advanced and SotA military technology, while the YV use less familiar technology.
+- More biological, organic
+
+### Exam
+
+Argumentative response to a question: Thesis Statement
+
+Evidence and Analysis
+
+Intro
+3 body
+Conclusion
+
+Approx. 750 words (3 pages double spaced)
+Cite one primary source each (different)
+Cite two secondary sources
+
+Look at all the secondary sources in class
+Know author's names and page numbers
+
+*Author's Name, Title of Article*
+- Get some nice quotes
+- Get some points to draw from each article
+
+- Open book exam
+	- Hard copies of notes and course materials
+
+Can expand on old ideas, but cannot repeat and not add to it.
+
+In-text citations
+
+Make a list of key scenes and moments in each film that matters to us
+
+Questions will deal with course themes, go over what we talked about in the course. Look at the syllabus main objectives and main goals. 
