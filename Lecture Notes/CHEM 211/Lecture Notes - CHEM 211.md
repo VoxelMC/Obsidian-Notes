@@ -1053,6 +1053,11 @@ Maybe from the standard curve.
 
 #### Mass Spectrometry
 
+**Parts**
+- Ionizer
+	- +/- mode
+	- 
+
 ### Guidelines
 
 What was the purpose of everything that was taught this term?
