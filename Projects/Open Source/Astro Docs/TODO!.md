@@ -1,5 +1,7 @@
-Check code for `build forms with API` and and `dynamically importing images`.
+### Pages to Review
 
-1. Ensure all the semicolons are there
-2. Add `throw Error` code example
-3. 
+
+### Pages to Reformat
+- all: src/content/docs/fr/guides/backend/turso.mdx
+- all: src/content/docs/fr/reference/errors/middleware-cant-be-loaded.mdx (auto-gen, maybe have to do elsewhere... probably a pain...)
+- 
