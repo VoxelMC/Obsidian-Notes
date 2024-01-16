@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasMagnet",
+      "FasRibbon",
+      "FasBacteria",
       "Fas1",
-      "Fas0",
-      "LiBook",
-      "FasAppleWhole",
-      "LiTrash2"
+      "Fas0"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -61,5 +61,11 @@
   "Projects/Directed Study - Boswellia spp/Murch Meetings.md": "FasAppleWhole",
   "Lecture Notes/ENGL 395B/Lecture Notes - ENGL 395B.md": "LiBook",
   "Lecture Notes/BIOC 412/Portfolio/Preliminary.md": "Fas1",
-  "Lecture Notes/ENGL 395B/Tests": "LiBook"
+  "Lecture Notes/ENGL 395B/Tests": "LiBook",
+  "Lecture Notes/BIOC 407/Lecture Notes - BIOC 407.md": "FasBacteria",
+  "Lecture Notes/BIOC 407": "FasBacteria",
+  "Lecture Notes/BIOC 402": "FasRibbon",
+  "Lecture Notes/BIOC 402/Lecture Notes - BIOC 402.md": "FasRibbon",
+  "Lecture Notes/CHEM 568Y": "FasMagnet",
+  "Lecture Notes/CHEM 568Y/Lecture Notes - CHEM 568Y.md": "FasMagnet"
 }
