@@ -149,3 +149,104 @@ Relaxation on Thursday
 Karplus plots next week
 
 RAvi and Will
+
+# Tuesday, Jan 16, 2024
+###### Topic: **Lecture 3**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+## Notes
+
+### 90 Degree Pulse
+
+bulk B0 in +z direction
+
+magic hand is RF transmitter, rotate the cone by 90 degrees, so it goes in a way
+letys say all pointing to -x.
+Let go, and everything above X-Y plane goes to $\alpha$ and everything below now goes to $\beta$ 
+now we have new populations, each split populations
+So then, you get $P_{\alpha}= P_{\beta}$
+But it leans to one side
+so then bulk magnetization points to -x instead of +z
+
+This is now our bar magnet which we can actually measure.
+The bulk magnetization now precesses (or rotates, in this case) at the Larmor frequency.
+As the magnetization rotates around the Z axis, and the coil is around the sample, you can detect the current in the coil 
+If the magnetization did not return to +z, the FID would be a sine wave (as the magnet is rotating)
+But since it does, it looks as though it is (and it is) a decay.
+
+2 differences from the ground state:
+- $P_{\alpha}= P_{\beta}$ 
+- Coherence (bulk magnetization put into the X-Y plane).
+
+### Relaxation Pathways
+
+Both are able to occur independently of one another. 
+Both have multiple ways of occurring, but also have a primary way of it happening.
+This is the means by which the bulk magnetization returns to the +x direction.
+Both are exponentials and have half-lives ($t_{\frac{1}{2}}$)
+**T2 is always faster than T1**
+
+#### T2 - Loss of Coherence
+
+> *Faster than T1. Thus, we are never limited by T2.*
+
+Look at the diagram in the notes with 4 cones, and insert here.
+
+Rotating frame -> observing from the center of the axis
+
+##### Field Homogeneity
+
+T2 occurs primarily through the presence of field heterogeneity, causing some systems to precess faster or slower due to stronger or weaker magnetic fields in the tube. Can be reduced by stellar shimming...?
+
+##### Tumbling
+
+It doesn't take anything to rotate a molecule
+kHz MHz GHz. Thus, molecular tumbling can be a problem.
+
+Benzene tumbles!
+It is also a magnetic field.
+Thus, it is an OSCILLATING MAGNET.
+> Chemical Shift Anisotropy!
+- If the tumbling freq. is fast, it doesn't do much for T2.
+	- Averages out in the time-scale of an NMR experiment.
+- If slow, it's reasonable that it probably doesn't average out (in that time frame).
+	- Thus, it is intrinsic to molecular size and temperature.
+		- Bigger and colder -> slower tumbling.
+- For a given solvent viscosity, the bigger the molecule is, the faster T2 will be by this method.
+
+###### Tumbling Rates
+
+Look at chart
+
+The bigger the molecule, the slower its average tumbling rate will be.
+Thus, as molecular weight increases, the T2 relaxation rate gets shorter and shorter (another chart).
+
+### T1 Relaxation
+
+Often called spin-lattice relaxation
+Same physical phenomenon is the nOe.
+
+##### Spin-Lattice Relaxation
+Depends on the tumbling rate as well.
+Nuclei do not experience the outside world. We only experience their magnetic fields.
+- They stay aligned with or against the applied magnetic field.
+If the nuclei rotate at Larmor frequency around a C13 atom, in this case, it will induce beta to alpha (or vice versa) transitions, just like a pulse would! Thus, you can return to the ground state faster, which is bad.
+
+Looking at the tumbling graph above, very large molecules will have few rotations near the Larmor frequency. However, this is also true of really small molecules.
+The sizes between these are near the peak efficiency for T1.
+
+### Next Thursday
+
+Damaskanone
+- Tabulate the carbons from low to high chemical shifts.
+- Give a first good guess about the assignments.
+
+*Low*
+A
+B
+...
+$\omega$ 
+*High*
