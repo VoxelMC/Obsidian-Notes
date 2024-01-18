@@ -199,7 +199,7 @@ Rotating frame -> observing from the center of the axis
 
 ##### Field Homogeneity
 
-T2 occurs primarily through the presence of field heterogeneity, causing some systems to precess faster or slower due to stronger or weaker magnetic fields in the tube. Can be reduced by stellar shimming...?
+T2 occurs primarily through field heterogeneity, causing some systems to precess faster or slower due to stronger or weaker magnetic fields in the tube. Can be reduced by stellar shimming...?
 
 ##### Tumbling
 
