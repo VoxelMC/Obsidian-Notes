@@ -26,10 +26,6 @@ The species available to me are:
 [^9]:
 [^10]: Frankincense
 
-
-
-
-
 ### ***Boswellia frereana***
 Coptic Frankincense
 Native to Northern Somalia

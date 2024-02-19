@@ -90,3 +90,59 @@ Lys
 
 L -> **L**ike
 D -> **D**islike
+
+# Wednesday, Jan 31, 2024
+###### Topic: **Motifs**
+Lecture Link:
+
+## Notes
+
+**SCOP2 Classification**
+- All $\alpha$ 
+- All $\beta$
+	- $\beta$-propellor
+- $\alpha$/$\beta$ --> interspersed
+	- Rossman-fold
+	- TIM barrel
+- $\alpha$ + $\beta$ --> segregated
+
+### Protein Domains
+
+Each domain forms its OWN 3D structure.
+It can evolve, function, and exist independently from the rest of the chain.
+
+# Friday, Feb 09, 2024
+###### Topic: **...**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Term Test 1 - Feb 14th
+Calculator allowed
+Study aid, 1 page single-sided
+
+![[Lecture Notes - BIOC 402 Fr 09-Feb 2024 13.19.excalidraw]]
+
+# Friday, Feb 16, 2024
+###### Topic: **Post-Translational Modifications**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+Methylation, Hydroxylation, Ubiquitination, lipidation, SUMOylation,
+phosphorylation
+acetylation
+glycosylation
+disulphide bond
+
+#### Acetylation
+
+- Irreversible: N-acetylation of lysine
