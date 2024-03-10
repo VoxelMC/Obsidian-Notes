@@ -55,4 +55,16 @@ Come to the lab when I am in Vancouver!
 
 His peeps get grants and jobs willy-nilly.
 
+# Thursday, Feb 22, 2024
+###### Topic: **GSAT Internship**
+
+## Notes
+
+https://pubs.acs.org/doi/abs/10.1021/acs.analchem.1c01309
+
+raw data few hundred MB
+python application run from web app
+
+cloud-based data quality checker online using python backend library
+
 

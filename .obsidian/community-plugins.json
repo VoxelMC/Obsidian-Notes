@@ -11,18 +11,17 @@
   "obsidian-minimal-settings",
   "obsidian-hider",
   "obsidian-better-command-palette",
-  "quick-latex",
   "obsidian-footnotes",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "obsidian-enhancing-export",
   "better-word-count",
   "obsidian-icon-folder",
-  "obsidian-latex-suite",
   "obsidian-style-settings",
   "markdown-table-editor",
   "quote-of-the-day",
   "obsidian-day-planner",
   "heading-level-indent",
-  "chem"
+  "chem",
+  "obsidian-latex-suite"
 ]

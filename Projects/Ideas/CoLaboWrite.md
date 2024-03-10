@@ -83,7 +83,6 @@ Each edit event is sent to the server with the following:
 const message = {
 	editor: Person,
 	changes: Changes,
-	
 }
 ```
 
@@ -101,4 +100,7 @@ There needs to be an auth layer for the websocket connection
 
 When does the websocket record and save to the database? Surely not on every change, so there needs to be a debounce time.
 
+**BY default, the renderer will use innerHTML and Remark/Rehype, however, in the setting for the documents, you can set if you want to use "simplified" incremental renderer**
 
+Custom renderer
+![[CoLaboWrite Mo 04-Mar 2024 19.14.excalidraw]]

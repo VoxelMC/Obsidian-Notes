@@ -107,3 +107,42 @@
 #### Further Test Results
 
 - 
+
+# Monday, Feb 26, 2024
+###### Topic: **Tutorial 3**
+Lecture Link:
+
+## Notes
+
+### Update
+
+Small very red bumps running between 9th and 10th ribs, extending from back around her side and towards umbilicus. There is a clear exudate. 
+Anna is moved to isolation!
+
+### Questions
+
+17. Diagnosis?
+	1. Shingles?
+18. Treatment?
+	1. 
+19. What causes the pain?
+	1. 
+20. How will pain be managed?
+	1. 
+21. Are there any long-term effects of this disease?
+	1. 
+22. What drugs will lessen the chance of any long-term effects?
+	1. 
+23. Is this disease preventable?
+	1. 
+
+# Wednesday, Feb 28, 2024
+###### Topic: **...**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "Fas3",
       "Fas2",
       "Fas1",
       "FasQuestion",
-      "LiFileQuestion",
-      "FasMagnet"
+      "LiFileQuestion"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -70,5 +70,6 @@
   "Lecture Notes/CHEM 568Y/Lecture Notes - CHEM 568Y.md": "FasMagnet",
   "Lecture Notes/BIOC 407/PBL Questions.md": "FasQuestion",
   "Lecture Notes/BIOC 407/PBL 1": "Fas1",
-  "Lecture Notes/BIOC 407/PBL 2": "Fas2"
+  "Lecture Notes/BIOC 407/PBL 2": "Fas2",
+  "Lecture Notes/BIOC 407/PBL 3": "Fas3"
 }

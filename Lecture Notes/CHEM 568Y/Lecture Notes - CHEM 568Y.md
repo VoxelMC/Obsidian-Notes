@@ -773,4 +773,139 @@ Notebook
 
 Notebook
 
+# Tuesday, Feb 27, 2024
+###### Topic: **More Sequences**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### INEPT
+
+$Iz \rightarrow Iy \rightarrow 2I_xS_z \rightarrow -2I_zS_x$
+- We always write the observable first. **BUT**, remember we started with `1H` coherence, from `1H` overpopulation, which is 4x greater than the 13C overpopulation
+ - Thus, $-2I_zS_x$ is really $4(-2S_xI_z)$
+ - With the BUTs, this only works for a peak @ reference frequency. Other peaks also have phase issues to solve due to chemical shift evolution. Thus, use Spin Echo!
+	 - This is the refocused INEPT.
+
+In INEPT, antiphase peaks cancel each other out.
+
+This works perfectly, unless the peak is a triplet or quartet. This is because of the dependence on 1/4J, so you cannot see a C, CH2, or CH3!
+- Works the same as a DEPT90. (unless its a terminal alkyne?)
+
+For a doublet in the second spin echo, 
+- $2S_xI_z \rightarrow 2S_xI_z \cdot cos(\pi J \Delta) + S_y \cdot sin(\pi J \Delta)$ where Δ is the full second evolution time.
+	- if Δ = $\frac{1}{2J}$, $\frac{\pi J}{2J}$, $cos(2\pi) = 0$, $sin(2\pi) = 1$
+- The rest is on paper, add here later.
+
+# Tuesday, Mar 05, 2024
+###### Topic: **Gradient**
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### The Gradient
+
+In a tube, you want the magnetic field to be constant in all directions (throughout the measurement window).
+-> However, sometimes it is cool to make it *very predictably* not constant. This is where the **gradient** comes in.
+- The gradient is linear up and down the sample. 
+	- Weaker at the top and stronger at the bottom.
+	- Faster precession at the bottom then, and vice versa.
+
+$G_z$ (gradient field) is VERY weak  in comparison to (0.1% of $B_0$)
+- Field is now $B_g(z) = B_0 + G_z(z)$
+- Not originally developed for NMR. 
+	- It is originally for MRI.
+		- MRI measures the water peak in a gradient (closer is stronger, etc.)
+		- (MRI also uses relaxation time now, just so you know :))
+
+**Thought Experiment**
+![[Lecture Notes - CHEM 568Y Tu 05-Mar 2024 12.07.excalidraw]]
+
+In A, time 1 has a spectrum (duh) but time 2 has no more spectrum.
+In B, time 1 and 2 are the same, but in time 3 after the -G pulse, there is coherence again!
+- However, during that time in time 2, chemical shift evolution was occurring.
+- To eliminate CSE, we do a Spin Echo! Obviously.
+
+*What happens to our gradient during a 180˚ pulse?*
+It flips the handedness. CCW to CW, vice versa.
+
+You can make a PFGSE to reverse CSE.
+
+![[Lecture Notes - CHEM 568Y Tu 05-Mar 2024 12.17.excalidraw]]
+
+What if I do this to sucrose sample?
+
+![[Lecture Notes - CHEM 568Y Tu 05-Mar 2024 12.29.excalidraw]]
+1. What is the fate of the water peak?
+	1. It remains the same as before with no CSE.
+	2. Signal because it is coherent.
+2. What is the fate of the other peaks?
+	1. Affected by the gradient, but since did not receive the 180$\degree$ pulse, the second G pulse makes for $2G_z$
+	2. No signal because it is not coherent.
+
+We can use this to make the INEPT better.
+- A main problem with the INEPT is:
+	- What happens to all of the carbons that don't receive the polarization transfer?
+
+### Improving the INEPT again
+
+![[Lecture Notes - CHEM 568Y Tu 05-Mar 2024 12.33.excalidraw]]
+
+After this sequence, there is still CSE. Let's get rid of it now.
+
+![[Lecture Notes - CHEM 568Y Tu 05-Mar 2024 12.44.excalidraw]]
+**AKA: gradient-selected refocused INEPT**
+
+This pulse (Double PFGSE) uses the full INEPT sequence, with two gradient pulses.
+- The second negative pulse is 4 times as strong because the C13 magnetic moment is weaker than the proton magnetic moment.
+	- Remember that before the second 90 degree pulse, the coherence is in the protons, and after, the coherence is in the carbons. This is why the untwist is -4 times as strong.
+
+> The ability to be twisted or untwisted depends on the strength of the nuclear magnet!
+
+This sequence eliminates anything that was not 1H single-quantum coherent @ first gradient, and 13C single-quantum coherent @ second gradient.
+
+#### Selection of a coherence pathway
+
+Formalization:
+Any pathway whose sum is 0 survives.
+
+So, if 1H SQC's p = 4 and 13C SQC's p = 1, and G1 = 1 and G2 = -4, you can sum their products to get 0
+$\sum p_iG_i = 4 \cdot 1 + 1 \cdot (-4) = 4 - 4 = 0$
+
+| Pair      | Quantum | p =       |
+| --------- | ------- | --------- |
+| SI        | ZQ      | 3 (4-1)   |
+| I(a)-I(b) | ZQ      | 0 (4-4)   |
+| SI        | DQ      | 5 (4 + 1) |
+Things that are 0 are detectable, things that are not zero are not detectable.
+
+**How does this filter for failed coherence transfer???**
+- This is normal. Any part of the system that is not antiphase does not transfer.
+- Since there is a range of error, not all of it antiphases.
+
+After evolution we should see some 2IySz + Sz
+**If the experiment is:**
+2IySz + Sz -- P -> 2IzSx + Sx
+- (2IzSx is desired)
+P = simultaneous 90(x) pulses on 1H and 13C.
+First gradient: p(Gz) = 0(1) -> no effect in 13C z direction
+Second gradient: p(Gz) = +1(-4) <- filtered out, 13C SQC.
+
+##### Some practical bits
+- We assumed that no molecules moved in the gradient on the z axis between gradients.
+	- Spinners destroy all of the effect of the gradient. Give everything time to calm down before using the gradient.
+- Gradients are not nucleus specific. This screws up our lock on deuterium temporarily.
+	- Need a great lock for 2D experiments.
+
+### Check this out: DPFGSE nOe!
+
+![[Lecture Notes - CHEM 568Y Tu 05-Mar 2024 13.20.excalidraw]]
+
 

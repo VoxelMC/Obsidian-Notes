@@ -315,4 +315,27 @@ Study:
 - Decrease messenger cytokines
 - **Take between meals!!**
 
-#### 
+# Wednesday, Feb 28, 2024
+###### Topic: **Metacognition**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### Thinking About Individual Questions and Problems
+
+1. Reflect on how you thought about what the question was asking
+2. What process did you use to get to that answer?
+3. What was your main reason to choose your answer, and same for not answers?
+
+### Group Work
+
+1. hare how you thought about what the question was asking
+2. Share the process you used to answer it
+3. What was the main reason for choosing or not choosing
+4. How did your ideas compare to neighbours?
+5. What was most confusing to you about the question?
+6. How confident are you in you answer? Why? What do you need to know to increase the confidence?

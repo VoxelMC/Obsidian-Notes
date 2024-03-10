@@ -3,9 +3,9 @@
   "cssTheme": "Shiba Inu",
   "theme": "obsidian",
   "baseFontSize": 16,
-  "monospaceFontFamily": "Monaspace Krypton,JetBrains Mono",
-  "textFontFamily": "Inter,Franklin Gothic,JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono,Monaspace Krypton,Monaspace Neon",
+  "textFontFamily": "Rubik,Inter,Franklin Gothic,JetBrains Mono",
   "interfaceFontFamily": "Inter",
   "baseFontSizeAction": false,
-  "translucency": false
+  "translucency": true
 }
