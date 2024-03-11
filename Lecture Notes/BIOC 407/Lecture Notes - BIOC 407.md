@@ -243,7 +243,7 @@ Study:
 - Used in creams and gels and lotions
 - Some anti-inflammatory and analgesic activity
 - Comparable to topical ibuprofen or diclofenac
-- Helenanin toxic if consumed orally
+- Helenalin toxic if consumed orally
 
 #### Fish Oils
 - Decreases inflammatory cytokines

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPencil",
+      "FasPencil",
       "Fas3",
       "Fas2",
-      "Fas1",
-      "FasQuestion",
-      "LiFileQuestion"
+      "Fas1"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -71,5 +71,6 @@
   "Lecture Notes/BIOC 407/PBL Questions.md": "FasQuestion",
   "Lecture Notes/BIOC 407/PBL 1": "Fas1",
   "Lecture Notes/BIOC 407/PBL 2": "Fas2",
-  "Lecture Notes/BIOC 407/PBL 3": "Fas3"
+  "Lecture Notes/BIOC 407/PBL 3": "Fas3",
+  "Lecture Notes/BIOC 407/PBL 2/Notes for Midterm.md": "LiPencil"
 }

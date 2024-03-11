@@ -14,7 +14,7 @@ Topic: **Data Sets**
 #### Wine
 Top Middle and Bottom Replicates $\rightarrow$ Pseudoreplicate
 **Hypothesis:**
-What can we use this data to ask?
+What can we use this data to ask
 *Compare years 2005 vs. 2006?*
 *Compare Wineries*
 *Top vs. Middle. vs. Bottom OF EACH DIFFERENT WINERY*
