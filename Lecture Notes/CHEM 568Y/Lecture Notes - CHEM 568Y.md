@@ -908,4 +908,92 @@ Second gradient: p(Gz) = +1(-4) <- filtered out, 13C SQC.
 
 ![[Lecture Notes - CHEM 568Y Tu 05-Mar 2024 13.20.excalidraw]]
 
+# Tuesday, Mar 12, 2024
+###### Topic: **2D NMR**
 
+## Notes
+
+### How does it work?  **Basic anatomy of a 2D experiment**
+Phases:
+1. Preparatory
+	- 90 degrees on *something*
+2. Evolution 
+	- Often for CSE, except for the J-resolution, where it is for scalar evolution.
+3. Mixing 
+	- Transferring magnetization from **A to B**
+	- Coherence transfer, OR
+	- nOe transfer
+5. Detection
+	- Measure FID for B
+
+### HETCOR
+
+To figure this out, we will look at the HETCOR. 
+- This sequence is a 2D INEPT
+
+![[Lecture Notes - CHEM 568Y Tu 12-Mar 2024 12.16.excalidraw]]
+
+Problem 1: both scalar and chemical shift evolution are happening during t1 *(2)*
+- Just looking at antiphase terms, $2I_xS_z$ for example
+	- Proton phase oscillates with its Larmor, obviously
+	- But, this is added to the carbon acquisition, and we have something like a carrier wave (it is a carrier wave) if we array t1
+	- You can do ANOTHEr FT on this carrier wave to get the FREQUENCY of the PROTON that is attached to the carbon peak.
+
+#### Chemical Shift Evolution during t1
+
+Remembering that Iy and Ix do not undergo coherence transfer, $2I_yS_z$ 
+![[Lecture Notes - CHEM 568Y Tu 12-Mar 2024 12.33.excalidraw]]
+
+It takes (1/2J) for a doublet to evolve to anti-phase.
+![[Lecture Notes - CHEM 568Y Tu 12-Mar 2024 12.43.excalidraw]]
+
+To do that, though, we need everything to be in phase at the time of the red line.
+- Use a Spin Echo
+	- 180 degrees on carbon in the middle of time *t*
+
+![[Lecture Notes - CHEM 568Y Tu 12-Mar 2024 12.50.excalidraw]]
+
+Now, detect an anti-phase doublet.
+- if you decoupled right now, there would be no signal because the anti-phase peak cancels out.
+- We need refocusing time now, but we are now 13C, so we can be doublets, triplets, and quartets
+	- d: 1/2J
+	- t: 1/4J
+	- q: ~1/5J
+	- The best compromise is 1/3J, which gives an ok signal for all possibilities.
+
+> Almost there :)
+
+![[Lecture Notes - CHEM 568Y Tu 12-Mar 2024 12.58.excalidraw]]
+
+Refocusing 1H-1H scalar evolution requires a "selective" 180-degree pulse that lets us target **only protons on 12C**
+
+#### The BIRD sequence
+
+![[Lecture Notes - CHEM 568Y Tu 12-Mar 2024 13.03.excalidraw]]
+
+> **Bi**linear **R**otation **D**ecoupling
+
+**Thought Experiment**
+What happens to a proton that is on:
+- 13C: $$Iz \xrightarrow{90_x} -I_{y} 
+\xrightarrow{\frac{1}{2J}} 2I_xS_z 
+\xrightarrow{180_y (^1\text{H); } 180 (^{13}\text{C})} 2I_{-x}S_{-z}
+\xrightarrow{\frac{1}{2J}} I_y
+\xrightarrow{90_x(^1\text{H})} I_z
+$$
+- 12C: 
+$$Iz \xrightarrow{90_x} -I_{y} 
+\xrightarrow{\frac{1}{2J}} -I_y  
+\xrightarrow{180_y (^1\text{H); } 180 (^{13}\text{C})} -I_y 
+\xrightarrow{\frac{1}{2J}} -I_y
+\xrightarrow{90_x(^1\text{H})} -I_z
+$$
+
+No scalar evolution at 1/2J in 12C exists because 12C cannot be α or β.
+- You just inverted all signals for a proton on a 12C.
+- This is true for any starting magnetization because they should be identical at any given instance.
+
+#### Side Note: Magnitude Mode
+
+Perform full phase-cycling and sum up the squares of our real + imaginary FIDs.
+- The actual magnitude of the peak that goes to the interferogram is $\sqrt{(real)^2+(imaginary)^2}$ so the phase issue that happens during the last 1/2J due to chemical shift evolution is not evident in the interferogram.

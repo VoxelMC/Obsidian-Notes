@@ -1,5 +1,9 @@
+## Details
+
+49 y/o male
+
 ## 1st Vindicate
-- Smoker - 20 years.
+- Smoker - 20-pack-years.
 - Hypertension
 - Psychological issues
 	- Poor memory or orientation - disoriented

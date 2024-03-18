@@ -1,14 +1,52 @@
 ## Lectures
 ### Cholelithiasis
 
-
+Gallbladder stones
+- Made from cholesterol, calcium bilirubinate + proteins & mucin
 
 ### Nephrolithiasis
 
+Kidney stones
+- Forms when urine is supersaturated
+	- Not enough water or too many solutes concentrates things like calcium, oxalic acid, and uric acid. These can form crystals that off ouch your kidney
+- Citrate, magnesium, and pyrophosphate usually prevent formation of crystals.
+- More prevalent in men by 3 times.
+- Risk:
+	- High:
+		- Hypercalciuria - high calcium
+		- Cystinuria - high cysteine (genetic)
+		- Hyperoxaluria - high oxalic acid
+		- Hyperuricosuria - high uric acid
+		- Hypernatruresis - high sodium
+	- Low:
+		- Hypocitraturia - low citrate, no protective effects.
+- Made of:
+	- Calcium oxalate
+	- Struvite (mineral)
+	- Uric acid/urate
+	- Cysteine (genetic)
+	- Calcium phosphate
+- Get citric acid from things with citric acid like citrus fruits!!!
+- Calcium binds tightly to oxalic acid, making it insoluble.
+- Uric acid stones
+	- Alkalinizing medicine can solve (potassium citrate, sodium bicarb) by dissolving them.
 
 ### Guest Lecture - Lobay
 
-
+Natural products
+- Willow bark - salicin
+	- Salicylic acid, COX inhibitor
+- Ginger
+	- COS/LOX inhibitor, no more prostaglandins or leukotrienes
+- Turmeric - curcuminoids
+	- Decreased inflammation by decreasing pro-inflammatory cytokines
+- Cayenne (pepper) - capsaicin
+	- Agonist of TRPV1, causing constant stimulation of nociceptor and depleting affector `substance P`
+- St. Johns Wort
+	- inhibits proteins like MAO, preventing neurotransmitter breakdown.
+	- Neuropathic pain
+- Frankincense
+	- Boswellic acids - inhibit pro-inflammatory cytokines
 
 ### Clinical aspects of pain
 
@@ -56,7 +94,7 @@
 #### Basic Knowledge
 
 - Cell bodies of nociceptors are located in the dorsal root ganglia (body) and trigeminal ganglia (face).
-- Pain tends to sensitize, meaning that the area becomes more susceptible to pain.
+- Pain tends to sensitize, making the area more susceptible to pain.
 - Most nociceptor fibres are polymodal - meaning that they can detect multiple different types of pain. C fibres can be both heat and mechanically sensitive. 
 - Nociceptors carry information in both directions.
 	- Axon splits into two, one branch travels to the periphery and one branch travels to the CNS (skin, muscles, viscera; spinal cord, brain stem)
