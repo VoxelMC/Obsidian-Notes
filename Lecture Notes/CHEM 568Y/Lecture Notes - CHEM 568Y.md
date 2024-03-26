@@ -1084,4 +1084,74 @@ Only the selected proton survives, but the spin lock enables that proton to give
 
 ## Notes
 
+### COSY
 
+![[Lecture Notes - CHEM 568Y Tu 26-Mar 2024 12.11.excalidraw]]
+
+The basic COSY sequence. 
+Residual coherence that did not transfer is not being detected. You _can_ detect it if you detect the other nucleus. Carbon during an INEPT, for example.
+
+> t1 is varied for the COSY
+
+#### Product Operator Treatment of the COSY
+
+If at reference, there is no visible precession in the rotating frame. 
+A and B process faster or slower than the reference, and since things are always doublets, there is always scalar evolution. COSY doesn't refocus either of these, so we must treat them.
+
+1. Preparation
+	1. $I^a_{y} \xrightarrow{90_x} -I^a_y$
+2. evolution
+	1. CSE 
+	$$
+	-I^a_y \xrightarrow{t_1} -I^a_y cos(\Omega^at_1) + I^a_x cos(\Omega^at_1)
+	$$
+	2. Scalar
+	$$
+	I^a_x = I^a_x cos (\pi J t_1) + 2 I^a_y I^a_z sin(\pi J t_1)
+	$$
+	$$
+	I^a_y = I^a_y cos (\pi J t_1) + 2 I^a_x I^a_z sin(\pi J t_1)
+	$$
+	gives
+	$$
+	-[I^a_y cos (\pi J t_1) + 2 I^a_x I^a_z sin(\pi J t_1)] cos(\Omega^at_1) + 
+	[I^a_x cos (\pi J t_1) + 2 I^a_y I^a_z sin(\pi J t_1)] 
+	cos(\Omega^at_1) =
+	$$
+	$$
+	-I^a_y cos (\Omega^a t_1) cos (\pi J t_1) + 
+	2I^a_x I^b_z cos (\Omega^a t_1) sin (\pi J t_1) +
+	I^a_x sin (\Omega^a t_1) cos (\pi J t_1) +
+	2I^a_y I^b_z sin (\Omega^a t_1) sin (\pi J t_1) 
+	$$
+Abbreviating `cos` terms as `c`, `sin` as `s`, and scalar evolution with a prime, we have
+$-I^a_y cc' + 2I^a_x I^b_z cs' +I^a_x sc' +2I^a_y I^b_z ss'$
+3. Mixing is a 90x 
+	1. $-I^a_z cc' + 2I^a_xI^b_{-y} cs' + I^a_x sc' + 2I^a_zI^b_{-y}$
+	2. Rewriting in terms of detected nuclei: $-I^a_z cc' + 2I^a_xI^b_{-y} cs' + I^a_x sc' + 2I^b_{-y}I^a_z$
+4. FID
+	1. $I^a_z$ has no coherence, so not detected
+	2. $2I^a_zI^b_{-y}$ is double quantum, so not detected
+	3. $I^a_x$ is single quantum, and in phase.
+	4. $2I^b_{-y}I^a_z$ is single quantum, and in anti-phase. This is where the magic is! *here, we encode Ωa into $I_b$'s peak.*
+
+### HSQC
+
+1. Create coherence in proton (I). Why? If we start with this population, we already have 4x more signal than if we start with carbon. If we do it twice, (detecting proton), we actually get a 16-fold increase.
+
+> COSY has unclean coherence transfer. Only one part was the term that undergoes coherence transfer.
+
+2. Transfer coherence to 13C
+3. Allow for chemical shift evolution in C13
+	1. JRES only scalar evolution, BTW.
+	2. Need to encode chemical shift of the undetected nucleus somehow. 
+4. Transfer back to proton
+5. Detect~!
+
+#### Basic experiment that doesn't work very well
+
+![[Lecture Notes - CHEM 568Y Tu 26-Mar 2024 12.57.excalidraw]]
+
+The problem here is that there is scalar evolution. How do we get rid of scalar??? 180-degree spin-echo on JUST PROTON halfway through evolution.
+
+![[Lecture Notes - CHEM 568Y Tu 26-Mar 2024 13.01.excalidraw]]
