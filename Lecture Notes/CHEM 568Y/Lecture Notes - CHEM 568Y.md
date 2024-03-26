@@ -417,8 +417,8 @@ It:
 - is seen in very large molecules; and
 - occurs at the difference in Larmor frequencies.
 
-Do these nOes cancel out in a range?
-- Yes, around 1 kDa. 
+**Do these nOes cancel out in a range?**
+- **Yes, around 1 kDa.** 
 	- They show little-to-no nOe.
 - ROESY uses a spin-lock instead of continuous irradiation, so you don't see zero-quantum, so you can measure nOe in those molecules.
 
@@ -997,3 +997,91 @@ No scalar evolution at 1/2J in 12C exists because 12C cannot be α or β.
 
 Perform full phase-cycling and sum up the squares of our real + imaginary FIDs.
 - The actual magnitude of the peak that goes to the interferogram is $\sqrt{(real)^2+(imaginary)^2}$ so the phase issue that happens during the last 1/2J due to chemical shift evolution is not evident in the interferogram.
+
+# Tuesday, Mar 19, 2024
+###### Topic: **The Spin Lock**
+
+## Notes
+
+Presentation on the 9th in class on jRES 2D
+- Lead in with the 1D
+
+Need the thesis handed to shipley this week
+abstract done
+
+### Spin coupling redux
+
+Leaning peaks -> deviation from first-order coupling
+
+#### What is first order and what is higher order?
+
+$\frac{\Delta\nu}{J}>8$ is first-order
+
+a-b quartet is 2 non-first-order doublets next to one another
+
+- Move the doublets closer together, and you get more non-first-order multiplets
+
+As Δν/J gets smaller and smaller, the protons become more and more strongly coupled.
+- If any protons in a spin system are strongly coupled, the whole system is strongly coupled.
+- Most commonly, this is long alkyl chains.
+
+##### How would you solve this, if it were a problem?
+
+Buy a bigger magnet! Δν is dependent on Bo, so just go buy a bigger magnet lol
+
+Another phenomenon that couses n.f.o coupling is magnetic inequivalence.
+
+![[Lecture Notes - CHEM 568Y Tu 19-Mar 2024 12.35.excalidraw]]
+
+Ha couples to Hb with a 7-8 Hz J, but couples to Hb' with around 1-2 Hz. You cannot couple with the same system twice with different J's, so it is magnetically inequivalent.
+
+Same occurs for Ortho substitution, where Ha and Hb couple with around 2 Hz and Ha and Hb' couple with barely a Hz. Still magnetically inequivalent.
+
+![[Pasted image 20240319124128.png]]
+
+Top wedges are Ha and hashes are Hb.
+
+##### What is the spin lock?!
+
+We have messed around with spin operators. When we do a pulse on x, it rotates CCW around the x axis, and so on. However, if the vector falls on the x axis, nothing happens! Well, it looks like nothing happens. Instead, the magnetization is trapped on that axis. If we keep this pulse on, anything on the x axis would not move but anything else would keep a-spinnin' around.
+- This field is quite weak. 75000x weaker than Bo. 
+	- Thus, T2* is very short. This dephases anything off the trapped axis quickly.
+
+**A spin lock is...**
+- Low-ish power pulse (12-33% of a hard pulse like a 90)
+- `pw` is 100s of milliseconds. Very long compared to 15 μs
+- Weak and crude magnetic field
+
+During the spin lock, B0 becomes negligent in $\text{B}_{eff}$, so we only have this weak and crude pulse-generated field present. 
+- Since B1 is ~75000x weaker, $\frac{\Delta\nu}{J}$ approaches zero. Thus, **ALL** coupling becomes **STRONG** coupling.***
+- This is useful for things like the TOCSY and ROESY.
+- We can play with both the through-space (now along x axis instead) + with scalar coupling (now all spin systems are strongly coupled).
+
+### Through space with the Spin Lock
+
+During the spin lock, magnetization transfer by nOe is all double quantum (DQ) due to the resonant frequency being so low.
+- This is the building block for the ROESY.
+
+#### The ROESY
+
+No constraints with the size of the molecule gives peaks with areas dependent on 1/r^6, up to ~5Å. 
+
+Definitely suffers from COSY artifacts
+
+### Scalar use of spin locks
+
+Taking advantage of $\frac{\Delta\nu}{J}\to 0$
+All coupling interactions are strong, giving rise to virtual coupling
+This percolates coherence through the entire system!
+You need to be careful not to overheat your sample.
+
+![[Lecture Notes - CHEM 568Y Tu 19-Mar 2024 13.07.excalidraw]]
+
+Only the selected proton survives, but the spin lock enables that proton to give the magnetization to its spin system due to strong coupling.
+
+# Tuesday, Mar 26, 2024
+###### Topic: **COSY and HSQC**
+
+## Notes
+
+
