@@ -9,5 +9,6 @@
   "shiba-theme-settings@@folder-style-change-options-colors-palette": "folder-colorful-three",
   "shiba-theme-settings@@shib-colorful-folders-radius": 4,
   "shiba-theme-settings@@shib-colorful-folders-opacity": 0.9,
-  "encore-settings@@theme-dark": "encore-theme-dark-carbon"
+  "encore-settings@@theme-dark": "encore-theme-dark-carbon",
+  "encore-settings@@colors": "encore-colors-colorful"
 }
