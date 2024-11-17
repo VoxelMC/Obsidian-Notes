@@ -1,5 +1,9 @@
+## Details
+
+49 y/o male
+
 ## 1st Vindicate
-- Smoker - 20 years.
+- Smoker - 20-pack-years.
 - Hypertension
 - Psychological issues
 	- Poor memory or orientation - disoriented
@@ -55,3 +59,30 @@
 	- MMSE confirmed memory loss.
 
 This is not the beginning of AD, but it might be the beginning of Dementia.
+
+# Monday, Mar 18, 2024
+###### Topic: **...**
+Lecture Link:
+
+## Todo/Assignments
+
+- [ ]
+
+## Notes
+
+### What's ruled out?
+
+- No delirium -> no major depression or primary anxiety disorder to suppor the MCI
+- No strange medications. Maybe some interaction between ramipril and hydrochlorothiazide
+- Thyroid is fine
+- No vitamin deficiency
+- No parkinson's, no Lewy, no Crutzfelt-Jakob, 
+- blood's normal
+- might still be cancer
+	- lung or brain
+
+Alzheimer's needs proof of a PROGRESSIVE illness. Send the man away and tell him to come back later. If it doesn'y get better, get imaging.
+
+**Cochrane database of systematic review**
+**UBC Therapeutics Initiative**
+**Write 13 more reliable sources from the list...**

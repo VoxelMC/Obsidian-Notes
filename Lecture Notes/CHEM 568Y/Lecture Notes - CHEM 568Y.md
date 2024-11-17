@@ -417,8 +417,8 @@ It:
 - is seen in very large molecules; and
 - occurs at the difference in Larmor frequencies.
 
-Do these nOes cancel out in a range?
-- Yes, around 1 kDa. 
+**Do these nOes cancel out in a range?**
+- **Yes, around 1 kDa.** 
 	- They show little-to-no nOe.
 - ROESY uses a spin-lock instead of continuous irradiation, so you don't see zero-quantum, so you can measure nOe in those molecules.
 
@@ -908,4 +908,250 @@ Second gradient: p(Gz) = +1(-4) <- filtered out, 13C SQC.
 
 ![[Lecture Notes - CHEM 568Y Tu 05-Mar 2024 13.20.excalidraw]]
 
+# Tuesday, Mar 12, 2024
+###### Topic: **2D NMR**
 
+## Notes
+
+### How does it work?  **Basic anatomy of a 2D experiment**
+Phases:
+1. Preparatory
+	- 90 degrees on *something*
+2. Evolution 
+	- Often for CSE, except for the J-resolution, where it is for scalar evolution.
+3. Mixing 
+	- Transferring magnetization from **A to B**
+	- Coherence transfer, OR
+	- nOe transfer
+5. Detection
+	- Measure FID for B
+
+### HETCOR
+
+To figure this out, we will look at the HETCOR. 
+- This sequence is a 2D INEPT
+
+![[Lecture Notes - CHEM 568Y Tu 12-Mar 2024 12.16.excalidraw]]
+
+Problem 1: both scalar and chemical shift evolution are happening during t1 *(2)*
+- Just looking at antiphase terms, $2I_xS_z$ for example
+	- Proton phase oscillates with its Larmor, obviously
+	- But, this is added to the carbon acquisition, and we have something like a carrier wave (it is a carrier wave) if we array t1
+	- You can do ANOTHEr FT on this carrier wave to get the FREQUENCY of the PROTON that is attached to the carbon peak.
+
+#### Chemical Shift Evolution during t1
+
+Remembering that Iy and Ix do not undergo coherence transfer, $2I_yS_z$ 
+![[Lecture Notes - CHEM 568Y Tu 12-Mar 2024 12.33.excalidraw]]
+
+It takes (1/2J) for a doublet to evolve to anti-phase.
+![[Lecture Notes - CHEM 568Y Tu 12-Mar 2024 12.43.excalidraw]]
+
+To do that, though, we need everything to be in phase at the time of the red line.
+- Use a Spin Echo
+	- 180 degrees on carbon in the middle of time *t*
+
+![[Lecture Notes - CHEM 568Y Tu 12-Mar 2024 12.50.excalidraw]]
+
+Now, detect an anti-phase doublet.
+- if you decoupled right now, there would be no signal because the anti-phase peak cancels out.
+- We need refocusing time now, but we are now 13C, so we can be doublets, triplets, and quartets
+	- d: 1/2J
+	- t: 1/4J
+	- q: ~1/5J
+	- The best compromise is 1/3J, which gives an ok signal for all possibilities.
+
+> Almost there :)
+
+![[Lecture Notes - CHEM 568Y Tu 12-Mar 2024 12.58.excalidraw]]
+
+Refocusing 1H-1H scalar evolution requires a "selective" 180-degree pulse that lets us target **only protons on 12C**
+
+#### The BIRD sequence
+
+![[Lecture Notes - CHEM 568Y Tu 12-Mar 2024 13.03.excalidraw]]
+
+> **Bi**linear **R**otation **D**ecoupling
+
+**Thought Experiment**
+What happens to a proton that is on:
+- 13C: $$Iz \xrightarrow{90_x} -I_{y} 
+\xrightarrow{\frac{1}{2J}} 2I_xS_z 
+\xrightarrow{180_y (^1\text{H); } 180 (^{13}\text{C})} 2I_{-x}S_{-z}
+\xrightarrow{\frac{1}{2J}} I_y
+\xrightarrow{90_x(^1\text{H})} I_z
+$$
+- 12C: 
+$$Iz \xrightarrow{90_x} -I_{y} 
+\xrightarrow{\frac{1}{2J}} -I_y  
+\xrightarrow{180_y (^1\text{H); } 180 (^{13}\text{C})} -I_y 
+\xrightarrow{\frac{1}{2J}} -I_y
+\xrightarrow{90_x(^1\text{H})} -I_z
+$$
+
+No scalar evolution at 1/2J in 12C exists because 12C cannot be α or β.
+- You just inverted all signals for a proton on a 12C.
+- This is true for any starting magnetization because they should be identical at any given instance.
+
+#### Side Note: Magnitude Mode
+
+Perform full phase-cycling and sum up the squares of our real + imaginary FIDs.
+- The actual magnitude of the peak that goes to the interferogram is $\sqrt{(real)^2+(imaginary)^2}$ so the phase issue that happens during the last 1/2J due to chemical shift evolution is not evident in the interferogram.
+
+# Tuesday, Mar 19, 2024
+###### Topic: **The Spin Lock**
+
+## Notes
+
+Presentation on the 9th in class on jRES 2D
+- Lead in with the 1D
+
+Need the thesis handed to shipley this week
+abstract done
+
+### Spin coupling redux
+
+Leaning peaks -> deviation from first-order coupling
+
+#### What is first order and what is higher order?
+
+$\frac{\Delta\nu}{J}>8$ is first-order
+
+a-b quartet is 2 non-first-order doublets next to one another
+
+- Move the doublets closer together, and you get more non-first-order multiplets
+
+As Δν/J gets smaller and smaller, the protons become more and more strongly coupled.
+- If any protons in a spin system are strongly coupled, the whole system is strongly coupled.
+- Most commonly, this is long alkyl chains.
+
+##### How would you solve this, if it were a problem?
+
+Buy a bigger magnet! Δν is dependent on Bo, so just go buy a bigger magnet lol
+
+Another phenomenon that couses n.f.o coupling is magnetic inequivalence.
+
+![[Lecture Notes - CHEM 568Y Tu 19-Mar 2024 12.35.excalidraw]]
+
+Ha couples to Hb with a 7-8 Hz J, but couples to Hb' with around 1-2 Hz. You cannot couple with the same system twice with different J's, so it is magnetically inequivalent.
+
+Same occurs for Ortho substitution, where Ha and Hb couple with around 2 Hz and Ha and Hb' couple with barely a Hz. Still magnetically inequivalent.
+
+![[Pasted image 20240319124128.png]]
+
+Top wedges are Ha and hashes are Hb.
+
+##### What is the spin lock?!
+
+We have messed around with spin operators. When we do a pulse on x, it rotates CCW around the x axis, and so on. However, if the vector falls on the x axis, nothing happens! Well, it looks like nothing happens. Instead, the magnetization is trapped on that axis. If we keep this pulse on, anything on the x axis would not move but anything else would keep a-spinnin' around.
+- This field is quite weak. 75000x weaker than Bo. 
+	- Thus, T2* is very short. This dephases anything off the trapped axis quickly.
+
+**A spin lock is...**
+- Low-ish power pulse (12-33% of a hard pulse like a 90)
+- `pw` is 100s of milliseconds. Very long compared to 15 μs
+- Weak and crude magnetic field
+
+During the spin lock, B0 becomes negligent in $\text{B}_{eff}$, so we only have this weak and crude pulse-generated field present. 
+- Since B1 is ~75000x weaker, $\frac{\Delta\nu}{J}$ approaches zero. Thus, **ALL** coupling becomes **STRONG** coupling.***
+- This is useful for things like the TOCSY and ROESY.
+- We can play with both the through-space (now along x axis instead) + with scalar coupling (now all spin systems are strongly coupled).
+
+### Through space with the Spin Lock
+
+During the spin lock, magnetization transfer by nOe is all double quantum (DQ) due to the resonant frequency being so low.
+- This is the building block for the ROESY.
+
+#### The ROESY
+
+No constraints with the size of the molecule gives peaks with areas dependent on 1/r^6, up to ~5Å. 
+
+Definitely suffers from COSY artifacts
+
+### Scalar use of spin locks
+
+Taking advantage of $\frac{\Delta\nu}{J}\to 0$
+All coupling interactions are strong, giving rise to virtual coupling
+This percolates coherence through the entire system!
+You need to be careful not to overheat your sample.
+
+![[Lecture Notes - CHEM 568Y Tu 19-Mar 2024 13.07.excalidraw]]
+
+Only the selected proton survives, but the spin lock enables that proton to give the magnetization to its spin system due to strong coupling.
+
+# Tuesday, Mar 26, 2024
+###### Topic: **COSY and HSQC**
+
+## Notes
+
+### COSY
+
+![[Lecture Notes - CHEM 568Y Tu 26-Mar 2024 12.11.excalidraw]]
+
+The basic COSY sequence. 
+Residual coherence that did not transfer is not being detected. You _can_ detect it if you detect the other nucleus. Carbon during an INEPT, for example.
+
+> t1 is varied for the COSY
+
+#### Product Operator Treatment of the COSY
+
+If at reference, there is no visible precession in the rotating frame. 
+A and B process faster or slower than the reference, and since things are always doublets, there is always scalar evolution. COSY doesn't refocus either of these, so we must treat them.
+
+1. Preparation
+	1. $I^a_{y} \xrightarrow{90_x} -I^a_y$
+2. evolution
+	1. CSE 
+	$$
+	-I^a_y \xrightarrow{t_1} -I^a_y cos(\Omega^at_1) + I^a_x cos(\Omega^at_1)
+	$$
+	2. Scalar
+	$$
+	I^a_x = I^a_x cos (\pi J t_1) + 2 I^a_y I^a_z sin(\pi J t_1)
+	$$
+	$$
+	I^a_y = I^a_y cos (\pi J t_1) + 2 I^a_x I^a_z sin(\pi J t_1)
+	$$
+	gives
+	$$
+	-[I^a_y cos (\pi J t_1) + 2 I^a_x I^a_z sin(\pi J t_1)] cos(\Omega^at_1) + 
+	[I^a_x cos (\pi J t_1) + 2 I^a_y I^a_z sin(\pi J t_1)] 
+	cos(\Omega^at_1) =
+	$$
+	$$
+	-I^a_y cos (\Omega^a t_1) cos (\pi J t_1) + 
+	2I^a_x I^b_z cos (\Omega^a t_1) sin (\pi J t_1) +
+	I^a_x sin (\Omega^a t_1) cos (\pi J t_1) +
+	2I^a_y I^b_z sin (\Omega^a t_1) sin (\pi J t_1) 
+	$$
+Abbreviating `cos` terms as `c`, `sin` as `s`, and scalar evolution with a prime, we have
+$-I^a_y cc' + 2I^a_x I^b_z cs' +I^a_x sc' +2I^a_y I^b_z ss'$
+3. Mixing is a 90x 
+	1. $-I^a_z cc' + 2I^a_xI^b_{-y} cs' + I^a_x sc' + 2I^a_zI^b_{-y}$
+	2. Rewriting in terms of detected nuclei: $-I^a_z cc' + 2I^a_xI^b_{-y} cs' + I^a_x sc' + 2I^b_{-y}I^a_z$
+4. FID
+	1. $I^a_z$ has no coherence, so not detected
+	2. $2I^a_zI^b_{-y}$ is double quantum, so not detected
+	3. $I^a_x$ is single quantum, and in phase.
+	4. $2I^b_{-y}I^a_z$ is single quantum, and in anti-phase. This is where the magic is! *here, we encode Ωa into $I_b$'s peak.*
+
+### HSQC
+
+1. Create coherence in proton (I). Why? If we start with this population, we already have 4x more signal than if we start with carbon. If we do it twice, (detecting proton), we actually get a 16-fold increase.
+
+> COSY has unclean coherence transfer. Only one part was the term that undergoes coherence transfer.
+
+2. Transfer coherence to 13C
+3. Allow for chemical shift evolution in C13
+	1. JRES only scalar evolution, BTW.
+	2. Need to encode chemical shift of the undetected nucleus somehow. 
+4. Transfer back to proton
+5. Detect~!
+
+#### Basic experiment that doesn't work very well
+
+![[Lecture Notes - CHEM 568Y Tu 26-Mar 2024 12.57.excalidraw]]
+
+The problem here is that there is scalar evolution. How do we get rid of scalar??? 180-degree spin-echo on JUST PROTON halfway through evolution.
+
+![[Lecture Notes - CHEM 568Y Tu 26-Mar 2024 13.01.excalidraw]]

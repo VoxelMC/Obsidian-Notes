@@ -328,3 +328,24 @@ R-free: refined vs. non-refined data
 #### Percentile Rankings
 
 ### Phyre2
+
+# Wednesday, Mar 13, 2024
+###### Topic: **Protein Structural Elucidation**
+
+## Notes
+
+Test cutoff at the end of the chaperone figure.
+
+### Protein Presence
+UV-Vis, FTIR
+
+Tagging proteins with tags to determine where they are in the cell.
+
+#### FTIR
+
+- Limitations:
+	- No quantification
+	- 
+### Secondary Structures
+- Circular dichroism
+	- See how much the compound prefers to absorb light. Biomolecules are typically chiral (all of them)
